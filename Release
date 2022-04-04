@@ -1,0 +1,11 @@
+Origin: anubistweaks Repo
+Label: anubistweaks
+Suite: stable
+Version: 1.0
+Codename: anubistweaks
+Architecture: iphoneos-arm
+Components: main
+Description: anubistweaks Tweaks
+MD5Sum:
+ 63d85d16cd5abe7672fa8dc34b505ec4 642 Packages
+ 8bd2ccfa97beb17970c35490b2aa38f0 475 Packages.bz2

@@ -1,0 +1,16 @@
+Package: me.anubistweaks.cocoatoptoggle
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Addons (Flipswitch)
+Maintainer: AnubisTweaks
+Installed-Size: 144
+Depends: mobilesubstrate
+Filename: ./debfiles/me.anubistweaks.cocoatoptoggle_1.0.0_iphoneos-arm.deb
+Size: 9226
+MD5sum: e4cae488f8b52fc44c49aba00d39025c
+SHA1: 40228df1560565f8fd78d3d41b9ff1c3af676f6e
+SHA256: 4de4caf279e6248797482d082d541ef5923c29f203998e6e76d023a0d3f6ed5a
+SHA512: 223ec7500d9cf4e4d4d2e492893b2341f43f1362407b92ff0555d894c6517147e85fb4bdc7803218de88ee80e7f6b7b3626c567f611eb540c32c1016e7dc00a3
+Description: An awesome Control Center module!
+Name: CocoatopToggle
+Author: AnubisTweaks
