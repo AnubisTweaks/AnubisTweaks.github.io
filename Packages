@@ -5,10 +5,10 @@ Maintainer: AnubisTweaks
 Installed-Size: 144
 Depends: mobilesubstrate
 Filename: debfiles/me.anubistweaks.cocoatoptoggle_1.0.0_iphoneos-arm.deb
-Size: 9226
-MD5sum: e4cae488f8b52fc44c49aba00d39025c
-SHA1: 40228df1560565f8fd78d3d41b9ff1c3af676f6e
-SHA256: 4de4caf279e6248797482d082d541ef5923c29f203998e6e76d023a0d3f6ed5a
+Size: 9246
+MD5sum: 5c41a5d390073eb2240f0a03cfaf91ed
+SHA1: 3aa1e650db28e10563af606145e6d468cf9151e5
+SHA256: 02f6b5f7828c25aeba0e803ec60164405a89f7671b20397871a5b92420805a7f
 Section: Tweaks
 Description: https://AnubisTweaks.github.io/description.html?id=me.anubistweaks.cocoatoptoggle
 Author: AnubisTweaks
