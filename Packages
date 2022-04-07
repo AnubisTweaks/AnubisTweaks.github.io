@@ -1,0 +1,18 @@
+Package: me.anubistweaks.cocoatoptoggle
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: AnubisTweaks
+Installed-Size: 144
+Depends: mobilesubstrate
+Filename: ./debfiles/me.anubistweaks.cocoatoptoggle_1.0.0_iphoneos-arm.deb
+Size: 9252
+MD5sum: 02835e7d1e75d18fafef5896bd7dbdad
+SHA1: c553b7821130d7fa4f08c161383a9dcf0960ca3a
+SHA256: 36d9b149b4ee27c063cf2c55ab4387805d1ebaa706e220f0d52ecb763d4ad9fa
+SHA512: d7ac7dfb01973fc661197f33cc8b3cd77f28dc1283f16b9f982e86cf9f568fcd3b5d9be2b8e274cf6f0e035f96a457c36da7141a8bbc1daef729d42e501e231e
+Description: Cocoatop ccToggle.
+Name: CocoatopToggle
+Author: AnubisTweaks
+Depiction: https://AnubisTweaks.github.io/description.html?id=me.anubistweaks.cocoatoptoggle
+
