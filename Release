@@ -1,18 +1,0 @@
-Origin: AnubisTweaks Repo
-Label: AnubisTweaks Repo
-Suite: stable
-Version: 1.0
-Codename: AnubisTweaks
-Architectures: iphoneos-arm
-Components: main
-Description: AnubisTweaks Repo
-MD5Sum:
- 1e98362cfcfddf1dacbbd41125c6a6e5 627 Packages
- f1ab09c5fcece6204d1ea8e3dd8bf325 424 Packages.bz2
- 9b6e569a5439a7d650e3eff811cc338f 400 Packages.gz
- b6918bd6f20b34617da742727ef1e5f9 392 Packages.zst
-SHA256:
- ae6a2bad5cc22be78de76c8698f459b561c220a6b84992d26aca115cf3462cfc 627 Packages
- aeec47eca4908a7ee84f225196e23b00a9abc17ac14b10ba7a196f71a69cb8e0 424 Packages.bz2
- b9d5cf4b96b883f47ba4e82fdf69a0f858e557205df224d097e106cee62b1b94 400 Packages.gz
- 26ba6e5f9ec597eb0a260dcd74a6f31eed2c1cfa5ef4d77f85dc4c45c1c54b41 392 Packages.zst
