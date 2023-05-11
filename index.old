@@ -16,36 +16,10 @@
 		<h2 role="header">AnubisTweaks Repo</h2>
 		<ul>
 			<li class="has-icon">
-				<div class="row" >
-					<div class="column">
-						<center><a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://AnubisTweaks.github.io/">
-							<img style = "border-radius: 20%; margin-left:5%;" width="29" href="./files/cydia7.png" alt="" srcset="./files/cydia7.png 2x, ./files/cydia7.png 3x"/>
-							<br/>
-							<label style = "border-radius: 20%; margin-left:5%;">Open Cydia</label>
-						</a><center/>
-					</div>
-					<div class="column">
-						<center><a href="zbra://sources/add/https://AnubisTweaks.github.io/" >
-							<img style = "border-radius: 20%; margin-left:5%;" width="29" href="./files/zebra.png" alt="" srcset="./files/zebra.png 2x, ./files/zebra.png 3x"/>
-							<br/>
-							<label style = "border-radius: 20%; margin-left:5%;">Open Zebra</label>
-						</a><center/>
-					</div>
-					<div class="column">
-						<center><a href="sileo://source/https://AnubisTweaks.github.io/" >
-							<img style = "border-radius: 20%; margin-left:5%;" width="29" href="./files/sileo.png" alt="" srcset="./files/sileo.png 2x, ./files/sileo.png 3x"/>
-							<br/>
-							<label style = "border-radius: 20%; margin-left:5%;">Open Sileo</label>
-						</a><center/>
-					</div>
-					<div class="column">
-						<center><a href="apt-repo://https://AnubisTweaks.github.io/" >
-							<img style = "border-radius: 20%; margin-left:5%;" width="29" href="./files/saily.png" alt="" srcset="./files/saily.png 2x, ./files/saily.png 3x" class="separat"/>
-							<br/>
-							<label style = "border-radius: 20%; margin-left:5%;">Open Saily</label>
-						</a><center/>
-					</div>
-				</div>
+				<a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://AnubisTweaks.github.io/" role="button">
+					<img style = "border-radius: 20%;" href="cydia7.png" alt="" srcset="cydia7.png 2x, cydia7.png 3x" class="icon"/>
+					<label>Open Cydia</label>
+				</a>
 			</li>
 		</ul>
 		<p style="text-align: center; font-size: 85%;" role="footer" id="neo">Repo: https://AnubisTweaks.github.io/</p>
