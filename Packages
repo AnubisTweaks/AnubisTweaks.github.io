@@ -1,18 +1,38 @@
+Package: com.ichitaso.ringertoggle
+Version: 0.1-2
+Architecture: iphoneos-arm64
+Maintainer: ichitaso
+Installed-Size: 164
+Pre-Depends: firmware (>= 11.0)
+Depends: com.opa334.ccsupport
+Filename: debfiles/com.ichitaso.ringertoggle_0.1-2_iphoneos-arm64.deb
+Size: 19116
+MD5sum: 1df9d22163bcc6bbabd2d6e7a917130d
+SHA1: 190f00ffd7d3b02468ac38e11e6af1004a1db52c
+SHA256: dba3e7847c87ec19b9a37989bdd3ebbe0ed35e3aef5b112cff84b0f1ae39c6b8
+Section: Addons (ControlCenter)
+Homepage: https://ichitaso.com
+Description: Turn on / off Silent Switch from the control center.
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/ringertoggle.html
+Dev: ichitaso
+Icon: file:///Library/ControlCenter/Bundles/RingerToggle.bundle/SettingsIcon@2x.png
+Name: RingerToggle (CCSupport) (rootless)
+
 Package: me.anubistweaks.cocoatoptoggle
-Architecture: iphoneos-arm
 Version: 1.0.0
-Section: Tweaks
+Architecture: iphoneos-arm
 Maintainer: AnubisTweaks
 Installed-Size: 144
 Depends: mobilesubstrate
-Filename: ./debfiles/me.anubistweaks.cocoatoptoggle_1.0.0_iphoneos-arm.deb
-Size: 9252
-MD5sum: 02835e7d1e75d18fafef5896bd7dbdad
-SHA1: c553b7821130d7fa4f08c161383a9dcf0960ca3a
-SHA256: 36d9b149b4ee27c063cf2c55ab4387805d1ebaa706e220f0d52ecb763d4ad9fa
-SHA512: d7ac7dfb01973fc661197f33cc8b3cd77f28dc1283f16b9f982e86cf9f568fcd3b5d9be2b8e274cf6f0e035f96a457c36da7141a8bbc1daef729d42e501e231e
-Description: Cocoatop ccToggle.
-Name: CocoatopToggle
+Filename: debfiles/me.anubistweaks.cocoatoptoggle_1.0.0_iphoneos-arm.deb
+Size: 9226
+MD5sum: e4cae488f8b52fc44c49aba00d39025c
+SHA1: 40228df1560565f8fd78d3d41b9ff1c3af676f6e
+SHA256: 4de4caf279e6248797482d082d541ef5923c29f203998e6e76d023a0d3f6ed5a
+Section: Tweaks
+Description: An awesome Control Center module!
 Author: AnubisTweaks
-Depiction: https://AnubisTweaks.github.io/description.html?id=me.anubistweaks.cocoatoptoggle
+Name: CocoatopToggle
 
