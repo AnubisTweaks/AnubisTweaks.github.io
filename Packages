@@ -80,6 +80,29 @@ Dev: kingpuffdaddi
 Icon: file:///Library/ControlCenter/Bundles/CCVPN.bundle/Icon@2x.png
 Name: CCVPN (rootless)
 
+Package: com.lema.wolf
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 12212
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: debfiles/com.lema.wolf_2.1_iphoneos-arm64.deb
+Size: 2790372
+MD5sum: 8ebf41b7ecf8145466ea808cc8e659b5
+SHA1: 4a5b9489d48cb27a0dd37d1c203ac0e4a4d10084
+SHA256: 69670c0346aff8968af427d0f99237f8d46c7f9f7565370cd158856829184ae9
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wolfDp
+Description: The all-in-one tweak for Facebook
+Tag: purpose::extension
+Author: Michael Lema <samewhitetee@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wolfDp
+Dev: lema
+Icon: file:///Library/Application%20Support/Wolf.bundle/wolf-icon@2x.png
+Name: Wolf (rootless)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.lns.pogr
 Version: 0.2.3
 Architecture: iphoneos-arm64
