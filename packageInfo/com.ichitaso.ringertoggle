@@ -1,0 +1,9 @@
+{
+	"name": "RingerToggle(CCSupport) Rootless",
+	"desc_short": "RingerToggle (CCSupport)",
+	"desc_long": "RingerToggle (CCSupport).<br><br>You can turn on / off Silet Mode from the control center Configure from Control Center in settings.<br><br>زر يضاف الى مركز التحكم لتفعيل وإيقاف وضع الصامت ",
+	"compatitle": " 15 ",
+	"changelog": "<strong>0.1-2</strong>",
+	"screenshot": "<div style='text-align:center;'><a href='https://i.imgur.io/ZfUt68G_d.jpeg' target='_blank'><img width=95% src='https://i.imgur.io/ZfUt68G_d.jpeg'/></a><br></div>",
+	"open": false,
+}
