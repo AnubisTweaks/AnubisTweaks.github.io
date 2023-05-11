@@ -151,6 +151,24 @@ Description: UI Extension for SnowBoard
 Author: Spark
 Name: SnowBoard UI Extension
 
+Package: com.udevs.debhoarder
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: udevs
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: debfiles/com.udevs.debhoarder_1.0.0_iphoneos-arm64.deb
+Size: 6640
+MD5sum: 17281f4541e54fa07bbbf90075621b17
+SHA1: b8fb838775aa5772ec4ffbcda6ca137450d4a94a
+SHA256: 76e255c65be3c0c161abd5b6f99477a44bacbea2b0b2d179e1247adb97457122
+Section: Tweaks
+Description: Backup deb file for Cydia, Zebra, and Installer
+Author: udevs
+Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.debhoarder
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.debhoarder/icon/icon.png
+Name: DebHoarder (rootless)
+
 Package: com.udevs.vpnindicator
 Version: 1.1.6
 Architecture: iphoneos-arm64
