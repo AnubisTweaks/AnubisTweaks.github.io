@@ -1,3 +1,42 @@
+Package: com.0xkuj.deleteallalarms
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 481
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: debfiles/com.0xkuj.deleteallalarms_2.0_iphoneos-arm64.deb
+Size: 64464
+MD5sum: 4f3600b2df21e4c5e79127b8a788c25f
+SHA1: f42a13251cc529d5be20f91c01a12f5469f5b965
+SHA256: 6005f6c0c2993a16f82257e05384e62a9f941892846b1c65548c6f6113b413e0
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=deleteallalarmsDp
+Description: Few actions to affect all alarms
+Tag: purpose::extension, compatible::ios12, compatible::ios13
+Author: 0xkuj <kujmank@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=deleteallalarmsDp
+Dev: 0xkuj
+Icon: file:///Library/PreferenceBundles/GlobalarmsPreferences.bundle/globalarm@2x.png
+Name: GlobAlarmSettings (rootless)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.gilshahar7.exacttime
+Version: 2.0.1
+Architecture: iphoneos-arm64
+Maintainer: gilshahar7
+Installed-Size: 1160
+Depends: mobilesubstrate
+Conflicts: com.gilshahar7.exacttimemail, com.gilshahar7.exacttimephone, com.gilshahar7.exacttimemessages
+Filename: debfiles/com.gilshahar7.exacttime_2.0.1_iphoneos-arm64.deb
+Size: 58204
+MD5sum: 07e2cb232e99e6a0f0385a43fdc43780
+SHA1: de95a4f25a0253bc7db69335c7c9f40971cfc99e
+SHA256: 2c87e2e1d44faf896eb2e75c3c8f9706d6ad911752a858b6fa77141affaf8976
+Section: Tweaks
+Description: Shows the exact time of notifications, messages, calls and emails.
+Author: gilshahar7
+Name: ExactTime (rootless)
+
 Package: com.ichitaso.ringertoggle
 Version: 0.1-2
 Architecture: iphoneos-arm64
@@ -20,6 +59,92 @@ Dev: ichitaso
 Icon: file:///Library/ControlCenter/Bundles/RingerToggle.bundle/SettingsIcon@2x.png
 Name: RingerToggle (CCSupport) (rootless)
 
+Package: com.kingpuffdaddi.control-center.ccvpn
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 114
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Filename: debfiles/com.kingpuffdaddi.control-center.ccvpn_1.0.4_iphoneos-arm64.deb
+Size: 15396
+MD5sum: 9763d43ad6f862cb4b3f4d181f8dfec4
+SHA1: e2b1ba88faf985bbc8bba9665c6f83452100aa4b
+SHA256: 8950fc3df6990ffe36c4439fc8f965e91cf3480dd67349fbc05dca70d50c74a0
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccvpnDp
+Description: A Control Center Module to connect/disconnect VPN
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Author: KingPuffdaddi <kingpuffdaddi@icloud.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccvpnDp
+Dev: kingpuffdaddi
+Icon: file:///Library/ControlCenter/Bundles/CCVPN.bundle/Icon@2x.png
+Name: CCVPN (rootless)
+
+Package: com.lns.pogr
+Version: 0.2.3
+Architecture: iphoneos-arm64
+Maintainer: Ruphane
+Installed-Size: 288
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debfiles/ROOTLESS_com.lns.pogr_0.2.3_iphoneos-arm64.deb
+Size: 12046
+MD5sum: 1c4cd0dfdd69f717008cae2a6295b728
+SHA1: bcfc5355ee158f82393431021ed6959b4c3aa217
+SHA256: 6e91b93dddb885546bbfaa19aba5efcbe7b5444284bc92db25246be783b5bb7d
+Section: Tweaks
+Description: Treat AirPods Pro 2 correctly
+Author: Ruphane
+Name: PodsGrant
+
+Package: com.ps.anywherepredict
+Version: 1.1.3.1
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 8.0)
+Filename: debfiles/AnywherePredict-Rootless.deb
+Size: 5172
+MD5sum: c072c0538f3287ca29fcca9182ca69d5
+SHA1: 3758544c6a3fc83875f834e4223f074fd6329ad1
+SHA256: ed4003cb65738735391933d6c319f2a832bacf8842c5e2eb1b35a8bd32400128
+Section: Tweaks
+Description: Predictive keyboard anywhere.
+Author: PoomSmart
+Name: AnywherePredict
+
+Package: com.spark.snowboard.ui
+Version: 1.2.0~Beta1
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 476
+Depends: mobilesubstrate, com.spark.snowboard (>> 1.2.22)
+Filename: debfiles/com.spark.snowboard.ui_1.2.0~Beta1_iphoneos-arm64.deb
+Size: 90148
+MD5sum: cb96d2c5efbe41ab1a44eba70e580cac
+SHA1: 318d01a5398f3152540545f415d4815dc874a0a3
+SHA256: 24b1cf7a0fb86f8b9ea31e9c108c8c89a3fcbc2befa4b9cd6467c36adb3b2a67
+Section: SnowBoard Extensions
+Description: UI Extension for SnowBoard
+Author: Spark
+Name: SnowBoard UI Extension
+
+Package: com.udevs.vpnindicator
+Version: 1.1.6
+Architecture: iphoneos-arm64
+Maintainer: udevs, squidforce
+Installed-Size: 420
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal
+Filename: debfiles/com.udevs.vpnindicator_1.1.6_iphoneos-arm64.deb
+Size: 63010
+MD5sum: 571cacff074966ac37ffc7c00ac1c4d4
+SHA1: 51d4a92d39e56e4337746b4eb219b4d5b3792133
+SHA256: fa2ee7006da7e824cc336f1e4c1c586c23b4e6a91060d993e543ac420d03c398
+Section: Tweaks
+Description: Indicates VPN state in status bar. 在状态栏的Wifi或蜂窝数据图标显示VPN状态。修复支持rootless
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vpnindicator/icon/icon.png
+Name: VPNIndicator
+
 Package: me.anubistweaks.cocoatoptoggle
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -35,4 +160,37 @@ Section: Tweaks
 Description: An awesome Control Center module!
 Author: AnubisTweaks
 Name: CocoatopToggle
+
+Package: me.anubistweaks.cocoatoptoggle
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: AnubisTweaks
+Installed-Size: 144
+Depends: mobilesubstrate
+Filename: debfiles/me.anubistweaks.cocoatoptoggle_1.0.0_iphoneos-arm64.deb
+Size: 9160
+MD5sum: 7689f035952f88980eb47f9b440af436
+SHA1: 1424a1530e4c597322479662946b62fbbbd88bcc
+SHA256: f0df64b797f91d03146c559f1cc346466795845c7f8def6f4ae705fbc384eb40
+Section: Tweaks
+Description: Cocoatop ccToggle.
+Author: AnubisTweaks
+Depiction: https://AnubisTweaks.github.io/description.html?id=me.anubistweaks.cocoatoptoggle
+Name: CocoatopToggle (rootless)
+
+Package: zp.cocoatop64.unject
+Version: 3.0.1
+Architecture: iphoneos-arm64
+Maintainer: zp, SXX, Domo
+Installed-Size: 484
+Conflicts: ru.domo.cocoatop , ru.domo.cocoatop64 , zp.cocoatop64 , zp.cocoatop64.inject
+Filename: debfiles/zp.cocoatop64.unject_3.0.1_iphoneos-arm64.deb
+Size: 118810
+MD5sum: d840fbf5f171c01b001081964feca17c
+SHA1: e0f0cc07252e9ccbd9880b9f3e578cf4220e5e88
+SHA256: 250c484aa2312691c724026da18a663de090089af2c7801ddf9adcf49942acb0
+Section: Utilities
+Description: Process Viewer for iOS GUI, updated for iOS 15 by zp.
+Author: Domo, SXX , zp
+Name: CocoaTop64( unJECT )
 
