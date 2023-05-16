@@ -59,27 +59,6 @@ Dev: ichitaso
 Icon: file:///Library/ControlCenter/Bundles/RingerToggle.bundle/SettingsIcon@2x.png
 Name: RingerToggle (CCSupport) (rootless)
 
-Package: com.kingpuffdaddi.control-center.ccvpn
-Version: 1.0.4
-Architecture: iphoneos-arm64
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 114
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
-Filename: debfiles/com.kingpuffdaddi.control-center.ccvpn_1.0.4_iphoneos-arm64.deb
-Size: 15396
-MD5sum: 9763d43ad6f862cb4b3f4d181f8dfec4
-SHA1: e2b1ba88faf985bbc8bba9665c6f83452100aa4b
-SHA256: 8950fc3df6990ffe36c4439fc8f965e91cf3480dd67349fbc05dca70d50c74a0
-Section: Tweaks
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccvpnDp
-Description: A Control Center Module to connect/disconnect VPN
-Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
-Author: KingPuffdaddi <kingpuffdaddi@icloud.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccvpnDp
-Dev: kingpuffdaddi
-Icon: file:///Library/ControlCenter/Bundles/CCVPN.bundle/Icon@2x.png
-Name: CCVPN (rootless)
-
 Package: com.lema.wolf
 Version: 2.1
 Architecture: iphoneos-arm64
@@ -134,22 +113,6 @@ Section: Tweaks
 Description: Predictive keyboard anywhere.
 Author: PoomSmart
 Name: AnywherePredict
-
-Package: com.spark.snowboard.ui
-Version: 1.2.0~Beta1
-Architecture: iphoneos-arm64
-Maintainer: Spark
-Installed-Size: 476
-Depends: mobilesubstrate, com.spark.snowboard (>> 1.2.22)
-Filename: debfiles/com.spark.snowboard.ui_1.2.0~Beta1_iphoneos-arm64.deb
-Size: 90148
-MD5sum: cb96d2c5efbe41ab1a44eba70e580cac
-SHA1: 318d01a5398f3152540545f415d4815dc874a0a3
-SHA256: 24b1cf7a0fb86f8b9ea31e9c108c8c89a3fcbc2befa4b9cd6467c36adb3b2a67
-Section: SnowBoard Extensions
-Description: UI Extension for SnowBoard
-Author: Spark
-Name: SnowBoard UI Extension
 
 Package: com.udevs.debhoarder
 Version: 1.0.0
