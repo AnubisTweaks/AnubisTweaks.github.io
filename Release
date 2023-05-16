@@ -3,16 +3,16 @@ Label: AnubisTweaks Repo
 Suite: stable
 Version: 1.0
 Codename: AnubisTweaks
-Architectures: iphoneos-arm
+Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: AnubisTweaks Repo
 MD5Sum:
- 67d615daf666ab8d9e484c9007da90f2 9057 Packages
- e5b84550faf4c5a10f8a8edcbb8ea44c 3543 Packages.bz2
- c17a29fc95e52f7c1d1c7958a157ee2d 3468 Packages.gz
- 68a3dfb5dd3e707d699b0f1ae545ed6a 3386 Packages.zst
+ cc123a53b3a329a254b18d2bb95b323b 9637 Packages
+ 6338b4a88eb4bbb681ed850409e97241 3763 Packages.bz2
+ 290b308b0e73eb1c3ecd54ce98b80aa0 3695 Packages.gz
+ a7379965bc32c2467c9e4a29eed73bd8 3598 Packages.zst
 SHA256:
- 01cb429af492523f44a53b23feb5ca73d6e618ad308de74c3ea70640994391a2 9057 Packages
- 3caccac5af342b4c6847f7e6071d6b7eba987b5ee6c04a12829c9d71d1453bb9 3543 Packages.bz2
- fdad4d337cb412ed4b0d5a4b6f20911f98587877a1a9a6f0e1c3030ff1b6ca30 3468 Packages.gz
- 9a625e3a5324e15e533ffe99e0e3f045003d5d62f89438c3bea00d8a6291453a 3386 Packages.zst
+ 12e22e7aa5ffe0dbaa22df787245a257d7aba698660c7fdd8d4145ea81e0677f 9637 Packages
+ e29908a41f4362b88633cb895993656b59615f1c32ec63e0f49cda66c5b423c3 3763 Packages.bz2
+ 3d46699d63e51c2afec21d5926b4e8e4fe7d78a908e6db48c8451567502d2634 3695 Packages.gz
+ 5060e60158402a55b02ae4f37ba5decf79c4e8f2b067cc776db5d0620d988080 3598 Packages.zst
