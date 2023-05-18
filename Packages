@@ -20,6 +20,22 @@ Icon: file:///Library/PreferenceBundles/GlobalarmsPreferences.bundle/globalarm@2
 Name: GlobAlarmSettings (rootless)
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.ethanrdoesmc.truecuts
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate, firmware (>=13.0)
+Filename: debfiles/com.ethanrdoesmc.truecuts_1.1.0_iphoneos-arm64.deb
+Size: 3620
+MD5sum: af2db456d612d758179527747a0ce4d1
+SHA1: 46705ce96c7997a2b3710280bf44d36cc8c189a1
+SHA256: a4299c10a43a1b0762d4c517cfa1eea1194faad3d5b13db58901b941741b52fb
+Section: Tweaks
+Description: Allow all Shortcuts automations to be run without asking!
+Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Name: Truecuts
+
 Package: com.gilshahar7.exacttime
 Version: 2.0.1
 Architecture: iphoneos-arm64
