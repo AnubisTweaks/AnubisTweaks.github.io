@@ -170,17 +170,18 @@ Name: DebHoarder (rootless)
 Package: com.udevs.vpnindicator
 Version: 1.1.6
 Architecture: iphoneos-arm64
-Maintainer: udevs, squidforce
-Installed-Size: 420
-Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal
+Maintainer: udevs
+Installed-Size: 388
+Depends: mobilesubstrate (>= 0.9.5000), com.creaturesurvive.libcscolorpicker
 Filename: debfiles/com.udevs.vpnindicator_1.1.6_iphoneos-arm64.deb
-Size: 63010
-MD5sum: 571cacff074966ac37ffc7c00ac1c4d4
-SHA1: 51d4a92d39e56e4337746b4eb219b4d5b3792133
-SHA256: fa2ee7006da7e824cc336f1e4c1c586c23b4e6a91060d993e543ac420d03c398
+Size: 63396
+MD5sum: 8ba70d924c81b4a565f437340f1a899c
+SHA1: 1cd13049c5e5401b424339c5d79b591fd72d0386
+SHA256: 54b7df0da0be3c5fd5683a22d1aa17e6831dbc84a973c4ec3ec667dd67e32951
 Section: Tweaks
-Description: Indicates VPN state in status bar. 在状态栏的Wifi或蜂窝数据图标显示VPN状态。修复支持rootless
+Description: Indicates VPN state in status bar
 Author: udevs
+Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.vpnindicator
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vpnindicator/icon/icon.png
 Name: VPNIndicator
 
