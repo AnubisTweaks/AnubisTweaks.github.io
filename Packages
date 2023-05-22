@@ -239,17 +239,17 @@ Depiction: https://AnubisTweaks.github.io/description.html?id=me.anubistweaks.co
 Name: CocoatopToggle (rootless)
 
 Package: netskao.pulloverpro
-Version: 2.1.3-4
+Version: 2.1.3-5
 Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 3376
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Conflicts: com.c1d3r.pulloverpro
-Filename: debfiles/netskao.pulloverpro_2.1.3-4en_iphoneos-arm64.deb
-Size: 867880
-MD5sum: 845058bd7124066e8d5b8bda085db3d3
-SHA1: 5aca618c545609600bee4cb30a5f185bd0bb9f03
-SHA256: fe93da91ca4d9450644146cfbcc341197f0e561159918a9e22c2b410cc749e7d
+Filename: debfiles/netskao.pulloverpro_2.1.3-5_iphoneos-arm64.deb
+Size: 877948
+MD5sum: 804b9713c732f43819feb777e418468d
+SHA1: d71f215078b3fe0de6633651799986d9dbea76fc
+SHA256: ec90f2b70f9aa55e428e83fabf86da1a7ec247cfa9c54339c8e24240a2bd915b
 Section: Netskao-Tweaks
 Description: A better way to multitask! Fix support for iOS15+ English
 Author: c1d3r
