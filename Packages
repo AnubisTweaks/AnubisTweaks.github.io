@@ -5,10 +5,10 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 481
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: debfiles/com.0xkuj.deleteallalarms_2.0_iphoneos-arm64.deb
-Size: 64464
-MD5sum: 4f3600b2df21e4c5e79127b8a788c25f
-SHA1: f42a13251cc529d5be20f91c01a12f5469f5b965
-SHA256: 6005f6c0c2993a16f82257e05384e62a9f941892846b1c65548c6f6113b413e0
+Size: 86304
+MD5sum: 38da36843cd4f8bd59cc48b0fb6f7271
+SHA1: 96004f221b20fc9df38aaeb90a37a2bf47f24040
+SHA256: 0ae2f728896aa78c1843cafab990e54f6724587ad65b94970bcae265312248ea
 Section: Tweaks
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=deleteallalarmsDp
 Description: Few actions to affect all alarms
@@ -74,6 +74,27 @@ Depiction: https://cydia.ichitaso.com/depiction/ringertoggle.html
 Dev: ichitaso
 Icon: file:///Library/ControlCenter/Bundles/RingerToggle.bundle/SettingsIcon@2x.png
 Name: RingerToggle (CCSupport) (rootless)
+
+Package: com.jakeashacks.bounceit
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 143
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: debfiles/com.jakeashacks.bounceit_1.0.4_iphoneos-arm64.deb
+Size: 8818
+MD5sum: 4f820fe22041bcc6ddb43fc949deb6e0
+SHA1: da1fc10bfea823c398e1d1c307974d1c45d4f33f
+SHA256: 62de3f904cbdc67d90fe42c23b3e805d5b93f112ffc567f1163254ac2c668cd6
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bounceitDp
+Description: Add bouncing effect animations on iOS 11/12
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Author: Jake James <jakeashacks@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bounceitDp
+Dev: jakeashacks
+Name: Bounce It! (Reborn)
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.lema.wolf
 Version: 2.1
