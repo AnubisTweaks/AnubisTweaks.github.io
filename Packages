@@ -334,12 +334,12 @@ Package: xyz.xninja.systeminfo
 Version: 2.7.2-3
 Architecture: iphoneos-arm64
 Maintainer: AnubisTweaks
-Depends: mobilesubstrate
+Depends: mobilesubstrate, oldabi
 Filename: debfiles/xyz.xninja.systeminfo_2.7.2-2_iphoneos-arm64.deb
-Size: 272860
-MD5sum: 32760bf04f4cfac94a51ad195e735509
-SHA1: 2c314d9716a3947deb65039297a2887ddd1986b9
-SHA256: f1432a994ffdb26efe3b78a6a56fd23b2c9174c9b78728dbac081f7f75153dc7
+Size: 272868
+MD5sum: e6fa4c8f19d5f866c3653b47bf17ce03
+SHA1: 03e5d5b8316d9e540e1e6f3394b85a41fffbfbed
+SHA256: d528a67a6470368aafb879971dc1323d57be61c21ffe9383cfa9926e98c9e1e8
 Section: Tweaks
 Description: System information in Settings app > General > About, and other sections. Set boot-nonce, save SHSH, battery info etc
 Author: ARX8x + AnubisTweaks
