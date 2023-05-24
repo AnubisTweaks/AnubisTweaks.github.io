@@ -20,6 +20,25 @@ Icon: file:///Library/PreferenceBundles/GlobalarmsPreferences.bundle/globalarm@2
 Name: GlobAlarmSettings (rootless)
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.anubistweaks.keyswipe11
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: AnubisTweaks
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: org.thebigboss.keyswipe
+Filename: debfiles/com.anubistweaks.keyswipe11_1.0.3_iphoneos-arm64.deb
+Size: 19710
+MD5sum: 151c99e9b84a6066406e479a7fa1ff2f
+SHA1: 2525dadd226f3127ddc4363d5eab800aa55ee944
+SHA256: a2f278c5948f0fa04269df119d1e640b9ab33ca9deec072cebd633e498a9f4cc
+Section: Tweaks
+Description: change keyboard by swiping up/down
+Author: Delewhopper, julioverne ,AnubisTweaks
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.keyswipe11
+Dev: delewhopper
+Icon: file:///Library/PreferenceLoader/Preferences/KeySwipe/KeySwipe.png
+Name: KeySwipe (iOS 11) (rootless)
+
 Package: com.ethanrdoesmc.truecuts
 Version: 1.1.0
 Architecture: iphoneos-arm64
