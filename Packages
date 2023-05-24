@@ -94,6 +94,21 @@ Dev: ichitaso
 Icon: file:///Library/ControlCenter/Bundles/RingerToggle.bundle/SettingsIcon@2x.png
 Name: RingerToggle (CCSupport) (rootless)
 
+Package: com.jailbreak365.safeccmodules
+Version: 1.5-2
+Architecture: iphoneos-arm64
+Maintainer: AnubisTweaks
+Filename: debfiles/com.jailbreak365.safeccmodules_1.5-1_iphoneos-arm64.deb
+Size: 1131260
+MD5sum: eb3f5eb1a1e315a3cd1c3e1558db3ccd
+SHA1: 5e45914c7050c7e856dfff0b50395cf92c554315
+SHA256: 6da928fb6e5fa023eeae5d8312b4b22aa38e98039b73daa799822091d55ba658
+Section: Addons (ControlCenter)
+Description: Control center modules for iOS 11/12/13/15. New in v1.5-1: Fix for Tiny Volume and Silent Mode modules causing issues.
+Author: jailbreak365 + AnubisTweaks
+Dev: jailbreak365
+Name: CCModules (rootless)
+
 Package: com.jakeashacks.bounceit
 Version: 1.0.4
 Architecture: iphoneos-arm64
