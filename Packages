@@ -330,6 +330,22 @@ Tag: role::hacker
 Author: yu + AnubisTweaks
 Name: Blackhole Plugin (rootless)
 
+Package: xyz.xninja.systeminfo
+Version: 2.7.2-3
+Architecture: iphoneos-arm64
+Maintainer: AnubisTweaks
+Depends: mobilesubstrate
+Filename: debfiles/xyz.xninja.systeminfo_2.7.2-2_iphoneos-arm64.deb
+Size: 272860
+MD5sum: 32760bf04f4cfac94a51ad195e735509
+SHA1: 2c314d9716a3947deb65039297a2887ddd1986b9
+SHA256: f1432a994ffdb26efe3b78a6a56fd23b2c9174c9b78728dbac081f7f75153dc7
+Section: Tweaks
+Description: System information in Settings app > General > About, and other sections. Set boot-nonce, save SHSH, battery info etc
+Author: ARX8x + AnubisTweaks
+Depiction: https://arx8x.github.io/depictions/systeminfo.html
+Name: System Info (rootless)
+
 Package: zp.cocoatop64.unject
 Version: 3.0.1
 Architecture: iphoneos-arm64
