@@ -115,6 +115,24 @@ Dev: jakeashacks
 Name: Bounce It! (Reborn)
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.julioverne.battrate
+Version: 0.0~beta3
+Architecture: iphoneos-arm64
+Maintainer: AnubisTweaks
+Depends: mobilesubstrate, preferenceloader,oldabi
+Filename: debfiles/com.julioverne.battrate_ battrate_0.0~beta3_iphoneos-arm64.deb
+Size: 61360
+MD5sum: ce1919bc38e6a377ed11256d260a3117
+SHA1: 114302ef76ab2ef0bf79bd4fe054f58372184d93
+SHA256: f4959512a8a2a26bf7a6526edca2bbbda78d8cfdfd0569ec11895fe1e9f6e2ef
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Battery Discharge Rate Monitor
+Author: julioverne + AnubisTweaks
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.battrate
+Icon: file:///Library/PreferenceBundles/BattRateSettings.bundle/icon@2x.png
+Name: BattRate (rootless)
+
 Package: com.lema.wolf
 Version: 2.1
 Architecture: iphoneos-arm64
