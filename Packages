@@ -276,6 +276,23 @@ Description: A better way to multitask! Fix support for iOS15+ English
 Author: c1d3r
 Name: PullOver Pro
 
+Package: run.er.wormctrl
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: AnubisTweaks
+Installed-Size: 1172
+Depends: mobilesubstrate, preferenceloader,oldabi
+Filename: debfiles/run.er.wormctrl_1.1.0_iphoneos-arm64.deb
+Size: 299020
+MD5sum: f9b10ac8d55988c599cb02d68fd26881
+SHA1: 2ac2a6457e89fa93fbe55b4ccd48cb7d00bbf8b9
+SHA256: cbcdb3d7746391eb7dbbe7596435c8c7a01ade1a73dcfe4baae9f6710851d468
+Section: System
+Description: This is the plugin of blackhole.
+Tag: role::hacker
+Author: yu + AnubisTweaks
+Name: Blackhole Plugin (rootless)
+
 Package: zp.cocoatop64.unject
 Version: 3.0.1
 Architecture: iphoneos-arm64
