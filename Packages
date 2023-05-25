@@ -148,6 +148,24 @@ Depiction: https://julioverne.github.io/description.html?id=com.julioverne.battr
 Icon: file:///Library/PreferenceBundles/BattRateSettings.bundle/icon@2x.png
 Name: BattRate (rootless)
 
+Package: com.julioverne.ntspeed
+Version: 0.2~beta10
+Architecture: iphoneos-arm64
+Maintainer: AnubisTweaks
+Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader ,oldabi
+Filename: debfiles/com julioverne.ntspeed_0.2~beta10_iphoneos-arm64.deb
+Size: 52368
+MD5sum: 3ab6008688c8393bc4afeb819a6800e8
+SHA1: d240db13eb90088c5791bc2ca129a17fdb022447
+SHA256: 5bb3731b8b6967b8b19e34b97cfb1fc205c61a1a9542804a0e2a4e38410812db
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: See Active Traffic Network Speed
+Author: julioverne , Anubistweaks
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.ntspeed
+Icon: file:///Library/PreferenceBundles/NtSpeedSettings.bundle/icon@2x.png
+Name: NtSpeed (rootless)
+
 Package: com.lema.wolf
 Version: 2.1
 Architecture: iphoneos-arm64
