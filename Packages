@@ -279,26 +279,6 @@ Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.vpnindicat
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vpnindicator/icon/icon.png
 Name: VPNIndicator
 
-Package: me.alfhaily.rocket
-Version: 3.8.8
-Architecture: iphoneos-arm64
-Maintainer: Rocket App <support@getrocketapp.io>
-Installed-Size: 6504
-Depends: firmware (>= 8.0), mobilesubstrate
-Filename: debfiles/me.alfhaily.rocket_3.8.8_iphoneos-arm64.deb
-Size: 1392008
-MD5sum: 973cf738a08d819374ebc0af5cfeb4b1
-SHA1: afad8a86ca6e9f793364701912467656b2250439
-SHA256: a8d3fc21880928fcaaf4a698b8693e76c99f32daba82674d44a154b6b8662420
-Section: Tweaks
-Priority: optional
-Description: Save posts and view stories anonymously and do much more
-Author: Rocket App
-Depiction: https://apt.alfhaily.me/depiction/4EYOXC
-Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
-Name: Rocket for Instagram (rootless)
-Sileodepiction: https://apt.alfhaily.me/depiction/sileo/4EYOXC
-
 Package: me.anubistweaks.cocoatoptoggle
 Version: 1.0.0
 Architecture: iphoneos-arm
