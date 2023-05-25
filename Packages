@@ -222,6 +222,27 @@ Description: Predictive keyboard anywhere.
 Author: PoomSmart
 Name: AnywherePredict
 
+Package: com.shivesh.truestcuts
+Version: 1.0.0-4
+Architecture: iphoneos-arm64
+Maintainer: AnubisTweaks
+Installed-Size: 198
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: debfiles/com. shivesh.truestcuts_1.0.0-3_iphoneos-arm64.deb
+Size: 5476
+MD5sum: 22d630ad1e2e1f7d363fe79874fff491
+SHA1: 66de89c76b4183ea383b38db5191dc231aa8c21e
+SHA256: f6af713a97de6cb91355881bd64f0afc29753c81f3dd99d437e33f2ca75c2dc0
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=truestcutsDp
+Description: Enables true Automations and removes notifications too.
+Tag: purpose::extension, compatible::ios15
+Author: Shivesh + AnubisTweaks
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=truestcutsDp
+Dev: shivesh
+Name: Truestcuts (rootless)
+Sponsor: https://anubistweaks.github.io
+
 Package: com.udevs.debhoarder
 Version: 1.0.0
 Architecture: iphoneos-arm64
