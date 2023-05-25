@@ -332,23 +332,6 @@ Author: AnubisTweaks
 Depiction: https://AnubisTweaks.github.io/description.html?id=me.anubistweaks.cocoatoptoggle
 Name: CocoatopToggle
 
-Package: netskao.pulloverpro
-Version: 2.1.3-5
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 3376
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Conflicts: com.c1d3r.pulloverpro
-Filename: debfiles/netskao.pulloverpro_2.1.3-5_iphoneos-arm64.deb
-Size: 877948
-MD5sum: 804b9713c732f43819feb777e418468d
-SHA1: d71f215078b3fe0de6633651799986d9dbea76fc
-SHA256: ec90f2b70f9aa55e428e83fabf86da1a7ec247cfa9c54339c8e24240a2bd915b
-Section: Netskao-Tweaks
-Description: A better way to multitask! Fix support for iOS15+ English
-Author: c1d3r
-Name: PullOver Pro
-
 Package: run.er.wormctrl
 Version: 1.1.0
 Architecture: iphoneos-arm64
