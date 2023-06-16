@@ -1,25 +1,3 @@
-Package: com.0xkuj.deleteallalarms
-Version: 2.0
-Architecture: iphoneos-arm64
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 481
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: debfiles/com.0xkuj.deleteallalarms_2.0_iphoneos-arm64.deb
-Size: 86304
-MD5sum: 38da36843cd4f8bd59cc48b0fb6f7271
-SHA1: 96004f221b20fc9df38aaeb90a37a2bf47f24040
-SHA256: 0ae2f728896aa78c1843cafab990e54f6724587ad65b94970bcae265312248ea
-Section: Tweaks
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=deleteallalarmsDp
-Description: Few actions to affect all alarms
-Tag: purpose::extension, compatible::ios12, compatible::ios13
-Author: 0xkuj <kujmank@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=deleteallalarmsDp
-Dev: 0xkuj
-Icon: file:///Library/PreferenceBundles/GlobalarmsPreferences.bundle/globalarm@2x.png
-Name: GlobAlarmSettings (rootless)
-Sponsor: thebigboss.org <http://thebigboss.org>
-
 Package: com.anubistweaks.keyswipe11
 Version: 1.0.3
 Architecture: iphoneos-arm64
@@ -71,6 +49,28 @@ Section: Tweaks
 Description: Shows the exact time of notifications, messages, calls and emails.
 Author: gilshahar7
 Name: ExactTime (rootless)
+
+Package: com.ichitaso.autobrightness11
+Version: 0.1-5
+Architecture: iphoneos-arm64
+Maintainer: ichitaso
+Installed-Size: 152
+Pre-Depends: firmware (>= 11.0)
+Depends: com.opa334.ccsupport
+Filename: debfiles/com.ichitaso.autobrightness11_0.1-5_iphoneos-arm64.deb
+Size: 13512
+MD5sum: e8903a67e14b8aa1cd1ede295f844e2b
+SHA1: a0ad8a9c33c3c29a9616b3502ec3af18196cd2b5
+SHA256: 4dbb029a3790d9999eb4ccd9289b9e0a23b84212278617d0cdf612ec1a30cebc
+Section: Addons (ControlCenter)
+Homepage: https://ichitaso.com
+Description: Turn on / off Auto-Brightness from the control center.
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/autobrightness11.html
+Dev: ichitaso
+Icon: file:///Library/ControlCenter/Bundles/AutoBrightness.bundle/SettingsIcon@2x.png
+Name: AutoBrightnessToggle (CCSupport) (rootless)
 
 Package: com.ichitaso.ringertoggle
 Version: 0.1-2
@@ -188,22 +188,6 @@ Dev: lema
 Icon: file:///Library/Application%20Support/Wolf.bundle/wolf-icon@2x.png
 Name: Wolf (rootless)
 Sponsor: thebigboss.org <http://thebigboss.org>
-
-Package: com.lns.pogr
-Version: 0.2.3
-Architecture: iphoneos-arm64
-Maintainer: Ruphane
-Installed-Size: 288
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debfiles/ROOTLESS_com.lns.pogr_0.2.3_iphoneos-arm64.deb
-Size: 12046
-MD5sum: 1c4cd0dfdd69f717008cae2a6295b728
-SHA1: bcfc5355ee158f82393431021ed6959b4c3aa217
-SHA256: 6e91b93dddb885546bbfaa19aba5efcbe7b5444284bc92db25246be783b5bb7d
-Section: Tweaks
-Description: Treat AirPods Pro 2 correctly
-Author: Ruphane
-Name: PodsGrant
 
 Package: com.pantsthief.flexing
 Version: 1.5.0
