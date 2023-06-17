@@ -245,6 +245,25 @@ Dev: shivesh
 Name: Truestcuts (rootless)
 Sponsor: https://anubistweaks.github.io
 
+Package: com.strejda603.truecallerpremiumgold
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: strejda603 <strejda603@centrum.cz>
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: debfiles/com.strejda603.truecallerpremiumgold_1.0.0_iphoneos-arm64.deb
+Size: 5920
+MD5sum: 718cbaaa4164d956bffe4aba190cbf77
+SHA1: 319342094289881a441f9794b3a8251c9c5e9fad
+SHA256: 3584fb3417ddc2369b59489fe5ff6878aea50ea81f347562ddccadb2a0d053d1
+Section: Tweaks
+Homepage: https://repo.danielpitra.cz
+Description: Enables Premium Gold features.
+Author: strejda603 <strejda603@centrum.cz>
+Depiction: https://repo.danielpitra.cz/depiction.php?id=com.strejda603.truecallerpremiumgold
+Name: Truecaller (Premium Gold) (rootless)
+Sileodepiction: https://repo.danielpitra.cz/sileo-depiction.php?id=com.strejda603.truecallerpremiumgold
+
 Package: com.udevs.debhoarder
 Version: 1.0.0
 Architecture: iphoneos-arm64
