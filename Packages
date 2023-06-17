@@ -72,6 +72,28 @@ Dev: ichitaso
 Icon: file:///Library/ControlCenter/Bundles/AutoBrightness.bundle/SettingsIcon@2x.png
 Name: AutoBrightnessToggle (CCSupport) (rootless)
 
+Package: com.ichitaso.locationservicecc
+Version: 0.1-5
+Architecture: iphoneos-arm64
+Maintainer: ichitaso
+Installed-Size: 212
+Pre-Depends: firmware (>= 11.0)
+Depends: com.opa334.ccsupport (>= 1.2)
+Filename: debfiles/com.ichitaso.locationservicecc_0.1-5_iphoneos-arm64.deb
+Size: 37460
+MD5sum: 454617c4b49ca9a41854fedc48fe75e9
+SHA1: 26d7a8a2791b9540e1eeff79b23ca7f34f175f52
+SHA256: 9ccd1e6f0c186983c89f7e056f1b2e7bdb61cd81bc3f7341d784c27fc18e8062
+Section: Addons (ControlCenter)
+Homepage: https://ichitaso.com
+Description: Turn on / off LocationService from the control center.
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/locationservicecc.html
+Dev: ichitaso
+Icon: file:///Library/ControlCenter/Bundles/LocationService.bundle/SettingsIcon@2x.png
+Name: LocationService (CCSupport) (rootless)
+
 Package: com.ichitaso.ringertoggle
 Version: 0.1-2
 Architecture: iphoneos-arm64
@@ -189,6 +211,24 @@ Icon: file:///Library/Application%20Support/Wolf.bundle/wolf-icon@2x.png
 Name: Wolf (rootless)
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.miro.alwaysautofill
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 140
+Depends: firmware (>=12.0), mobilesubstrate
+Filename: debfiles/com.miro.alwaysautofill_1.0_iphoneos-arm64.deb
+Size: 4492
+MD5sum: bd781a07950af06c48cd95c7d713f77d
+SHA1: 68bffee7a8488ab4bd593a460fc6cc97cefa2bc4
+SHA256: 0649a58d8357a277bc093c91810003fe3aebb6b251517cb1f4e96eaff608be47
+Section: Tweaks
+Description: Always show Autofill Passwords in Predictive Bar.
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios14
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.alwaysautofill
+Name: AlwaysAutoFill (rootless)
+
 Package: com.pantsthief.flexing
 Version: 1.5.0
 Architecture: iphoneos-arm64
@@ -244,6 +284,44 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=truestcuts
 Dev: shivesh
 Name: Truestcuts (rootless)
 Sponsor: https://anubistweaks.github.io
+
+Package: com.strejda603.adobephotoshopexpresspremium
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: strejda603 <strejda603@centrum.cz>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: debfiles/com.strejda603.adobephotoshopexpresspremium_1.0.0_iphoneos-arm64.deb
+Size: 4320
+MD5sum: 620883c97dec75c8b7d521a9c99658a2
+SHA1: bb3da5b8a72d8d3f5f64944048c2440825ff929b
+SHA256: 6fb5dbb36dc69922b26b01afd0b0fb25ad7112e7e81a2e9ddc5b1bae4bcbe056
+Section: Tweaks
+Homepage: https://repo.danielpitra.cz
+Description: Enables Premium features.
+Author: strejda603 <strejda603@centrum.cz>
+Depiction: https://repo.danielpitra.cz/depiction.php?id=com.strejda603.adobephotoshopexpresspremium
+Name: Adobe Photoshop Express (Premium) (rootless)
+Sileodepiction: https://repo.danielpitra.cz/sileo-depiction.php?id=com.strejda603.adobephotoshopexpresspremium
+
+Package: com.strejda603.speedtestadsfree
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: strejda603 <strejda603@centrum.cz>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: debfiles/com.strejda603.speedtestadsfree_1.0.0_iphoneos-arm64.deb
+Size: 3848
+MD5sum: 54c2c53236196481c7951a3463d1e4ec
+SHA1: 4490e88d45c4984a11c6923b8680bf0acfacba8f
+SHA256: 8379d4e54450c0ac4d9844ed00b4273cecbe3dad9fd325908a7ebd68d48abf92
+Section: Tweaks
+Homepage: https://repo.danielpitra.cz
+Description: Removes Ads.
+Author: strejda603 <strejda603@centrum.cz>
+Depiction: https://repo.danielpitra.cz/depiction.php?id=com.strejda603.speedtestadsfree
+Name: Speedtest (Ads Free) (rootless)
+Sileodepiction: https://repo.danielpitra.cz/sileo-depiction.php?id=com.strejda603.speedtestadsfree
 
 Package: com.strejda603.truecallerpremiumgold
 Version: 1.0.0
