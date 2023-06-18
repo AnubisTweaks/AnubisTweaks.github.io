@@ -342,6 +342,21 @@ Depiction: https://repo.danielpitra.cz/depiction.php?id=com.strejda603.truecalle
 Name: Truecaller (Premium Gold) (rootless)
 Sileodepiction: https://repo.danielpitra.cz/sileo-depiction.php?id=com.strejda603.truecallerpremiumgold
 
+Package: com.twickd.meblackhat.autoredial
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: MeBlackHat <MeBlackHat@protonmail.com>
+Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debfiles/com.twickd.meblackhat.autoredial_2.0_iphoneos-arm64.deb
+Size: 17328
+MD5sum: dc265f189a1c2d903c945d610b74bee5
+SHA1: c20e4adf0d99d04579508d510fca96fe8f87a68a
+SHA256: 4745a99530c7a993d7ec394523d2df6b1d94bfaa5e21f1b371adf00319542460
+Section: Tweaks
+Description: MeBlackHat Tweaks
+Author: MeBlackHat <MeBlackHat@protonmail.com>
+Name: AutoRedial
+
 Package: com.udevs.debhoarder
 Version: 1.0.0
 Architecture: iphoneos-arm64
