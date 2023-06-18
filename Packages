@@ -33,6 +33,26 @@ Description: Allow all Shortcuts automations to be run without asking!
 Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
 Name: Truecuts
 
+Package: com.fiore.calculatorhistory
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: Donato Fiore <donato.v.fiore@gmail.com>
+Filename: debfiles/com.fiore.calculatorhistory_1.1.2_iphoneos-arm64.deb
+Size: 15984
+MD5sum: b7ecf0c90a0634f5df5094a67e7c7e7a
+SHA1: c17df351d2fa7a43f5efa6b61e5874498a251f4a
+SHA256: 06ed2b09584c7a7ef08928df3b10e4371df55e3d281992a0cd316b51a2a84d21
+Section: Tweaks
+Homepage: https://donato-fiore.github.io/repo
+Description: Calculator gets a history!
+Author: Donato Fiore <donato.v.fiore@gmail.com>
+Depiction: https://donato-fiore.github.io/repo/depiction/web/com.fiore.calculatorhistory.html
+Icon: https://donato-fiore.github.io/repo/assets/com.fiore.calculatorhistory/icon.png
+Moderndepiction: https://donato-fiore.github.io/repo/depiction/native/com.fiore.calculatorhistory.json
+Name: CalculatorHistory (rootless)
+Sileodepiction: https://donato-fiore.github.io/repo/depiction/native/com.fiore.calculatorhistory.json
+Tags: compatible_min::ios13.0, compatible_max::ios15.0
+
 Package: com.gilshahar7.exacttime
 Version: 2.0.1
 Architecture: iphoneos-arm64
@@ -228,6 +248,24 @@ Tag: purpose::extension, compatible_min::ios12, compatible_max::ios14
 Author: MiRO <tweaks_support@miro92.com>
 Depiction: https://miro92.com/repo/depictions/?p=com.miro.alwaysautofill
 Name: AlwaysAutoFill (rootless)
+
+Package: com.miro.perfectcalc
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 168
+Depends: firmware (>=13.0), mobilesubstrate
+Filename: debfiles/com.miro.perfectcalc_1.0_iphoneos-arm64.deb
+Size: 6068
+MD5sum: 8ae113a80d7caa3f7ebfa7d5b199a55a
+SHA1: 41293e30d0a4bf553424262547a35e44227b79c6
+SHA256: 8ff1c09462594d59c656ba33b06996775419ec15fe63cbb3c6c9aec4b6becea1
+Section: Tweaks
+Description: A tweak that keeps the calculations in the Calculator app
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.perfectcalc
+Name: PerfectCalc (rootless)
 
 Package: com.pantsthief.flexing
 Version: 1.5.0
