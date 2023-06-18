@@ -302,6 +302,22 @@ Description: Predictive keyboard anywhere.
 Author: PoomSmart
 Name: AnywherePredict
 
+Package: com.qiop1379.anactuallygoodfilzaeditor
+Version: 0.1.0~beta2
+Architecture: iphoneos-arm64
+Maintainer: AnubisTweaks
+Installed-Size: 620
+Depends: mobilesubstrate
+Filename: debfiles/com.qiop1379.anactuallygoodfilzaeditor_0.1.deb
+Size: 98920
+MD5sum: 0aec9dd8d9d6c609b0a9fa310f940b23
+SHA1: 51895c8e4f4aa146e057ed9c2054428275bb6b4c
+SHA256: e16551d8871bde3af11cf6be946bfc3d9d691d416d740533a54055b156f51b8d
+Section: Tweaks
+Description: Transform the Filza text editor. Adds themes and syntax highlighting.
+Author: qwertyuiop1379 + AnubisTweaks
+Name: AnActuallyGoodFilzaEditor
+
 Package: com.shiftcmdk.permaflex
 Version: 1.0.3-21+debug
 Architecture: iphoneos-arm64
