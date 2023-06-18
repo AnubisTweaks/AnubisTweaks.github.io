@@ -303,6 +303,22 @@ Author: PoomSmart
 Name: AnywherePredict
 
 Package: com.qiop1379.anactuallygoodfilzaeditor
+Version: 0.1.0~beta1
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379
+Installed-Size: 620
+Depends: mobilesubstrate
+Filename: debfiles/com.qiop1379.anactuallygoodfilzaeditor_0.1.0~beta1_iphoneos-arm.deb
+Size: 98516
+MD5sum: 4687e5e88142e015e0d5a659a967bd86
+SHA1: dfe4e525a575dc4200b4b8b36aeff859acb6972a
+SHA256: cfef6e5e3174629c0293138987ce1fd71b5d82e39e118b61ab224a1e314af649
+Section: Tweaks
+Description: Transform the Filza text editor. Adds themes and syntax highlighting.
+Author: qwertyuiop1379
+Name: AnActuallyGoodFilzaEditor
+
+Package: com.qiop1379.anactuallygoodfilzaeditor
 Version: 0.1.0~beta2
 Architecture: iphoneos-arm64
 Maintainer: AnubisTweaks
@@ -317,22 +333,6 @@ Section: Tweaks
 Description: Transform the Filza text editor. Adds themes and syntax highlighting.
 Author: qwertyuiop1379 + AnubisTweaks
 Name: AnActuallyGoodFilzaEditor
-
-Package: com.qiop1379.copy
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: qwertyuiop1379
-Installed-Size: 120
-Depends: mobilesubstrate
-Filename: debfiles/com.qiop1379.copy_1.0.1_iphoneos-arm.deb
-Size: 7914
-MD5sum: f89b28fcfbde681b4e45063a6b38feb8
-SHA1: 50c2a6996ce4b3f811d47f9037199f4727ebe851
-SHA256: 56bc9fadbb6e59cfe837aa25eaaf75098873036452603cac54488a8ba8d1b153
-Section: Tweaks
-Description: Triple tap on UILabels to select and copy text
-Author: qwertyuiop1379
-Name: Copy!
 
 Package: com.shiftcmdk.permaflex
 Version: 1.0.3-21+debug
