@@ -271,10 +271,10 @@ Maintainer: bgli100
 Installed-Size: 424
 Depends: mobilesubstrate, firmware (>= 15.0)
 Filename: debfiles/com.shiftcmdk.permaflex_1.0.3-21+debug_iphoneos-arm64.deb
-Size: 47154
-MD5sum: 763e62db8283eea9ba231ffc4cf651d7
-SHA1: be693e81fc6e82d282ba41e13f8b003aa501f4c5
-SHA256: 83b2414248e80c32a17d5889eab9fd28ff153fe4c7b0f2107ed707236039e6d8
+Size: 43732
+MD5sum: dc2187301cb97d8eafff16a22f077f37
+SHA1: 1fa8adf5892e16415702f00e5e33cb3e33a55038
+SHA256: 4dd683eec0b745498f3c6c4398675689ddf8394f6f9a644063bc71fa2795d010
 Section: Tweaks
 Description: Permanently hide elements with FLEXible.
 Author: shiftcmdk
