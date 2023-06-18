@@ -302,6 +302,22 @@ Description: Predictive keyboard anywhere.
 Author: PoomSmart
 Name: AnywherePredict
 
+Package: com.pxcex.labelcopy
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: AnubisTweaks
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: debfiles/com.pxcex.labelcopy_0.0.2_iphoneos-arm64.deb
+Size: 6324
+MD5sum: 1653d0eac2ab413004ef06ce841a7d1a
+SHA1: 27fdaea2d0c429e9dc9a1633e05bc899366c6440
+SHA256: 10cae723af5bb2095c1d9427f73a27cbdaaa01691cd2043bd5b5729f8c5dd2e8
+Section: Tweaks
+Description: Allow Triple Tap on UILabel to Copy.
+Author: pxcex + AnubisTweaks
+Name: LabelCopy
+
 Package: com.qiop1379.anactuallygoodfilzaeditor
 Version: 0.1.0~beta1
 Architecture: iphoneos-arm
