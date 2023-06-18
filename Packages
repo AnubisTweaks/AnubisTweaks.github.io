@@ -264,6 +264,23 @@ Description: Predictive keyboard anywhere.
 Author: PoomSmart
 Name: AnywherePredict
 
+Package: com.shiftcmdk.permaflex
+Version: 1.0.3-21+debug
+Architecture: iphoneos-arm64
+Maintainer: bgli100
+Installed-Size: 424
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: debfiles/com.shiftcmdk.permaflex_1.0.3-21+debug_iphoneos-arm64.deb
+Size: 47154
+MD5sum: 763e62db8283eea9ba231ffc4cf651d7
+SHA1: be693e81fc6e82d282ba41e13f8b003aa501f4c5
+SHA256: 83b2414248e80c32a17d5889eab9fd28ff153fe4c7b0f2107ed707236039e6d8
+Section: Tweaks
+Description: Permanently hide elements with FLEXible.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.permaflex
+Name: PermaFlex
+
 Package: com.shivesh.truestcuts
 Version: 1.0.0-4
 Architecture: iphoneos-arm64
@@ -356,6 +373,24 @@ Section: Tweaks
 Description: MeBlackHat Tweaks
 Author: MeBlackHat <MeBlackHat@protonmail.com>
 Name: AutoRedial
+
+Package: com.udevs.autocorrectionccmodule
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: udevs
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 11.0), com.opa334.ccsupport
+Filename: debfiles/com.udevs.autocorrectionccmodule_1.0.1_iphoneos-arm64.deb
+Size: 12700
+MD5sum: 12a2a9941e0dc4f52c75af30c4e89929
+SHA1: 56be19b569fbd1e54884417869e15e42c1370aae
+SHA256: 23a28a2477a9d279930dbc362f2256f5b68e63334169825da7524d27c560ce6f
+Section: Control Center (Modules)
+Description: Auto-Correction CCModule
+Author: udevs
+Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.autocorrectionccmodule
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.autocorrectionccmodule/icon/icon.png
+Name: AutoCorrectionCCModule (rootless)
 
 Package: com.udevs.debhoarder
 Version: 1.0.0
