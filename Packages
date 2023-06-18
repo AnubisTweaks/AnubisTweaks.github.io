@@ -346,12 +346,12 @@ Package: com.twickd.meblackhat.autoredial
 Version: 2.0
 Architecture: iphoneos-arm64
 Maintainer: MeBlackHat <MeBlackHat@protonmail.com>
-Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
+Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5), oldabi
 Filename: debfiles/com.twickd.meblackhat.autoredial_2.0_iphoneos-arm64.deb
-Size: 17328
-MD5sum: dc265f189a1c2d903c945d610b74bee5
-SHA1: c20e4adf0d99d04579508d510fca96fe8f87a68a
-SHA256: 4745a99530c7a993d7ec394523d2df6b1d94bfaa5e21f1b371adf00319542460
+Size: 17332
+MD5sum: f5675a13ddf02d5c1cdb8a8fb1c2f783
+SHA1: 2404468fa5b1c4a9de874b9c0a19cd974427754c
+SHA256: 2887de8f6740af7c853f94380da2f504d1206c372ac2c7c9bcfe22af4954732e
 Section: Tweaks
 Description: MeBlackHat Tweaks
 Author: MeBlackHat <MeBlackHat@protonmail.com>
