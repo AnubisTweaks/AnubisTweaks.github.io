@@ -518,6 +518,24 @@ Author: AnubisTweaks
 Depiction: https://AnubisTweaks.github.io/description.html?id=me.anubistweaks.cocoatoptoggle
 Name: CocoatopToggle
 
+Package: me.conorthedev.shylabels13
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: ConorTheDev
+Installed-Size: 400
+Depends: mobilesubstrate, oldabi, preferenceloader
+Replaces: com.noisyflake.shylabels
+Provides: com.noisyflake.shylabels
+Filename: debfiles/me.conorthedev.shylabels13_1.4_iphoneos-arm64.deb
+Size: 58732
+MD5sum: 8941e1d1183382100ac0c3345e54b270
+SHA1: 9e0cf7f5e209b135fec4845b9cd19fe4ee3ab770
+SHA256: eb5ec205ed329270cc1dee934603eafbea23f5ddcbe16e4bff1199efbb97e5f6
+Section: Tweaks
+Description: Hide your app labels when not scrolling
+Author: ConorTheDev + NoisyFlake
+Name: ShyLabels (rootless)
+
 Package: run.er.wormctrl
 Version: 1.1.0
 Architecture: iphoneos-arm64
