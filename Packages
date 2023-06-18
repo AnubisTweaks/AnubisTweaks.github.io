@@ -308,7 +308,7 @@ Architecture: iphoneos-arm64
 Maintainer: AnubisTweaks
 Installed-Size: 620
 Depends: mobilesubstrate
-Filename: debfiles/com.qiop1379.anactuallygoodfilzaeditor_0.1.deb
+Filename: debfiles/com.qiop1379.anactuallygoodfilzaeditor_0.1_iphoneos-arm64.deb
 Size: 98920
 MD5sum: 0aec9dd8d9d6c609b0a9fa310f940b23
 SHA1: 51895c8e4f4aa146e057ed9c2054428275bb6b4c
@@ -317,6 +317,22 @@ Section: Tweaks
 Description: Transform the Filza text editor. Adds themes and syntax highlighting.
 Author: qwertyuiop1379 + AnubisTweaks
 Name: AnActuallyGoodFilzaEditor
+
+Package: com.qiop1379.copy
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debfiles/com.qiop1379.copy_1.0.1_iphoneos-arm.deb
+Size: 7914
+MD5sum: f89b28fcfbde681b4e45063a6b38feb8
+SHA1: 50c2a6996ce4b3f811d47f9037199f4727ebe851
+SHA256: 56bc9fadbb6e59cfe837aa25eaaf75098873036452603cac54488a8ba8d1b153
+Section: Tweaks
+Description: Triple tap on UILabels to select and copy text
+Author: qwertyuiop1379
+Name: Copy!
 
 Package: com.shiftcmdk.permaflex
 Version: 1.0.3-21+debug
