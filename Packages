@@ -34,24 +34,20 @@ Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
 Name: Truecuts
 
 Package: com.fiore.calculatorhistory
-Version: 1.1.2
+Version: 1.1.3-1
 Architecture: iphoneos-arm64
-Maintainer: Donato Fiore <donato.v.fiore@gmail.com>
-Filename: debfiles/com.fiore.calculatorhistory_1.1.2_iphoneos-arm64.deb
-Size: 15984
-MD5sum: b7ecf0c90a0634f5df5094a67e7c7e7a
-SHA1: c17df351d2fa7a43f5efa6b61e5874498a251f4a
-SHA256: 06ed2b09584c7a7ef08928df3b10e4371df55e3d281992a0cd316b51a2a84d21
+Maintainer: Donato Fiore + AnubisTweaks
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: debfiles/com.fiore.calculatorhistory_1.1.3-1_iphoneos-arm64.deb
+Size: 16552
+MD5sum: 1407253fa6493139ebf6bf3c7ff621e9
+SHA1: 4ab3a19333690ea9c550ea61b974dbc33dabd4d1
+SHA256: f84fd040f24efccccd00e93e890ed84297cf2784caa052f61446553572d5b1f9
 Section: Tweaks
-Homepage: https://donato-fiore.github.io/repo
-Description: Calculator gets a history!
-Author: Donato Fiore <donato.v.fiore@gmail.com>
-Depiction: https://donato-fiore.github.io/repo/depiction/web/com.fiore.calculatorhistory.html
-Icon: https://donato-fiore.github.io/repo/assets/com.fiore.calculatorhistory/icon.png
-Moderndepiction: https://donato-fiore.github.io/repo/depiction/native/com.fiore.calculatorhistory.json
-Name: CalculatorHistory (rootless)
-Sileodepiction: https://donato-fiore.github.io/repo/depiction/native/com.fiore.calculatorhistory.json
-Tags: compatible_min::ios13.0, compatible_max::ios15.0
+Description: Calculator gains history!
+Author: Donato Fiore
+Name: CalculatorHistory
 
 Package: com.gilshahar7.exacttime
 Version: 2.0.1
