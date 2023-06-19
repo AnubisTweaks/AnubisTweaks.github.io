@@ -66,6 +66,38 @@ Description: Shows the exact time of notifications, messages, calls and emails.
 Author: gilshahar7
 Name: ExactTime (rootless)
 
+Package: com.hackcatml.mldecrypt
+Version: 0.0.6
+Architecture: iphoneos-arm
+Maintainer: hackcatml
+Installed-Size: 672
+Filename: debfiles/com.hackcatml.mldecrypt_0.0.6_iphoneos-arm.deb
+Size: 101336
+MD5sum: 28fc622532b61babbd62f95f9edb80f0
+SHA1: 1d4fbe3e77700a535882047f1a9f7b23c15b4d2b
+SHA256: 4805c3dc5bd0a6331525cc506726135984fbd0e7381bc44aef2620f4636ebe1a
+Section: System
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: hackcatml
+Name: mldecrypt
+
+Package: com.hackcatml.mldecrypt
+Version: 0.0.6
+Architecture: iphoneos-arm64
+Maintainer: hackcatml
+Installed-Size: 672
+Filename: debfiles/com.hackcatml.mldecrypt_0.0.6_iphoneos-arm64.deb
+Size: 101226
+MD5sum: e3e686fd41597402e2dd11533eb4de8a
+SHA1: 93e6be5ae8619973dbc207c9ac53a7e8121f5eb8
+SHA256: dca0a8a79f9f826c7112399f6301b20054b51e742c03a9c7dcd6e5baf23c44ee
+Section: System
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: hackcatml
+Name: mldecrypt
+
 Package: com.ichitaso.autobrightness11
 Version: 0.1-5
 Architecture: iphoneos-arm64
