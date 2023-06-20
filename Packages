@@ -395,6 +395,23 @@ Author: shiftcmdk
 Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.permaflex
 Name: PermaFlex
 
+Package: com.shiftcmdk.permaflex
+Version: 1.0.4-1+debug
+Architecture: iphoneos-arm64
+Maintainer: bgli100
+Installed-Size: 768
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: debfiles/com.shiftcmdk.permaflex_1.0.4-1+debug_iphoneos-arm64.deb
+Size: 66478
+MD5sum: 38dfb42ac5385133806e3f3639bca5a1
+SHA1: 287907ea279f46e4593640aee0cbae34cfa76295
+SHA256: 1bbca917aa8212acca74857373bb8ebd265c19dc18431be78804b36b4cce7faa
+Section: Tweaks
+Description: Permanently hide elements with FLEXible.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.permaflex
+Name: PermaFlex
+
 Package: com.shivesh.truestcuts
 Version: 1.0.0-4
 Architecture: iphoneos-arm64
