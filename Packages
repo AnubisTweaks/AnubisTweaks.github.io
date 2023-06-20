@@ -17,6 +17,22 @@ Dev: delewhopper
 Icon: file:///Library/PreferenceLoader/Preferences/KeySwipe/KeySwipe.png
 Name: KeySwipe (iOS 11) (rootless)
 
+Package: com.atwiiks.betterccxi
+Version: 1.6.0
+Architecture: iphoneos-arm64
+Maintainer: ATWiiks
+Installed-Size: 640
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debfiles/com.atwiiks.betterccxi_1.6.0_iphoneos-arm64.deb
+Size: 82064
+MD5sum: 4097f6242f8271ffc34de451896f63a0
+SHA1: 4e27ac1c07a49154d7d438d1d29e9a7c6b64e4fc
+SHA256: fee3e80627c41f3e20f86aa56dbcb3313706b48ec601ca127826472e36d7d3bd
+Section: Tweaks
+Description: Enhance your control center on iOS 11 and iOS 12
+Author: ATWiiks
+Name: BetterCCXI
+
 Package: com.ethanrdoesmc.truecuts
 Version: 1.1.0
 Architecture: iphoneos-arm64
