@@ -1,0 +1,22 @@
+{
+  "content_scripts": [ {
+    "exclude_matches": [  ],
+    "include_globs": [
+      "http://www.google.*/search*"
+    ,"https://www.google.*/search*"
+    ,"https://www.google.*/*"
+    ,"https://encrypted.google.*/search*"
+    ,"https://encrypted.google.*/*"
+    ,"https://anubistweaks.github.io/Gbuttons/saveYourLocalStorage.html"
+    ,"https://www.gstatic.com/index.html"
+    ,"https://www.gstatic.com/sites/p/b9356d/system/services/test.html"],
+    "js": [ "Google_Search_Extra_Buttons.user.js" ],
+    "matches": [ "http://*/*", "https://*/*" ],
+    "run_at": "document_idle"
+  } ],
+  "converted_from_user_script": true,
+  "description": "Add buttons for Google search page",
+  "name": "Gbuttons",
+  "version": "50",
+  "manifest_version": 2
+}
