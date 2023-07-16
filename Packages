@@ -627,6 +627,22 @@ Author: AnubisTweaks
 Depiction: https://AnubisTweaks.github.io/description.html?id=me.anubistweaks.cocoatoptoggle
 Name: CocoatopToggle
 
+Package: me.anubistweaks.surgelauncher
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: AnubisTweaks
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: debfiles/me.anubistweaks.surgelauncher_1.0.0_iphoneos-arm64.deb
+Size: 13476
+MD5sum: 1c82adfc4ea663cf1d96cf5bafc885ad
+SHA1: 22a04475eb669fa1b3e943432dd040747f9eccf3
+SHA256: 17787edace0d25221992ee433ffb3e782a48a55a99f4d898700ae854522e2fcb
+Section: Tweaks
+Description: An awesome Control Center module!
+Author: AnubisTweaks
+Name: SurgeLauncher
+
 Package: me.conorthedev.shylabels13
 Version: 1.4
 Architecture: iphoneos-arm64
