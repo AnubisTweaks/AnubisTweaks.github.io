@@ -65,23 +65,6 @@ Description: Calculator gains history!
 Author: Donato Fiore
 Name: CalculatorHistory
 
-Package: com.gilshahar7.exacttime
-Version: 2.0.1
-Architecture: iphoneos-arm64
-Maintainer: gilshahar7
-Installed-Size: 1160
-Depends: mobilesubstrate
-Conflicts: com.gilshahar7.exacttimemail, com.gilshahar7.exacttimephone, com.gilshahar7.exacttimemessages
-Filename: debfiles/com.gilshahar7.exacttime_2.0.1_iphoneos-arm64.deb
-Size: 58204
-MD5sum: 07e2cb232e99e6a0f0385a43fdc43780
-SHA1: de95a4f25a0253bc7db69335c7c9f40971cfc99e
-SHA256: 2c87e2e1d44faf896eb2e75c3c8f9706d6ad911752a858b6fa77141affaf8976
-Section: Tweaks
-Description: Shows the exact time of notifications, messages, calls and emails.
-Author: gilshahar7
-Name: ExactTime (rootless)
-
 Package: com.hackcatml.mldecrypt
 Version: 0.0.6
 Architecture: iphoneos-arm
@@ -113,50 +96,6 @@ Description: An awesome tool of some sort!!
 Tag: role::hacker
 Author: hackcatml
 Name: mldecrypt
-
-Package: com.ichitaso.autobrightness11
-Version: 0.1-5
-Architecture: iphoneos-arm64
-Maintainer: ichitaso
-Installed-Size: 152
-Pre-Depends: firmware (>= 11.0)
-Depends: com.opa334.ccsupport
-Filename: debfiles/com.ichitaso.autobrightness11_0.1-5_iphoneos-arm64.deb
-Size: 13512
-MD5sum: e8903a67e14b8aa1cd1ede295f844e2b
-SHA1: a0ad8a9c33c3c29a9616b3502ec3af18196cd2b5
-SHA256: 4dbb029a3790d9999eb4ccd9289b9e0a23b84212278617d0cdf612ec1a30cebc
-Section: Addons (ControlCenter)
-Homepage: https://ichitaso.com
-Description: Turn on / off Auto-Brightness from the control center.
-Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
-Author: ichitaso
-Depiction: https://cydia.ichitaso.com/depiction/autobrightness11.html
-Dev: ichitaso
-Icon: file:///Library/ControlCenter/Bundles/AutoBrightness.bundle/SettingsIcon@2x.png
-Name: AutoBrightnessToggle (CCSupport) (rootless)
-
-Package: com.ichitaso.locationservicecc
-Version: 0.1-5
-Architecture: iphoneos-arm64
-Maintainer: ichitaso
-Installed-Size: 212
-Pre-Depends: firmware (>= 11.0)
-Depends: com.opa334.ccsupport (>= 1.2)
-Filename: debfiles/com.ichitaso.locationservicecc_0.1-5_iphoneos-arm64.deb
-Size: 37460
-MD5sum: 454617c4b49ca9a41854fedc48fe75e9
-SHA1: 26d7a8a2791b9540e1eeff79b23ca7f34f175f52
-SHA256: 9ccd1e6f0c186983c89f7e056f1b2e7bdb61cd81bc3f7341d784c27fc18e8062
-Section: Addons (ControlCenter)
-Homepage: https://ichitaso.com
-Description: Turn on / off LocationService from the control center.
-Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
-Author: ichitaso
-Depiction: https://cydia.ichitaso.com/depiction/locationservicecc.html
-Dev: ichitaso
-Icon: file:///Library/ControlCenter/Bundles/LocationService.bundle/SettingsIcon@2x.png
-Name: LocationService (CCSupport) (rootless)
 
 Package: com.ichitaso.ringertoggle
 Version: 0.1-2
@@ -448,63 +387,6 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=truestcuts
 Dev: shivesh
 Name: Truestcuts (rootless)
 Sponsor: https://anubistweaks.github.io
-
-Package: com.strejda603.adobephotoshopexpresspremium
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: strejda603 <strejda603@centrum.cz>
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: debfiles/com.strejda603.adobephotoshopexpresspremium_1.0.0_iphoneos-arm64.deb
-Size: 4320
-MD5sum: 620883c97dec75c8b7d521a9c99658a2
-SHA1: bb3da5b8a72d8d3f5f64944048c2440825ff929b
-SHA256: 6fb5dbb36dc69922b26b01afd0b0fb25ad7112e7e81a2e9ddc5b1bae4bcbe056
-Section: Tweaks
-Homepage: https://repo.danielpitra.cz
-Description: Enables Premium features.
-Author: strejda603 <strejda603@centrum.cz>
-Depiction: https://repo.danielpitra.cz/depiction.php?id=com.strejda603.adobephotoshopexpresspremium
-Name: Adobe Photoshop Express (Premium) (rootless)
-Sileodepiction: https://repo.danielpitra.cz/sileo-depiction.php?id=com.strejda603.adobephotoshopexpresspremium
-
-Package: com.strejda603.speedtestadsfree
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: strejda603 <strejda603@centrum.cz>
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: debfiles/com.strejda603.speedtestadsfree_1.0.0_iphoneos-arm64.deb
-Size: 3848
-MD5sum: 54c2c53236196481c7951a3463d1e4ec
-SHA1: 4490e88d45c4984a11c6923b8680bf0acfacba8f
-SHA256: 8379d4e54450c0ac4d9844ed00b4273cecbe3dad9fd325908a7ebd68d48abf92
-Section: Tweaks
-Homepage: https://repo.danielpitra.cz
-Description: Removes Ads.
-Author: strejda603 <strejda603@centrum.cz>
-Depiction: https://repo.danielpitra.cz/depiction.php?id=com.strejda603.speedtestadsfree
-Name: Speedtest (Ads Free) (rootless)
-Sileodepiction: https://repo.danielpitra.cz/sileo-depiction.php?id=com.strejda603.speedtestadsfree
-
-Package: com.strejda603.truecallerpremiumgold
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: strejda603 <strejda603@centrum.cz>
-Installed-Size: 264
-Depends: mobilesubstrate
-Filename: debfiles/com.strejda603.truecallerpremiumgold_1.0.0_iphoneos-arm64.deb
-Size: 5920
-MD5sum: 718cbaaa4164d956bffe4aba190cbf77
-SHA1: 319342094289881a441f9794b3a8251c9c5e9fad
-SHA256: 3584fb3417ddc2369b59489fe5ff6878aea50ea81f347562ddccadb2a0d053d1
-Section: Tweaks
-Homepage: https://repo.danielpitra.cz
-Description: Enables Premium Gold features.
-Author: strejda603 <strejda603@centrum.cz>
-Depiction: https://repo.danielpitra.cz/depiction.php?id=com.strejda603.truecallerpremiumgold
-Name: Truecaller (Premium Gold) (rootless)
-Sileodepiction: https://repo.danielpitra.cz/sileo-depiction.php?id=com.strejda603.truecallerpremiumgold
 
 Package: com.twickd.meblackhat.autoredial
 Version: 2.0
