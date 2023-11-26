@@ -1,3 +1,35 @@
+Package: com.anubistweaks.17tracknoads
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: AnubisTweaks
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debfiles/com.anubistweaks.17tracknoads_0.0.1-1_iphoneos-arm.deb
+Size: 3954
+MD5sum: cfa71cefc5a8ca71ed1fcc0da5535b72
+SHA1: f21393b7b8b3bd5c5b090f184797fa6accf13c4a
+SHA256: bea2796a8fd500c2d53a992a3926b02e477d8a6af285b2b35b1ff6b9f19fe4f9
+Section: Tweaks
+Description: 17TRACK No Ads
+Author: AnubisTweaks
+Name: 17TRACKnoads
+
+Package: com.anubistweaks.17tracknoads
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: AnubisTweaks
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debfiles/com.anubistweaks.17tracknoads_0.0.1-1_iphoneos-arm64.deb
+Size: 3740
+MD5sum: e727cfa888b8cf21cd3ea305dff48f4b
+SHA1: 5eefe40e741935ef58441a3afe95b9ada493b071
+SHA256: ca32b3d93d556d9adb1e19885fc74cd39f429f7bba113502a352003ba497fc00
+Section: Tweaks
+Description: 17TRACK No Ads
+Author: AnubisTweaks
+Name: 17TRACKnoads (rootless)
+
 Package: com.anubistweaks.keyswipe11
 Version: 1.0.3
 Architecture: iphoneos-arm64

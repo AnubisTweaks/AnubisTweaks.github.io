@@ -1,41 +1,18 @@
-Architectures: iphoneos-arm iphoneos-arm64
-Codename: ios
-Components: main
-Date: Mon, 17 Jul 2023 21:34:14 +0000
-Description: A repo just for fun..
-Label: AnubisTweaks
-Origin: AnubisTweaks
+Origin: AnubisTweaks Repo
+Label: AnubisTweaks Repo
 Suite: stable
 Version: 1.0
+Codename: AnubisTweaks
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: AnubisTweaks Repo
 MD5Sum:
- 3b4c6cb647bc342e05f7f0f73d50d19b            23190 Packages
- bb9e5c8d2b7175fbcfb42a5d004e2f1b             7185 Packages.bz2
- cbc731bd8874917277e8019015b605a8             7571 Packages.gz
- d4702113d367eb80eed8e4fc315b6213             7010 Packages.lzma
- 5602755cfdcde9816cdcdddc7c20df69             7056 Packages.xz
- d5600dd419d4bb9d44b7665baf2b9851             7557 Packages.zst
- 123afb08694a7237be5a4957ee312b0e              215 Release
-SHA1:
- 868c831e83607b6e200743e3bf8810f2c54db65e            23190 Packages
- a73566b76b1aeb0ca8d5a4f89ca89dc0a99dbcb1             7185 Packages.bz2
- 285eda1b6914ffee8c72d882caece1bcd220ebe0             7571 Packages.gz
- 9225071a62847d18103c395a349a349c4daecebd             7010 Packages.lzma
- 5deb7f93fb7f65b550318816c2c60efb86e21539             7056 Packages.xz
- f53d913e58f35170e45c67dc1462775ad0895cf7             7557 Packages.zst
- 526522dc88da587e56dde035e1d28c5f0e5fe1b8              215 Release
+ c933e9435f6af8f44e687efe9aea89c0 24213 Packages
+ 1030290ddda1dfd20b36b789aade7fdd 7429 Packages.bz2
+ 4f319fb27cb2edd289b69df48363038e 7830 Packages.gz
+ fce07b4eb254a1658c06945ae4815464 7351 Packages.zst
 SHA256:
- a1c88215ea040823f642301e5b29eb439baa676372acf9d4a57dc2d18045648f            23190 Packages
- 8db1508c1f8e104db850de48948677a731d6fab7a25784b95cf49504a993d460             7185 Packages.bz2
- 415a65571a6026d1ff98c7b59db4f3ae8623f138ac54dfe88a7c242d93c922fa             7571 Packages.gz
- 7b7f9c473dd89f40d39ffe22424a62d3fc15539ccdec6508d23e9a3e5875b749             7010 Packages.lzma
- eeb749de45786c72186969708a082e8f0266ac7f17827e647512f576463e8955             7056 Packages.xz
- 836cd98a8a3a0d8c71a3288525d3031b192115317faa0e756f8794ee405f6be7             7557 Packages.zst
- 545d6ed9c72213bdd19be57b6b20975ffcba65c3798e2b7d7ddc2033f7d2d10c              215 Release
-SHA512:
- f270ec35fe5d1b1cf39896191052f04b5182d22e5da58953576655de973e1a95a53bf028b094b3cd5ab5a373f96db22973fae0e96caeff6c387075c5d304db19            23190 Packages
- 07b8ee8aff26fc5d124167bc09822f73a84052dcd2b8e9bdff383921f457f812a81278193f417ce54e78f55157f61271a0e1d0991c8d247771f74ee3540664fb             7185 Packages.bz2
- 365c22a0fa57c0a4eea970d3881e5417cbf943e371ac558c197868460b66c421f5dc88d1150999876477458dd36f6dd7c8bc80d15132711adb42d407a77d7975             7571 Packages.gz
- 86761731bf45446ae87eea31206b25ec433c4cb2efd9bdbd2c7e4221aa0e697dff20377eb12c7d91c3dec5d747ef87e9efa68a3fe60c08736ea2c52b132f2fa1             7010 Packages.lzma
- d5255c2a6687ee2e2effeef7fc71d01b91278593ad9d3a2eedcc060b290ae3981a46146b69a7c595a9fc5162c93060904b9c476f1ee3dd600a2dbd79051a2130             7056 Packages.xz
- d19e6e64eca5f4b615793b0aa3b9cfb81a1a346f91142e27f9f4bbd8ae40ad40f3a49075a638a4649078863d964de82a0b68438219fdc24ab105db74a163f046             7557 Packages.zst
- bdb90db6ae60cb8efae148f92939a6d2bb3ef835b5acdd208bb612675ea51f80f9d1f9756574bc5055da05b3d866c80d779a99147770b5bcc13edd16503125bb              215 Release
+ 06d54eb42725abc0a6e559693224766959ccdf3f4e24d5852f63e08fa33347cd 24213 Packages
+ 68bf30fe3677115db0afa9d9a9c7d2f4f3d473dcd9dcb360b6600a7e48350616 7429 Packages.bz2
+ 6cc52d87e2831512aa1f92cad7114aadfe736376de6b55116314e8463b3acfe0 7830 Packages.gz
+ 046524b1ec552727915b215c1f95cd50cb9a80c070cbdf54409044048f754657 7351 Packages.zst
