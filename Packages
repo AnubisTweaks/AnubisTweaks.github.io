@@ -523,6 +523,38 @@ Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.vpnindicat
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vpnindicator/icon/icon.png
 Name: VPNIndicator
 
+Package: eg.anubistweaks.novoicemail15
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: AnubisTweaks
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: debfiles/eg.anubistweaks.novoicemail15_1.0-1_iphoneos-arm.deb
+Size: 3232
+MD5sum: 71bab30b71338d0355c67ca1799213fb
+SHA1: 6da0e6e293aae0f85a486733f9181b4058135435
+SHA256: 09a86476ff4dc0429de4df19c4e3cad3362dbca3e46f3e03c304a0a53883d432
+Section: Tweaks
+Description: Disable voicemail
+Author: AnubisTweaks
+Name: Novoicemail 15
+
+Package: eg.anubistweaks.novoicemail15
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: AnubisTweaks
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: debfiles/eg.anubistweaks.novoicemail15_1.0-1_iphoneos-arm64.deb
+Size: 3024
+MD5sum: 52fea09dce89c5b7885949f14038785d
+SHA1: c4e300a5f8a94c3a405b9be1d71ba3041f6f8e86
+SHA256: a6be392e0e90d610dd7b4fe3ca06fa8e467af1c4341501828e9bd26675db2a42
+Section: Tweaks
+Description: Disable voicemail
+Author: AnubisTweaks
+Name: Novoicemail 15
+
 Package: emt.paisseon.xinamine
 Version: 0.0.5
 Architecture: iphoneos-arm64
