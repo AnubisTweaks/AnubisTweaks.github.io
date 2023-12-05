@@ -555,6 +555,38 @@ Description: Disable voicemail
 Author: AnubisTweaks
 Name: Novoicemail 15
 
+Package: eg.anubistweaks.phoneenhancer15
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: AnubisTweaks
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: debfiles/eg.anubistweaks.phoneenhancer15_1.4.1_iphoneos-arm.deb
+Size: 5150
+MD5sum: fa3da1c0167dd0ddb1df30b23f3e3820
+SHA1: a02e6fba55561ea1c7e16b12c984ab585e6d44f9
+SHA256: 161577ba9e30713e144b1e00aa9f135c13aeae945b055cc711e37f3ea4bdfd35
+Section: Tweaks
+Description: Phone app as supposed to be
+Author: AnubisTweaks
+Name: Phone Enhancer 15
+
+Package: eg.anubistweaks.phoneenhancer15
+Version: 1.4.1
+Architecture: iphoneos-arm64
+Maintainer: AnubisTweaks
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: debfiles/eg.anubistweaks.phoneenhancer15_1.4.1_iphoneos-arm64.deb
+Size: 5040
+MD5sum: 3ab91f048d01385612ff25910ad850a2
+SHA1: 7d4046de3a3683257f57de3661ad4160e7f204c0
+SHA256: 2778d842b47b21deec32874da75ea1c52cc6d4df75bb453eae0cd230fec0a6f1
+Section: Tweaks
+Description: Phone app as supposed to be
+Author: AnubisTweaks
+Name: Phone Enhancer 15
+
 Package: emt.paisseon.xinamine
 Version: 0.0.5
 Architecture: iphoneos-arm64
