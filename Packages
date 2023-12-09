@@ -593,7 +593,7 @@ Architecture: iphoneos-arm64
 Maintainer: AnubisTweaks
 Installed-Size: 184
 Depends: mobilesubstrate
-Filename: debfiles/eg.anubistweaks.phoneenhancer15_1.6.0_iphoneos-arm64.deb
+Filename: debfiles/eg.anubistweaks.phoneenhancer15_1.6.0-6_iphoneos-arm64.deb
 Size: 5648
 MD5sum: 4741e8845b94157a6ac32a4e86125d52
 SHA1: 9e67734804fc2ecf4c8d498b72134556eff8712d
