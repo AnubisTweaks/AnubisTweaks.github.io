@@ -588,32 +588,32 @@ Author: AnubisTweaks
 Name: Phone Enhancer 15
 
 Package: eg.anubistweaks.phoneenhancer15
-Version: 1.5.0-1
+Version: 1.6.0-6
 Architecture: iphoneos-arm64
 Maintainer: AnubisTweaks
 Installed-Size: 184
 Depends: mobilesubstrate
-Filename: debfiles/eg.anubistweaks.phoneenhancer15_1.5.0-1_iphoneos-arm64.deb
-Size: 5352
-MD5sum: f8daca3351c226ac3c36fbe3c96b1382
-SHA1: d591fb585d4fb06f63d4052d181e0971a30dc4fe
-SHA256: f9cdd1b480a6a5b2aa581e2b314c217bf4c84492c6b76314c8a0185de2eb5d7f
+Filename: debfiles/eg.anubistweaks.phoneenhancer15_1.6.0_iphoneos-arm64.deb
+Size: 5648
+MD5sum: 4741e8845b94157a6ac32a4e86125d52
+SHA1: 9e67734804fc2ecf4c8d498b72134556eff8712d
+SHA256: f9bd8d01a0675941ccf6d12c69717d82cee6ed2dbded02a4953d288f126db6be
 Section: Tweaks
 Description: Phone app as supposed to be
 Author: AnubisTweaks
 Name: Phone Enhancer 15
 
 Package: eg.anubistweaks.phoneenhancer15
-Version: 1.5.0-2
+Version: 1.6.0-7
 Architecture: iphoneos-arm
 Maintainer: AnubisTweaks
 Installed-Size: 184
 Depends: mobilesubstrate
-Filename: debfiles/eg.anubistweaks.phoneenhancer15_1.5.0-2_iphoneos-arm.deb
-Size: 5606
-MD5sum: d7f60a153bc1785a4a6521aa415ad122
-SHA1: c5fbf37fd54e21f1c79d62a91c8b974930d206de
-SHA256: bb699f04f4ec6795620ad6c4c489e240a92ae22b63fedb069fed08acdda0642a
+Filename: debfiles/eg.anubistweaks.phoneenhancer15_1.6.0_iphoneos-arm.deb
+Size: 5952
+MD5sum: e4a17e6c22c32b992ad4908f760a3ac0
+SHA1: d27df3e5946658f62ce263d9380a82bfa9e66aa8
+SHA256: d3b5caba8bd07ebc684691a72377b03ff3ee56c2e2cedc4ad20a424d258a97c4
 Section: Tweaks
 Description: Phone app as supposed to be
 Author: AnubisTweaks
