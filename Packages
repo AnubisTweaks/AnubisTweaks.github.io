@@ -49,6 +49,38 @@ Dev: delewhopper
 Icon: file:///Library/PreferenceLoader/Preferences/KeySwipe/KeySwipe.png
 Name: KeySwipe (iOS 11) (rootless)
 
+Package: com.anubistweaks.payoneerjbbypass
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: AnubisTweaks
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debfiles/com.anubistweaks.payoneerjbbypass_0.0.1_iphoneos-arm.deb
+Size: 2718
+MD5sum: 460a091790ead58a4387ee2a79b7bfd3
+SHA1: 0fe7a6aa49bb50c38ae5061a3935d69a6203eaa3
+SHA256: 11c7956dbf340c8065c0085c9c9b7052c6a77213a90e5c268882ae845d7cca55
+Section: Tweaks
+Description: Bypass JB detection for Payoneer bank app
+Author: AnubisTweaks
+Name: PayoneerJBBypass
+
+Package: com.anubistweaks.payoneerjbbypass
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: AnubisTweaks
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debfiles/com.anubistweaks.payoneerjbbypass_0.0.1_iphoneos-arm64.deb
+Size: 2876
+MD5sum: 7b17680e498fb9dddf37cf5bc122f0e4
+SHA1: 7c916c70209d21b7eab45f71eb30b2761380993f
+SHA256: e6c129a729207d7cb87fab563d5ddc78b42aef579be0bde37d770c3cfb9000a0
+Section: Tweaks
+Description: Bypass JB detection for Payoneer bank app
+Author: AnubisTweaks
+Name: PayoneerJBBypass
+
 Package: com.atwiiks.betterccxi
 Version: 1.6.0
 Architecture: iphoneos-arm64

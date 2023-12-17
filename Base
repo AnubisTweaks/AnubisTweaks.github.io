@@ -3,6 +3,6 @@ Label: AnubisTweaks Repo
 Suite: stable
 Version: 1.0
 Codename: AnubisTweaks
-Architectures: iphoneos-arm
+Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: AnubisTweaks Repo
