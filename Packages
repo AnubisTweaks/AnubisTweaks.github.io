@@ -683,6 +683,22 @@ Description: Phone app as supposed to be
 Author: AnubisTweaks
 Name: Phone Enhancer 15
 
+Package: eg.anubistweaks.phoneenhancer15
+Version: 1.6.5-4
+Architecture: iphoneos-arm64e
+Maintainer: AnubisTweaks
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: debfiles/eg.anubistweaks.phoneenhancer15_1.6.5-4_iphoneos-arm64e.deb
+Size: 5960
+MD5sum: 0aefdd041cbc51d7eea9e97e58abc4ca
+SHA1: 0edf739c756d8c4f3fb6be46eb2b5b7aadfa2b57
+SHA256: 8d632d3c0437e99944f4d9c475a8753ceb9ba73cf0edde94e0600672e55b0924
+Section: Tweaks
+Description: Phone app as supposed to be
+Author: AnubisTweaks
+Name: Phone Enhancer 15
+
 Package: emt.paisseon.xinamine
 Version: 0.0.5
 Architecture: iphoneos-arm64
