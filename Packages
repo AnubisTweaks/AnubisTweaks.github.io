@@ -1,0 +1,875 @@
+Package: com.anubistweaks.17tracknoads
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: AnubisTweaks
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debfiles/com.anubistweaks.17tracknoads_0.0.1-1_iphoneos-arm.deb
+Size: 3954
+MD5sum: cfa71cefc5a8ca71ed1fcc0da5535b72
+SHA1: f21393b7b8b3bd5c5b090f184797fa6accf13c4a
+SHA256: bea2796a8fd500c2d53a992a3926b02e477d8a6af285b2b35b1ff6b9f19fe4f9
+Section: Tweaks
+Description: 17TRACK No Ads
+Author: AnubisTweaks
+Name: 17TRACKnoads
+
+Package: com.anubistweaks.17tracknoads
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: AnubisTweaks
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debfiles/com.anubistweaks.17tracknoads_0.0.1-1_iphoneos-arm64.deb
+Size: 3740
+MD5sum: e727cfa888b8cf21cd3ea305dff48f4b
+SHA1: 5eefe40e741935ef58441a3afe95b9ada493b071
+SHA256: ca32b3d93d556d9adb1e19885fc74cd39f429f7bba113502a352003ba497fc00
+Section: Tweaks
+Description: 17TRACK No Ads
+Author: AnubisTweaks
+Name: 17TRACKnoads (rootless)
+
+Package: com.anubistweaks.keyswipe11
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: AnubisTweaks
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: org.thebigboss.keyswipe
+Filename: debfiles/com.anubistweaks.keyswipe11_1.0.3_iphoneos-arm64.deb
+Size: 19710
+MD5sum: 151c99e9b84a6066406e479a7fa1ff2f
+SHA1: 2525dadd226f3127ddc4363d5eab800aa55ee944
+SHA256: a2f278c5948f0fa04269df119d1e640b9ab33ca9deec072cebd633e498a9f4cc
+Section: Tweaks
+Description: change keyboard by swiping up/down
+Author: Delewhopper, julioverne ,AnubisTweaks
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.keyswipe11
+Dev: delewhopper
+Icon: file:///Library/PreferenceLoader/Preferences/KeySwipe/KeySwipe.png
+Name: KeySwipe (iOS 11) (rootless)
+
+Package: com.anubistweaks.payoneerjbbypass
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: AnubisTweaks
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debfiles/com.anubistweaks.payoneerjbbypass_0.0.1_iphoneos-arm.deb
+Size: 2718
+MD5sum: 460a091790ead58a4387ee2a79b7bfd3
+SHA1: 0fe7a6aa49bb50c38ae5061a3935d69a6203eaa3
+SHA256: 11c7956dbf340c8065c0085c9c9b7052c6a77213a90e5c268882ae845d7cca55
+Section: Tweaks
+Description: Bypass JB detection for Payoneer bank app
+Author: AnubisTweaks
+Name: PayoneerJBBypass
+
+Package: com.anubistweaks.payoneerjbbypass
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: AnubisTweaks
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debfiles/com.anubistweaks.payoneerjbbypass_0.0.1_iphoneos-arm64.deb
+Size: 2876
+MD5sum: 7b17680e498fb9dddf37cf5bc122f0e4
+SHA1: 7c916c70209d21b7eab45f71eb30b2761380993f
+SHA256: e6c129a729207d7cb87fab563d5ddc78b42aef579be0bde37d770c3cfb9000a0
+Section: Tweaks
+Description: Bypass JB detection for Payoneer bank app
+Author: AnubisTweaks
+Name: PayoneerJBBypass
+
+Package: com.atwiiks.betterccxi
+Version: 1.6.0
+Architecture: iphoneos-arm64
+Maintainer: ATWiiks
+Installed-Size: 640
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debfiles/com.atwiiks.betterccxi_1.6.0_iphoneos-arm64.deb
+Size: 82064
+MD5sum: 4097f6242f8271ffc34de451896f63a0
+SHA1: 4e27ac1c07a49154d7d438d1d29e9a7c6b64e4fc
+SHA256: fee3e80627c41f3e20f86aa56dbcb3313706b48ec601ca127826472e36d7d3bd
+Section: Tweaks
+Description: Enhance your control center on iOS 11 and iOS 12
+Author: ATWiiks
+Name: BetterCCXI
+
+Package: com.ethanrdoesmc.truecuts
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate, firmware (>=13.0)
+Filename: debfiles/com.ethanrdoesmc.truecuts_1.1.0_iphoneos-arm64.deb
+Size: 3620
+MD5sum: af2db456d612d758179527747a0ce4d1
+SHA1: 46705ce96c7997a2b3710280bf44d36cc8c189a1
+SHA256: a4299c10a43a1b0762d4c517cfa1eea1194faad3d5b13db58901b941741b52fb
+Section: Tweaks
+Description: Allow all Shortcuts automations to be run without asking!
+Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Name: Truecuts
+
+Package: com.fiore.calculatorhistory
+Version: 1.1.3-1
+Architecture: iphoneos-arm64
+Maintainer: Donato Fiore + AnubisTweaks
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: debfiles/com.fiore.calculatorhistory_1.1.3-1_iphoneos-arm64.deb
+Size: 16552
+MD5sum: 1407253fa6493139ebf6bf3c7ff621e9
+SHA1: 4ab3a19333690ea9c550ea61b974dbc33dabd4d1
+SHA256: f84fd040f24efccccd00e93e890ed84297cf2784caa052f61446553572d5b1f9
+Section: Tweaks
+Description: Calculator gains history!
+Author: Donato Fiore
+Name: CalculatorHistory
+
+Package: com.hackcatml.mldecrypt
+Version: 0.0.6
+Architecture: iphoneos-arm
+Maintainer: hackcatml
+Installed-Size: 672
+Filename: debfiles/com.hackcatml.mldecrypt_0.0.6_iphoneos-arm.deb
+Size: 101336
+MD5sum: 28fc622532b61babbd62f95f9edb80f0
+SHA1: 1d4fbe3e77700a535882047f1a9f7b23c15b4d2b
+SHA256: 4805c3dc5bd0a6331525cc506726135984fbd0e7381bc44aef2620f4636ebe1a
+Section: System
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: hackcatml
+Name: mldecrypt
+
+Package: com.hackcatml.mldecrypt
+Version: 0.0.6
+Architecture: iphoneos-arm64
+Maintainer: hackcatml
+Installed-Size: 672
+Filename: debfiles/com.hackcatml.mldecrypt_0.0.6_iphoneos-arm64.deb
+Size: 101226
+MD5sum: e3e686fd41597402e2dd11533eb4de8a
+SHA1: 93e6be5ae8619973dbc207c9ac53a7e8121f5eb8
+SHA256: dca0a8a79f9f826c7112399f6301b20054b51e742c03a9c7dcd6e5baf23c44ee
+Section: System
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: hackcatml
+Name: mldecrypt
+
+Package: com.hackcatml.mldecrypt
+Version: 0.1.3
+Architecture: iphoneos-arm
+Maintainer: hackcatml
+Installed-Size: 948
+Depends: ldid
+Filename: debfiles/com.hackcatml.mldecrypt_0.1.3_iphoneos-arm.deb
+Size: 173128
+MD5sum: d78324a35b46173408c809926d3d861b
+SHA1: b34552dd2db79b7c6d432c40c90ab35743e0680a
+SHA256: 1b1a7bf7fcf560211495742d64fa0d301b16f1dece2ebf73751a1551f47990fb
+Section: System
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: hackcatml
+Name: mldecrypt
+
+Package: com.hackcatml.mldecrypt
+Version: 0.1.3
+Architecture: iphoneos-arm64
+Maintainer: hackcatml
+Installed-Size: 948
+Depends: ldid
+Filename: debfiles/com.hackcatml.mldecrypt_0.1.3_iphoneos-arm64.deb
+Size: 173446
+MD5sum: a7bb73ec6301c3e2c62cbf5811711313
+SHA1: 4c78452ab3ae9005a009e5e48959db92bada74e0
+SHA256: 5e75006980f250b675a04167c2922f263bef09850f79aa60ccd770b42c8f8085
+Section: System
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: hackcatml
+Name: mldecrypt
+
+Package: com.ichitaso.ringertoggle
+Version: 0.1-2
+Architecture: iphoneos-arm64
+Maintainer: ichitaso
+Installed-Size: 164
+Pre-Depends: firmware (>= 11.0)
+Depends: com.opa334.ccsupport
+Filename: debfiles/com.ichitaso.ringertoggle_0.1-2_iphoneos-arm64.deb
+Size: 19116
+MD5sum: 1df9d22163bcc6bbabd2d6e7a917130d
+SHA1: 190f00ffd7d3b02468ac38e11e6af1004a1db52c
+SHA256: dba3e7847c87ec19b9a37989bdd3ebbe0ed35e3aef5b112cff84b0f1ae39c6b8
+Section: Addons (ControlCenter)
+Homepage: https://ichitaso.com
+Description: Turn on / off Silent Switch from the control center.
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/ringertoggle.html
+Dev: ichitaso
+Icon: file:///Library/ControlCenter/Bundles/RingerToggle.bundle/SettingsIcon@2x.png
+Name: RingerToggle (CCSupport) (rootless)
+
+Package: com.jailbreak365.safeccmodules
+Version: 1.5-2
+Architecture: iphoneos-arm64
+Maintainer: AnubisTweaks
+Filename: debfiles/com.jailbreak365.safeccmodules_1.5-1_iphoneos-arm64.deb
+Size: 1131260
+MD5sum: eb3f5eb1a1e315a3cd1c3e1558db3ccd
+SHA1: 5e45914c7050c7e856dfff0b50395cf92c554315
+SHA256: 6da928fb6e5fa023eeae5d8312b4b22aa38e98039b73daa799822091d55ba658
+Section: Addons (ControlCenter)
+Description: Control center modules for iOS 11/12/13/15. New in v1.5-1: Fix for Tiny Volume and Silent Mode modules causing issues.
+Author: jailbreak365 + AnubisTweaks
+Dev: jailbreak365
+Name: CCModules (rootless)
+
+Package: com.jakeashacks.bounceit
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 143
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: debfiles/com.jakeashacks.bounceit_1.0.4_iphoneos-arm64.deb
+Size: 8818
+MD5sum: 4f820fe22041bcc6ddb43fc949deb6e0
+SHA1: da1fc10bfea823c398e1d1c307974d1c45d4f33f
+SHA256: 62de3f904cbdc67d90fe42c23b3e805d5b93f112ffc567f1163254ac2c668cd6
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bounceitDp
+Description: Add bouncing effect animations on iOS 11/12
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Author: Jake James <jakeashacks@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bounceitDp
+Dev: jakeashacks
+Name: Bounce It! (Reborn)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.julioverne.battrate
+Version: 0.0~beta3
+Architecture: iphoneos-arm64
+Maintainer: AnubisTweaks
+Depends: mobilesubstrate, preferenceloader,oldabi
+Filename: debfiles/com.julioverne.battrate_ battrate_0.0~beta3_iphoneos-arm64.deb
+Size: 61360
+MD5sum: ce1919bc38e6a377ed11256d260a3117
+SHA1: 114302ef76ab2ef0bf79bd4fe054f58372184d93
+SHA256: f4959512a8a2a26bf7a6526edca2bbbda78d8cfdfd0569ec11895fe1e9f6e2ef
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Battery Discharge Rate Monitor
+Author: julioverne + AnubisTweaks
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.battrate
+Icon: file:///Library/PreferenceBundles/BattRateSettings.bundle/icon@2x.png
+Name: BattRate (rootless)
+
+Package: com.julioverne.ntspeed
+Version: 0.2~beta10
+Architecture: iphoneos-arm64
+Maintainer: AnubisTweaks
+Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader ,oldabi
+Filename: debfiles/com julioverne.ntspeed_0.2~beta10_iphoneos-arm64.deb
+Size: 52368
+MD5sum: 3ab6008688c8393bc4afeb819a6800e8
+SHA1: d240db13eb90088c5791bc2ca129a17fdb022447
+SHA256: 5bb3731b8b6967b8b19e34b97cfb1fc205c61a1a9542804a0e2a4e38410812db
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: See Active Traffic Network Speed
+Author: julioverne , Anubistweaks
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.ntspeed
+Icon: file:///Library/PreferenceBundles/NtSpeedSettings.bundle/icon@2x.png
+Name: NtSpeed (rootless)
+
+Package: com.lema.wolf
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 12212
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: debfiles/com.lema.wolf_2.1_iphoneos-arm64.deb
+Size: 2790372
+MD5sum: 8ebf41b7ecf8145466ea808cc8e659b5
+SHA1: 4a5b9489d48cb27a0dd37d1c203ac0e4a4d10084
+SHA256: 69670c0346aff8968af427d0f99237f8d46c7f9f7565370cd158856829184ae9
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wolfDp
+Description: The all-in-one tweak for Facebook
+Tag: purpose::extension
+Author: Michael Lema <samewhitetee@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wolfDp
+Dev: lema
+Icon: file:///Library/Application%20Support/Wolf.bundle/wolf-icon@2x.png
+Name: Wolf (rootless)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.miro.alwaysautofill
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 140
+Depends: firmware (>=12.0), mobilesubstrate
+Filename: debfiles/com.miro.alwaysautofill_1.0_iphoneos-arm64.deb
+Size: 4492
+MD5sum: bd781a07950af06c48cd95c7d713f77d
+SHA1: 68bffee7a8488ab4bd593a460fc6cc97cefa2bc4
+SHA256: 0649a58d8357a277bc093c91810003fe3aebb6b251517cb1f4e96eaff608be47
+Section: Tweaks
+Description: Always show Autofill Passwords in Predictive Bar.
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios14
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.alwaysautofill
+Name: AlwaysAutoFill (rootless)
+
+Package: com.miro.perfectcalc
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 168
+Depends: firmware (>=13.0), mobilesubstrate
+Filename: debfiles/com.miro.perfectcalc_1.0_iphoneos-arm64.deb
+Size: 6068
+MD5sum: 8ae113a80d7caa3f7ebfa7d5b199a55a
+SHA1: 41293e30d0a4bf553424262547a35e44227b79c6
+SHA256: 8ff1c09462594d59c656ba33b06996775419ec15fe63cbb3c6c9aec4b6becea1
+Section: Tweaks
+Description: A tweak that keeps the calculations in the Calculator app
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.perfectcalc
+Name: PerfectCalc (rootless)
+
+Package: com.pantsthief.flexing
+Version: 1.5.0
+Architecture: iphoneos-arm64
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 3020
+Pre-Depends: firmware (>= 8.0)
+Conflicts: com.dgh0st.flexall, gg.gh0stbyte.flexivator, com.shmoopillic.flexible, applebetas.ios.tweak.devtools.flexgesture, com.creaturecoding.flexer, com.lacertosusrepo.flex4me, me.nepeta.flexxx, com.ipadkid.flexit, com.qiop1379.flexbar, com.leftyfl1p.reflex
+Filename: debfiles/com.pantsthief.flexing_1.5.0_iphoneos-arm64.deb
+Size: 645232
+MD5sum: f3e37c92e61420d8084193a50b90009a
+SHA1: 83a2d32a752120feb1aeca66efce105568a1ca36
+SHA256: 11dd176fb8d16cec566730f730d328a46302f8b9b6251575f0fce584c12404e3
+Section: Tweaks
+Description: Open FLEX anywhere!
+Author: Tanner Bennett <thepantsthief@me.com>
+Depiction: https://nscake.github.io/package.html?package=com.pantsthief.flexing
+Name: FLEXing
+Sileodepiction: https://nscake.github.io/depictions/com.pantsthief.flexing.sileo.json
+
+Package: com.ps.anywherepredict
+Version: 1.1.3.1
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 8.0)
+Filename: debfiles/AnywherePredict-Rootless.deb
+Size: 5172
+MD5sum: c072c0538f3287ca29fcca9182ca69d5
+SHA1: 3758544c6a3fc83875f834e4223f074fd6329ad1
+SHA256: ed4003cb65738735391933d6c319f2a832bacf8842c5e2eb1b35a8bd32400128
+Section: Tweaks
+Description: Predictive keyboard anywhere.
+Author: PoomSmart
+Name: AnywherePredict
+
+Package: com.pxcex.labelcopy
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: AnubisTweaks
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: debfiles/com.pxcex.labelcopy_0.0.2_iphoneos-arm64.deb
+Size: 6324
+MD5sum: 1653d0eac2ab413004ef06ce841a7d1a
+SHA1: 27fdaea2d0c429e9dc9a1633e05bc899366c6440
+SHA256: 10cae723af5bb2095c1d9427f73a27cbdaaa01691cd2043bd5b5729f8c5dd2e8
+Section: Tweaks
+Description: Allow Triple Tap on UILabel to Copy.
+Author: pxcex + AnubisTweaks
+Name: LabelCopy
+
+Package: com.qiop1379.anactuallygoodfilzaeditor
+Version: 0.1.0~beta1
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379
+Installed-Size: 620
+Depends: mobilesubstrate
+Filename: debfiles/com.qiop1379.anactuallygoodfilzaeditor_0.1.0~beta1_iphoneos-arm.deb
+Size: 98516
+MD5sum: 4687e5e88142e015e0d5a659a967bd86
+SHA1: dfe4e525a575dc4200b4b8b36aeff859acb6972a
+SHA256: cfef6e5e3174629c0293138987ce1fd71b5d82e39e118b61ab224a1e314af649
+Section: Tweaks
+Description: Transform the Filza text editor. Adds themes and syntax highlighting.
+Author: qwertyuiop1379
+Name: AnActuallyGoodFilzaEditor
+
+Package: com.qiop1379.anactuallygoodfilzaeditor
+Version: 0.1.0~beta2
+Architecture: iphoneos-arm64
+Maintainer: AnubisTweaks
+Installed-Size: 620
+Depends: mobilesubstrate
+Filename: debfiles/com.qiop1379.anactuallygoodfilzaeditor_0.1_iphoneos-arm64.deb
+Size: 98920
+MD5sum: 0aec9dd8d9d6c609b0a9fa310f940b23
+SHA1: 51895c8e4f4aa146e057ed9c2054428275bb6b4c
+SHA256: e16551d8871bde3af11cf6be946bfc3d9d691d416d740533a54055b156f51b8d
+Section: Tweaks
+Description: Transform the Filza text editor. Adds themes and syntax highlighting.
+Author: qwertyuiop1379 + AnubisTweaks
+Name: AnActuallyGoodFilzaEditor
+
+Package: com.shiftcmdk.permaflex
+Version: 1.0.3-21+debug
+Architecture: iphoneos-arm64
+Maintainer: bgli100
+Installed-Size: 424
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: debfiles/com.shiftcmdk.permaflex_1.0.3-21+debug_iphoneos-arm64.deb
+Size: 43732
+MD5sum: dc2187301cb97d8eafff16a22f077f37
+SHA1: 1fa8adf5892e16415702f00e5e33cb3e33a55038
+SHA256: 4dd683eec0b745498f3c6c4398675689ddf8394f6f9a644063bc71fa2795d010
+Section: Tweaks
+Description: Permanently hide elements with FLEXible.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.permaflex
+Name: PermaFlex
+
+Package: com.shiftcmdk.permaflex
+Version: 1.0.4-1+debug
+Architecture: iphoneos-arm64
+Maintainer: bgli100
+Installed-Size: 768
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: debfiles/com.shiftcmdk.permaflex_1.0.4-1+debug_iphoneos-arm64.deb
+Size: 66478
+MD5sum: 38dfb42ac5385133806e3f3639bca5a1
+SHA1: 287907ea279f46e4593640aee0cbae34cfa76295
+SHA256: 1bbca917aa8212acca74857373bb8ebd265c19dc18431be78804b36b4cce7faa
+Section: Tweaks
+Description: Permanently hide elements with FLEXible.
+Author: shiftcmdk
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.permaflex
+Name: PermaFlex
+
+Package: com.shivesh.truestcuts
+Version: 1.0.0-4
+Architecture: iphoneos-arm64
+Maintainer: AnubisTweaks
+Installed-Size: 198
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: debfiles/com. shivesh.truestcuts_1.0.0-3_iphoneos-arm64.deb
+Size: 5476
+MD5sum: 22d630ad1e2e1f7d363fe79874fff491
+SHA1: 66de89c76b4183ea383b38db5191dc231aa8c21e
+SHA256: f6af713a97de6cb91355881bd64f0afc29753c81f3dd99d437e33f2ca75c2dc0
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=truestcutsDp
+Description: Enables true Automations and removes notifications too.
+Tag: purpose::extension, compatible::ios15
+Author: Shivesh + AnubisTweaks
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=truestcutsDp
+Dev: shivesh
+Name: Truestcuts (rootless)
+Sponsor: https://anubistweaks.github.io
+
+Package: com.twickd.meblackhat.autoredial
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: MeBlackHat <MeBlackHat@protonmail.com>
+Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5), oldabi
+Filename: debfiles/com.twickd.meblackhat.autoredial_2.0_iphoneos-arm64.deb
+Size: 17332
+MD5sum: f5675a13ddf02d5c1cdb8a8fb1c2f783
+SHA1: 2404468fa5b1c4a9de874b9c0a19cd974427754c
+SHA256: 2887de8f6740af7c853f94380da2f504d1206c372ac2c7c9bcfe22af4954732e
+Section: Tweaks
+Description: MeBlackHat Tweaks
+Author: MeBlackHat <MeBlackHat@protonmail.com>
+Name: AutoRedial
+
+Package: com.udevs.autocorrectionccmodule
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: udevs
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 11.0), com.opa334.ccsupport
+Filename: debfiles/com.udevs.autocorrectionccmodule_1.0.1_iphoneos-arm64.deb
+Size: 12700
+MD5sum: 12a2a9941e0dc4f52c75af30c4e89929
+SHA1: 56be19b569fbd1e54884417869e15e42c1370aae
+SHA256: 23a28a2477a9d279930dbc362f2256f5b68e63334169825da7524d27c560ce6f
+Section: Control Center (Modules)
+Description: Auto-Correction CCModule
+Author: udevs
+Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.autocorrectionccmodule
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.autocorrectionccmodule/icon/icon.png
+Name: AutoCorrectionCCModule (rootless)
+
+Package: com.udevs.debhoarder
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: udevs
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: debfiles/com.udevs.debhoarder_1.0.0_iphoneos-arm64.deb
+Size: 6640
+MD5sum: 17281f4541e54fa07bbbf90075621b17
+SHA1: b8fb838775aa5772ec4ffbcda6ca137450d4a94a
+SHA256: 76e255c65be3c0c161abd5b6f99477a44bacbea2b0b2d179e1247adb97457122
+Section: Tweaks
+Description: Backup deb file for Cydia, Zebra, and Installer
+Author: udevs
+Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.debhoarder
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.debhoarder/icon/icon.png
+Name: DebHoarder (rootless)
+
+Package: com.udevs.vpnindicator
+Version: 1.1.6
+Architecture: iphoneos-arm64
+Maintainer: udevs
+Installed-Size: 388
+Depends: mobilesubstrate (>= 0.9.5000), com.creaturesurvive.libcscolorpicker
+Filename: debfiles/com.udevs.vpnindicator_1.1.6_iphoneos-arm64.deb
+Size: 63396
+MD5sum: 8ba70d924c81b4a565f437340f1a899c
+SHA1: 1cd13049c5e5401b424339c5d79b591fd72d0386
+SHA256: 54b7df0da0be3c5fd5683a22d1aa17e6831dbc84a973c4ec3ec667dd67e32951
+Section: Tweaks
+Description: Indicates VPN state in status bar
+Author: udevs
+Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.vpnindicator
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vpnindicator/icon/icon.png
+Name: VPNIndicator
+
+Package: eg.anubistweaks.novoicemail15
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: AnubisTweaks
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: debfiles/eg.anubistweaks.novoicemail15_1.0-1_iphoneos-arm.deb
+Size: 3232
+MD5sum: 71bab30b71338d0355c67ca1799213fb
+SHA1: 6da0e6e293aae0f85a486733f9181b4058135435
+SHA256: 09a86476ff4dc0429de4df19c4e3cad3362dbca3e46f3e03c304a0a53883d432
+Section: Tweaks
+Description: Disable voicemail
+Author: AnubisTweaks
+Name: Novoicemail 15
+
+Package: eg.anubistweaks.novoicemail15
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: AnubisTweaks
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: debfiles/eg.anubistweaks.novoicemail15_1.0-1_iphoneos-arm64.deb
+Size: 3024
+MD5sum: 52fea09dce89c5b7885949f14038785d
+SHA1: c4e300a5f8a94c3a405b9be1d71ba3041f6f8e86
+SHA256: a6be392e0e90d610dd7b4fe3ca06fa8e467af1c4341501828e9bd26675db2a42
+Section: Tweaks
+Description: Disable voicemail
+Author: AnubisTweaks
+Name: Novoicemail 15
+
+Package: eg.anubistweaks.phoneenhancer15
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: AnubisTweaks
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: debfiles/eg.anubistweaks.phoneenhancer15_1.4.1_iphoneos-arm.deb
+Size: 5150
+MD5sum: fa3da1c0167dd0ddb1df30b23f3e3820
+SHA1: a02e6fba55561ea1c7e16b12c984ab585e6d44f9
+SHA256: 161577ba9e30713e144b1e00aa9f135c13aeae945b055cc711e37f3ea4bdfd35
+Section: Tweaks
+Description: Phone app as supposed to be
+Author: AnubisTweaks
+Name: Phone Enhancer 15
+
+Package: eg.anubistweaks.phoneenhancer15
+Version: 1.4.1
+Architecture: iphoneos-arm64
+Maintainer: AnubisTweaks
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: debfiles/eg.anubistweaks.phoneenhancer15_1.4.1_iphoneos-arm64.deb
+Size: 5040
+MD5sum: 3ab91f048d01385612ff25910ad850a2
+SHA1: 7d4046de3a3683257f57de3661ad4160e7f204c0
+SHA256: 2778d842b47b21deec32874da75ea1c52cc6d4df75bb453eae0cd230fec0a6f1
+Section: Tweaks
+Description: Phone app as supposed to be
+Author: AnubisTweaks
+Name: Phone Enhancer 15
+
+Package: eg.anubistweaks.phoneenhancer15
+Version: 1.6.0-6
+Architecture: iphoneos-arm64
+Maintainer: AnubisTweaks
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: debfiles/eg.anubistweaks.phoneenhancer15_1.6.0-6_iphoneos-arm64.deb
+Size: 5648
+MD5sum: 4741e8845b94157a6ac32a4e86125d52
+SHA1: 9e67734804fc2ecf4c8d498b72134556eff8712d
+SHA256: f9bd8d01a0675941ccf6d12c69717d82cee6ed2dbded02a4953d288f126db6be
+Section: Tweaks
+Description: Phone app as supposed to be
+Author: AnubisTweaks
+Name: Phone Enhancer 15
+
+Package: eg.anubistweaks.phoneenhancer15
+Version: 1.6.0-7
+Architecture: iphoneos-arm
+Maintainer: AnubisTweaks
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: debfiles/eg.anubistweaks.phoneenhancer15_1.6.0_iphoneos-arm.deb
+Size: 5952
+MD5sum: e4a17e6c22c32b992ad4908f760a3ac0
+SHA1: d27df3e5946658f62ce263d9380a82bfa9e66aa8
+SHA256: d3b5caba8bd07ebc684691a72377b03ff3ee56c2e2cedc4ad20a424d258a97c4
+Section: Tweaks
+Description: Phone app as supposed to be
+Author: AnubisTweaks
+Name: Phone Enhancer 15
+
+Package: eg.anubistweaks.phoneenhancer15
+Version: 1.6.5
+Architecture: iphoneos-arm
+Maintainer: AnubisTweaks
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: debfiles/eg.anubistweaks.phoneenhancer15_1.6.5_iphoneos-arm.deb
+Size: 5884
+MD5sum: 79a02d6ec81c947ce72c8252b879817d
+SHA1: 83c8fc8587a97c20f0af23d5a51e4432aa38a23f
+SHA256: 16c00864a9ba012e06263df3c658df52f9c3b1248cbfb25ebb829d31a5a4da8c
+Section: Tweaks
+Description: Phone app as supposed to be
+Author: AnubisTweaks
+Name: Phone Enhancer 15
+
+Package: eg.anubistweaks.phoneenhancer15
+Version: 1.6.5
+Architecture: iphoneos-arm64
+Maintainer: AnubisTweaks
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: debfiles/eg.anubistweaks.phoneenhancer15_1.6.5_iphoneos-arm64.deb
+Size: 5648
+MD5sum: e7f77a5c40d517834943d09237ebb56a
+SHA1: 3bc5de9fe948a8e63ccf2f10f75b8eec2dc7a407
+SHA256: b3bcea7d14836f58df3a105df184a7c87679180271973aed62920f2fda308e72
+Section: Tweaks
+Description: Phone app as supposed to be
+Author: AnubisTweaks
+Name: Phone Enhancer 15
+
+Package: eg.anubistweaks.phoneenhancer15
+Version: 1.6.5
+Architecture: iphoneos-arm64e
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 167
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: debfiles/eg.anubistweaks.phoneenhancer15_1.6.5_iphoneos-arm64e.deb
+Size: 8048
+MD5sum: 2937cde5e4f4f08ebbff02340611bfd6
+SHA1: 09e9a418d0be6df351ebf12ca3f4a510e9efadd9
+SHA256: ee6c940c7160438d0e04652daea7189d8d391f08e3ea3d341c35d7cb904d6aa1
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phoneenhancer15Dp
+Description: Phone app as supposed to be
+Tag: purpose::extension
+Author: AnubisTweaks <pixellark@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phoneenhancer15Dp
+Dev: anubistweaks
+Name: Phone Enhancer 15
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: emt.paisseon.xinamine
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: Sudo + Paisseon
+Installed-Size: 564
+Depends: ellekit, oldabi | cy+cpu.arm64, firmware (>= 15.0)
+Filename: debfiles/emt.paisseon.xinamine_0.0.5_iphoneos-arm64.deb
+Size: 70006
+MD5sum: 7f8ed32b1fd837e82809b7f2b2600998
+SHA1: cca516b753396474b40a2d686795801a528a107a
+SHA256: 84c09be66731624a44a2f39b2acb8e90db6130cd14874bc1e127aafe7332c6c4
+Section: System
+Description: Add Xina tweak compatibility to Dopamine
+Author: Sudo + Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Xinamine.png
+Name: Xinamine
+Sileodepiction: https://paisseon.github.io/depictions/Xinamine.json
+
+Package: me.anubistweaks.cocoatoptoggle
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: AnubisTweaks
+Installed-Size: 144
+Depends: mobilesubstrate
+Filename: debfiles/me.anubistweaks.cocoatoptoggle_1.0.0_iphoneos-arm.deb
+Size: 9226
+MD5sum: e4cae488f8b52fc44c49aba00d39025c
+SHA1: 40228df1560565f8fd78d3d41b9ff1c3af676f6e
+SHA256: 4de4caf279e6248797482d082d541ef5923c29f203998e6e76d023a0d3f6ed5a
+Section: Tweaks
+Description: An awesome Control Center module!
+Author: AnubisTweaks
+Name: CocoatopToggle
+
+Package: me.anubistweaks.cocoatoptoggle
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: AnubisTweaks
+Installed-Size: 144
+Depends: mobilesubstrate
+Filename: debfiles/me.anubistweaks.cocoatoptoggle_1.0.0_iphoneos-arm64.deb
+Size: 11626
+MD5sum: 41258a416b3fbf549155da4efdfbc6e3
+SHA1: b9f95f9707941c35c5858724e658eb3975850c01
+SHA256: c32d4a2e4a24c95c1aa54bff686e9ff0442065d0f574e7c53b5c9349f0fe7ec9
+Section: Tweaks
+Description: Cocoatop ccToggle.
+Author: AnubisTweaks
+Depiction: https://AnubisTweaks.github.io/description.html?id=me.anubistweaks.cocoatoptoggle
+Name: CocoatopToggle
+
+Package: me.anubistweaks.surgelauncher
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: AnubisTweaks
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: debfiles/me.anubistweaks.surgelauncher_1.0.0_iphoneos-arm.deb
+Size: 13568
+MD5sum: 08f38f1c809f1c7c67d3576686580894
+SHA1: c25bf422a85ff18a1320b42f87945593bbbc8929
+SHA256: 7a4d82fbf3d56f10b87fd63e22c3d442f098693340e17a03ec2f5889b9145ec6
+Section: Tweaks
+Description: An awesome Control Center module!
+Author: AnubisTweaks
+Name: SurgeLauncher
+
+Package: me.anubistweaks.surgelauncher
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: AnubisTweaks
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: debfiles/me.anubistweaks.surgelauncher_1.0.0_iphoneos-arm64.deb
+Size: 13476
+MD5sum: 1c82adfc4ea663cf1d96cf5bafc885ad
+SHA1: 22a04475eb669fa1b3e943432dd040747f9eccf3
+SHA256: 17787edace0d25221992ee433ffb3e782a48a55a99f4d898700ae854522e2fcb
+Section: Tweaks
+Description: An awesome Control Center module!
+Author: AnubisTweaks
+Name: SurgeLauncher
+
+Package: me.conorthedev.shylabels13
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: ConorTheDev
+Installed-Size: 400
+Depends: mobilesubstrate, oldabi, preferenceloader
+Replaces: com.noisyflake.shylabels
+Provides: com.noisyflake.shylabels
+Filename: debfiles/me.conorthedev.shylabels13_1.4_iphoneos-arm64.deb
+Size: 58732
+MD5sum: 8941e1d1183382100ac0c3345e54b270
+SHA1: 9e0cf7f5e209b135fec4845b9cd19fe4ee3ab770
+SHA256: eb5ec205ed329270cc1dee934603eafbea23f5ddcbe16e4bff1199efbb97e5f6
+Section: Tweaks
+Description: Hide your app labels when not scrolling
+Author: ConorTheDev + NoisyFlake
+Name: ShyLabels (rootless)
+
+Package: me.nepeta.selector
+Version: 0.1.3
+Architecture: iphoneos-arm64
+Maintainer: AnubisTweaks
+Installed-Size: 400
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Filename: debfiles/me.nepeta.selector_0.1.3_iphoneos-arm64.deb
+Size: 31768
+MD5sum: b72176360b1cdebba920c16559a757f7
+SHA1: 22bdc3413e7c07ef1a4adcf23b0d92555adcfb8e
+SHA256: 97c8b1886ec504738b43444904371a7e1ebc76c3a7072e617a964ce89d2fff75
+Section: Tweaks
+Description: Select text to search or translate
+Author: Nepeta & Baw Appie
+Name: Selector
+
+Package: run.er.wormctrl
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: AnubisTweaks
+Installed-Size: 1172
+Depends: mobilesubstrate, preferenceloader,oldabi
+Filename: debfiles/run.er.wormctrl_1.1.0_iphoneos-arm64.deb
+Size: 299020
+MD5sum: f9b10ac8d55988c599cb02d68fd26881
+SHA1: 2ac2a6457e89fa93fbe55b4ccd48cb7d00bbf8b9
+SHA256: cbcdb3d7746391eb7dbbe7596435c8c7a01ade1a73dcfe4baae9f6710851d468
+Section: System
+Description: This is the plugin of blackhole.
+Tag: role::hacker
+Author: yu + AnubisTweaks
+Name: Blackhole Plugin (rootless)
+
+Package: xyz.xninja.systeminfo
+Version: 2.7.2-3
+Architecture: iphoneos-arm64
+Maintainer: AnubisTweaks
+Depends: mobilesubstrate, oldabi
+Filename: debfiles/xyz.xninja.systeminfo_2.7.2-2_iphoneos-arm64.deb
+Size: 272868
+MD5sum: e6fa4c8f19d5f866c3653b47bf17ce03
+SHA1: 03e5d5b8316d9e540e1e6f3394b85a41fffbfbed
+SHA256: d528a67a6470368aafb879971dc1323d57be61c21ffe9383cfa9926e98c9e1e8
+Section: Tweaks
+Description: System information in Settings app > General > About, and other sections. Set boot-nonce, save SHSH, battery info etc
+Author: ARX8x + AnubisTweaks
+Depiction: https://arx8x.github.io/depictions/systeminfo.html
+Name: System Info (rootless)
+
+Package: zp.cocoatop64.unject
+Version: 3.0.1
+Architecture: iphoneos-arm64
+Maintainer: zp, SXX, Domo
+Installed-Size: 484
+Conflicts: ru.domo.cocoatop , ru.domo.cocoatop64 , zp.cocoatop64 , zp.cocoatop64.inject
+Filename: debfiles/zp.cocoatop64.unject_3.0.1_iphoneos-arm64.deb
+Size: 118810
+MD5sum: d840fbf5f171c01b001081964feca17c
+SHA1: e0f0cc07252e9ccbd9880b9f3e578cf4220e5e88
+SHA256: 250c484aa2312691c724026da18a663de090089af2c7801ddf9adcf49942acb0
+Section: Utilities
+Description: Process Viewer for iOS GUI, updated for iOS 15 by zp.
+Author: Domo, SXX , zp
+Name: CocoaTop64( unJECT )
+
