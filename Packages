@@ -97,22 +97,6 @@ Description: Enhance your control center on iOS 11 and iOS 12
 Author: ATWiiks
 Name: BetterCCXI
 
-Package: com.ethanrdoesmc.truecuts
-Version: 1.1.0
-Architecture: iphoneos-arm64
-Maintainer: EthanRDoesMC <ethanrdoesmc@gmail.com>
-Installed-Size: 152
-Depends: mobilesubstrate, firmware (>=13.0)
-Filename: debfiles/com.ethanrdoesmc.truecuts_1.1.0_iphoneos-arm64.deb
-Size: 3620
-MD5sum: af2db456d612d758179527747a0ce4d1
-SHA1: 46705ce96c7997a2b3710280bf44d36cc8c189a1
-SHA256: a4299c10a43a1b0762d4c517cfa1eea1194faad3d5b13db58901b941741b52fb
-Section: Tweaks
-Description: Allow all Shortcuts automations to be run without asking!
-Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
-Name: Truecuts
-
 Package: com.fiore.calculatorhistory
 Version: 1.1.3-1
 Architecture: iphoneos-arm64
@@ -270,24 +254,6 @@ Author: julioverne + AnubisTweaks
 Depiction: https://julioverne.github.io/description.html?id=com.julioverne.battrate
 Icon: file:///Library/PreferenceBundles/BattRateSettings.bundle/icon@2x.png
 Name: BattRate (rootless)
-
-Package: com.julioverne.ntspeed
-Version: 0.2~beta10
-Architecture: iphoneos-arm64
-Maintainer: AnubisTweaks
-Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader ,oldabi
-Filename: debfiles/com julioverne.ntspeed_0.2~beta10_iphoneos-arm64.deb
-Size: 52368
-MD5sum: 3ab6008688c8393bc4afeb819a6800e8
-SHA1: d240db13eb90088c5791bc2ca129a17fdb022447
-SHA256: 5bb3731b8b6967b8b19e34b97cfb1fc205c61a1a9542804a0e2a4e38410812db
-Section: Tweaks
-Homepage: https://twitter.com/ijulioverne
-Description: See Active Traffic Network Speed
-Author: julioverne , Anubistweaks
-Depiction: https://julioverne.github.io/description.html?id=com.julioverne.ntspeed
-Icon: file:///Library/PreferenceBundles/NtSpeedSettings.bundle/icon@2x.png
-Name: NtSpeed (rootless)
 
 Package: com.lema.wolf
 Version: 2.1
