@@ -276,7 +276,7 @@ Version: 0.2~beta10
 Architecture: iphoneos-arm64
 Maintainer: AnubisTweaks
 Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader ,oldabi
-Filename: debfiles/com julioverne.ntspeed_0.2~beta10_iphoneos-arm64.deb
+Filename: debfiles/com julioverne.ntspeed_0.2~beta11_iphoneos-arm64.deb
 Size: 52368
 MD5sum: 3ab6008688c8393bc4afeb819a6800e8
 SHA1: d240db13eb90088c5791bc2ca129a17fdb022447
@@ -471,7 +471,7 @@ Architecture: iphoneos-arm64
 Maintainer: AnubisTweaks
 Installed-Size: 198
 Depends: mobilesubstrate, firmware (>= 13.0)
-Filename: debfiles/com. shivesh.truestcuts_1.0.0-3_iphoneos-arm64.deb
+Filename: debfiles/com. shivesh.truestcuts_1.0.0-4_iphoneos-arm64.deb
 Size: 5476
 MD5sum: 22d630ad1e2e1f7d363fe79874fff491
 SHA1: 66de89c76b4183ea383b38db5191dc231aa8c21e
