@@ -500,6 +500,38 @@ Dev: anubistweaks
 Name: Phone Enhancer 15
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: eg.anubistweaks.phoneenhancer15
+Version: 1.7.0
+Architecture: iphoneos-arm
+Maintainer: AnubisTweaks
+Installed-Size: 412
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debfiles/eg.anubistweaks.phoneenhancer15_1.7.0_iphoneos-arm.deb
+Size: 14534
+MD5sum: 08499799fa46a7484faf28931ba5010f
+SHA1: a7649417f157164a6ebba818aae6f9fe3f3cee4a
+SHA256: c900102a834d8249d7fe19e7351befc6824acc9a278406419900267524ddc4c5
+Section: Tweaks
+Description: Your Phone App, as It's Supposed to Be.
+Author: AnubisTweaks
+Name: PhoneEnhancer15
+
+Package: eg.anubistweaks.phoneenhancer15
+Version: 1.7.0
+Architecture: iphoneos-arm64
+Maintainer: AnubisTweaks
+Installed-Size: 412
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debfiles/eg.anubistweaks.phoneenhancer15_1.7.0_iphoneos-arm64.deb
+Size: 14688
+MD5sum: be33d328331cc152544ddf417a1659a1
+SHA1: f1a06ecc59fc2fbf043a12ff1f7575dc6a8354d1
+SHA256: c3ec86635d250651538cd70b54e32a67d209c90558ade655ead1e301bb6a1fc0
+Section: Tweaks
+Description: Your Phone App, as It's Supposed to Be.
+Author: AnubisTweaks
+Name: PhoneEnhancer15
+
 Package: emt.paisseon.xinamine
 Version: 0.0.5
 Architecture: iphoneos-arm64
