@@ -30,6 +30,54 @@ Description: 17TRACK No Ads
 Author: AnubisTweaks
 Name: 17TRACKnoads (rootless)
 
+Package: com.anubistweaks.deleteallinactive
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: AnubisTweaks
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debfiles/com.anubistweaks.deleteallinactive_1.0_iphoneos-arm.deb
+Size: 5012
+MD5sum: f3a74af41f36a8b686d12732a241f484
+SHA1: d194c4ed4b6b6794add47caf3e7efe6c1c5822cf
+SHA256: 65bd727051f4a83eaaef1a5c9c6ea53f5946623cf5afed452967edc61e276826
+Section: Tweaks
+Description: Add Button to Delete all inactive alarms
+Author: AnubisTweaks
+Name: DeleteAllInactive
+
+Package: com.anubistweaks.deleteallinactive
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: AnubisTweaks
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debfiles/com.anubistweaks.deleteallinactive_1.0_iphoneos-arm64.deb
+Size: 5204
+MD5sum: edd469cc255d9af84e5abbe07a774df2
+SHA1: dcbfd6ea9f0419ec5e4be8b4ee5151f6e35b15bd
+SHA256: 228b9ee02534de4ebfcf13e4d79478e7842486cb3f9385d4893ac8dfce16cd2a
+Section: Tweaks
+Description: Add Button to Delete all inactive alarms
+Author: AnubisTweaks
+Name: DeleteAllInactive
+
+Package: com.anubistweaks.deleteallinactive
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: AnubisTweaks
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debfiles/com.anubistweaks.deleteallinactive_1.0_iphoneos-arm64e.deb
+Size: 5140
+MD5sum: e411842b63428641ced64b2beffea30a
+SHA1: 58d7c1b23b3d41d50f4db5363af2f5b281e7c5a6
+SHA256: 720bb19cffccaee9f09179ee84629f8ab8e0a2e629527bfbba2dc6d89d2c7af9
+Section: Tweaks
+Description: Add Button to Delete all inactive alarms
+Author: AnubisTweaks
+Name: DeleteAllInactive
+
 Package: com.anubistweaks.keyswipe11
 Version: 1.0.3
 Architecture: iphoneos-arm64
@@ -527,6 +575,22 @@ Size: 14688
 MD5sum: be33d328331cc152544ddf417a1659a1
 SHA1: f1a06ecc59fc2fbf043a12ff1f7575dc6a8354d1
 SHA256: c3ec86635d250651538cd70b54e32a67d209c90558ade655ead1e301bb6a1fc0
+Section: Tweaks
+Description: Your Phone App, as It's Supposed to Be.
+Author: AnubisTweaks
+Name: PhoneEnhancer15
+
+Package: eg.anubistweaks.phoneenhancer15
+Version: 1.7.0
+Architecture: iphoneos-arm64e
+Maintainer: AnubisTweaks
+Installed-Size: 412
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debfiles/eg.anubistweaks.phoneenhancer15_1.7.0_iphoneos-arm64e.deb
+Size: 14724
+MD5sum: fd79c80d9b955b760df2ae71b5a54ebe
+SHA1: 2750d7303daf9ae434484904fe7ba493f71e748e
+SHA256: ce4bfcd8325f8d1dc2629668a72bf03ae80bc6e4fd3b90453556c0aa131c29c0
 Section: Tweaks
 Description: Your Phone App, as It's Supposed to Be.
 Author: AnubisTweaks
