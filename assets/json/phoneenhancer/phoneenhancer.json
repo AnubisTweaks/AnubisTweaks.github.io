@@ -1,7 +1,7 @@
 {
     "minVersion": "0.1",
     "class": "DepictionTabView",
-    "tintColor": "#32C759",
+    "tintColor": "#caebf5",
     "headerImage": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/phoneenhancer/Top.png",
     "tabs": [
         {
@@ -55,12 +55,12 @@
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,
                     "useBottomMargin": false,
-                    "title": "Options"
+                    "title": "Features"
                 },
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "・Disable Blur - Disable blur on the background of control view\n\n・Hide \"iPhone\" text - Hide shitty \"iPhone\" text when played from device speaker"
+                    "markdown": "-Color-coded call history: This feature allows you to differentiate between incoming,outgoing, and missed calls by assigning different colors to each call status\n\n・-Vibration on call open/close: This feature makes your phone vibrate when you answer or end a call.\n\n・-Disabled voicemail tab: This feature disables the voicemail tab in your call history.\n\n・-Hidden third-party calling apps: This feature hides third-party calling apps from your call history.\n\n・- Show Exact time of call in call history credit for @gilshahar7Disable Blur - Disable blur on the background of control viewHide \"iPhone\" text - Hide shitty \"iPhone\" text when played from device speaker"
                 },
                                
                 {
@@ -98,13 +98,13 @@
                         {
                             "class": "DepictionTableButtonView",
                             "title": "Twitter",
-                            "action": "https://twitter.com/chromiumcandy",
+                            "action": "https://twitter.com/AnubisTweaks",
                             "openExternal": true
                         },
                         {
                             "class": "DepictionTableButtonView",
-                            "title": "BOOTH",
-                            "action": "https://chromiumcandy.booth.pm/",
+                            "title": "Github",
+                            "action": "https://github.com/AnubisTweaks",
                             "openExternal": true
                         }
                     ]
@@ -125,31 +125,11 @@
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,
                     "useBottomMargin": false,
-                    "title": "1.2"
+                    "title": "1.7"
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "-Added “Show progress bar” option\n\n-Added “Show Knob” option"
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "useBoldText": true,
-                    "useBottomMargin": false,
-                    "title": "1.1"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "-Fixed oldabi issue\n\n-Supported iPad"
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "useBoldText": true,
-                    "useBottomMargin": false,
-                    "title": "1.0"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "Initial release"
+                    "markdown": "-Added Settings Bundle"
                 }
 ]
         }
