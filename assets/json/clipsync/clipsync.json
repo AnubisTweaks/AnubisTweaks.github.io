@@ -80,11 +80,6 @@
                     "text": "iOS 15.0+"
                 },
                 {
-                    "class": "DepictionTableTextView",
-                    "title": "Price",
-                    "text": "Free"
-                },
-                {
                     "class": "DepictionSpacerView",
                     "spacing": 16
                 },
