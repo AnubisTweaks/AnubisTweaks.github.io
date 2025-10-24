@@ -11,33 +11,29 @@
                 {
                     "class": "DepictionScreenshotsView",
                     "screenshots": [
-                       
-                       {
-                        "url": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/clipsync/intro.png",
-                        "accessibilityText": "screeenshots",
-                         "fullSizeURL": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/clipsync/intro.png"
-                        },
-                    
                         {
-                        "url": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/clipsync/1.png",
-                        "accessibilityText": "screeenshots",
-                         "fullSizeURL": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/clipsync/1.png"
+                            "url": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/clipsync/intro.png",
+                            "accessibilityText": "screenshots",
+                            "fullSizeURL": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/clipsync/intro.png"
                         },
                         {
-                        "url": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/clipsync/2.png",
-                        "accessibilityText": "screeenshots",
-                         "fullSizeURL": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/clipsync/2.png"
+                            "url": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/clipsync/1.png",
+                            "accessibilityText": "screenshots",
+                            "fullSizeURL": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/clipsync/1.png"
                         },
                         {
-                        "url": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/clipsync/3.png",
-                        "accessibilityText": "screeenshots",
-                         "fullSizeURL": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/clipsync/3.png"
+                            "url": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/clipsync/2.png",
+                            "accessibilityText": "screenshots",
+                            "fullSizeURL": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/clipsync/2.png"
+                        },
+                        {
+                            "url": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/clipsync/3.png",
+                            "accessibilityText": "screenshots",
+                            "fullSizeURL": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/clipsync/3.png"
                         }
-                        ],
+                    ],
                     "itemCornerRadius": 10,
                     "itemSize": "{148,320}"
-                    
-                    
                 },
                 {
                     "class": "DepictionSubheaderView",
@@ -45,28 +41,23 @@
                     "useBottomMargin": true,
                     "title": "Description"
                 },
-                
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "ClipSync brings the power of universal clipboard to your jailbroken iOS device and Windows PC. Copy on one device, paste on another - it's that simple. "
+                    "markdown": "ClipSync brings the power of universal clipboard to your jailbroken iOS device and Windows PC. Copy on one device, paste on another - it's that simple."
                 },
-                
                 {
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,
                     "useBottomMargin": false,
                     "title": "Features"
                 },
-                
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "-Text - Copy text on iOS, paste on Windows (and vice versa)\n\n・-Images - Share photos and screenshots instantly\n\n・-Files - Transfer documents, archives, and any file type\n\n・-Multiple Files - Copy and paste multiple files at once with Filza integration."
+                    "markdown": "• **Text** - Copy text on iOS, paste on Windows (and vice versa)\n\n• **Images** - Share photos and screenshots instantly\n\n• **Files** - Transfer documents, archives, and any file type\n\n• **Multiple Files** - Copy and paste multiple files at once with Filza integration\n\n• **Bidirectional Sync** - Works both ways seamlessly\n\n• **Secure Authentication** - Custom auth keys for security"
                 },
-                               
                 {
                     "class": "DepictionSeparatorView"
                 },
-                
                 {
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,
@@ -86,7 +77,12 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Compatibility",
-                    "text": "iOS 15.0 - 15.4.1"
+                    "text": "iOS 15.0+"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Price",
+                    "text": "Free"
                 },
                 {
                     "class": "DepictionSpacerView",
@@ -115,23 +111,21 @@
                 }
             ]
         },
-        
         {
             "tabname": "Change Log",
             "class": "DepictionStackView",
-            "tintColor": "#32C759",
             "views": [
                 {
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,
                     "useBottomMargin": false,
-                    "title": "1.7"
+                    "title": "1.0.0"
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "-Added Settings Bundle"
+                    "markdown": "**Initial Release**\n\n• Bidirectional clipboard sync (iOS ↔ Windows)\n\n• Text, images, and files support\n\n• Multiple file transfer with Filza integration\n\n• Instant Filza pasteboard updates (Darwin notifications)\n\n• Rootless jailbreak support (auto-detects paths)\n\n• Secure authentication with custom auth keys\n\n• Cache management with clear cache button\n\n• Preserves original filenames\n\n• No ping-pong loops (smart hash tracking)\n\n• Fast sync (1.5s send, 2s receive intervals)"
                 }
-]
+            ]
         }
     ]
 }
