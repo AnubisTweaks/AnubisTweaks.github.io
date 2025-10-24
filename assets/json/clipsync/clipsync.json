@@ -1,0 +1,137 @@
+{
+    "minVersion": "0.1",
+    "class": "DepictionTabView",
+    "tintColor": "#caebf5",
+    "headerImage": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/clipsync/Top.png",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "class": "DepictionScreenshotsView",
+                    "screenshots": [
+                       
+                       {
+                        "url": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/clipsync/intro.png",
+                        "accessibilityText": "screeenshots",
+                         "fullSizeURL": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/clipsync/intro.png"
+                        },
+                    
+                        {
+                        "url": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/clipsync/1.png",
+                        "accessibilityText": "screeenshots",
+                         "fullSizeURL": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/clipsync/1.png"
+                        },
+                        {
+                        "url": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/clipsync/2.png",
+                        "accessibilityText": "screeenshots",
+                         "fullSizeURL": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/clipsync/2.png"
+                        },
+                        {
+                        "url": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/clipsync/3.png",
+                        "accessibilityText": "screeenshots",
+                         "fullSizeURL": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/clipsync/3.png"
+                        }
+                        ],
+                    "itemCornerRadius": 10,
+                    "itemSize": "{148,320}"
+                    
+                    
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "title": "Description"
+                },
+                
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "ClipSync brings the power of universal clipboard to your jailbroken iOS device and Windows PC. Copy on one device, paste on another - it's that simple. "
+                },
+                
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "Features"
+                },
+                
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "-Text - Copy text on iOS, paste on Windows (and vice versa)\n\n・-Images - Share photos and screenshots instantly\n\n・-Files - Transfer documents, archives, and any file type\n\n・-Multiple Files - Copy and paste multiple files at once with Filza integration."
+                },
+                               
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "Information"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Developer",
+                    "text": "AnubisTweaks"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Latest Version",
+                    "text": "1.0.0"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Compatibility",
+                    "text": "iOS 15.0 - 15.4.1"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionStackView",
+                    "views": [
+                        {
+                            "class": "DepictionTableButtonView",
+                            "title": "Twitter",
+                            "action": "https://twitter.com/AnubisTweaks",
+                            "openExternal": true
+                        },
+                        {
+                            "class": "DepictionTableButtonView",
+                            "title": "Github",
+                            "action": "https://github.com/AnubisTweaks",
+                            "openExternal": true
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                }
+            ]
+        },
+        
+        {
+            "tabname": "Change Log",
+            "class": "DepictionStackView",
+            "tintColor": "#32C759",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.7"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "-Added Settings Bundle"
+                }
+]
+        }
+    ]
+}
