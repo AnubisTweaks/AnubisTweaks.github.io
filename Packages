@@ -571,30 +571,36 @@ Maintainer: AnubisTweaks
 Installed-Size: 412
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debfiles/eg.anubistweaks.phoneenhancer15_1.7.0_iphoneos-arm64.deb
-Size: 14688
-MD5sum: be33d328331cc152544ddf417a1659a1
-SHA1: f1a06ecc59fc2fbf043a12ff1f7575dc6a8354d1
-SHA256: c3ec86635d250651538cd70b54e32a67d209c90558ade655ead1e301bb6a1fc0
+Size: 15116
+MD5sum: 96152f23dcce0455625a6d2f2816a9a4
+SHA1: 16a99d008fefbfe703af74062b51a9c8250a13fc
+SHA256: 8cdf0413205204397ce3e441631088babd179c111e9950ec295ff07f8e12ca2b
 Section: Tweaks
 Description: Your Phone App, as It's Supposed to Be.
 Author: AnubisTweaks
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/json/phoneenhancer/phoneenhancer.json&name=PhoneEnhancer%2015&dev=AnubisTweaks
+Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/phoneenhancer/icon.png
 Name: PhoneEnhancer15
+Sileodepiction: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/json/phoneenhancer/phoneenhancer.json
 
 Package: eg.anubistweaks.phoneenhancer15
-Version: 1.7.0
+Version: 2.0.0
 Architecture: iphoneos-arm64e
 Maintainer: AnubisTweaks
-Installed-Size: 412
+Installed-Size: 676
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debfiles/eg.anubistweaks.phoneenhancer15_1.7.0_iphoneos-arm64e.deb
-Size: 14724
-MD5sum: fd79c80d9b955b760df2ae71b5a54ebe
-SHA1: 2750d7303daf9ae434484904fe7ba493f71e748e
-SHA256: ce4bfcd8325f8d1dc2629668a72bf03ae80bc6e4fd3b90453556c0aa131c29c0
+Filename: debfiles/eg.anubistweaks.phoneenhancer15_2.0.0_iphoneos-arm64e.deb
+Size: 234466
+MD5sum: 21c9e97c7525b7e0a078854c357c9c8e
+SHA1: 33cebe7726b16ff1b75d106597596466ce772c79
+SHA256: ab52097b9c7fcc8d737f37b47e021b08add977ce2a2aefd3f6c98d52ccc4a594
 Section: Tweaks
 Description: Your Phone App, as It's Supposed to Be.
 Author: AnubisTweaks
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/json/phoneenhancer/phoneenhancer.json&name=PhoneEnhancer%2015&dev=AnubisTweaks
+Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/phoneenhancer/icon.png
 Name: PhoneEnhancer15
+Sileodepiction: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/json/phoneenhancer/phoneenhancer.json
 
 Package: emt.paisseon.xinamine
 Version: 0.0.5
