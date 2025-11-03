@@ -48,7 +48,7 @@
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "keepeye can greatly enhance your phone app by providing essential features such as vibrate feedback when calls are opened or closed and color-coded call log. and more. "
+                    "markdown": "Display real-time system information on your SpringBoard with customizable HUD overlays. Monitor CPU, RAM, Battery, and Network activity at a glance."
                 },
                 
                 {
@@ -60,7 +60,7 @@
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "-Color-coded call history: This feature allows you to differentiate between incoming,outgoing, and missed calls by assigning different colors to each call status. credit to @leftyflip\n\n・-Vibration on call open/close: This feature makes your phone vibrate when you answer or end a call.credit to @p2kdev\n\n・-Disabled voicemail tab: This feature disables the voicemail tab in your call history.\n\n・-Hidden third-party calling apps: This feature hides third-party calling apps from your call history.\n\n・- Show Exact time of call in call history credit for @gilshahar7"
+                    "markdown": "**CPU Monitor:** Real-time usage percentage with configurable update interval\n\n**RAM Monitor:** Free, used, and total memory display with customizable format\n\n**Battery Monitor:** Percentage, temperature, voltage, cycle count, charging stats, and adapter info. Tap to open battery settings\n\n**Network Monitor:** Upload/download speeds with auto-hide or always visible options\n\n**Customization:** Adjust position, size, colors, transparency, and corner radius for each monitor\n\n**Smart Behavior:** Auto-hide when screen locked, rotation support, master toggle for all monitors"
                 },
                                
                 {
@@ -81,12 +81,12 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Latest Version",
-                    "text": "1.7.0"
+                    "text": "1.0.0"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "title": "Compatibility",
-                    "text": "iOS 15.0 - 15.4.1"
+                    "text": "iOS 13.0+"
                 },
                 {
                     "class": "DepictionSpacerView",
@@ -125,13 +125,13 @@
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,
                     "useBottomMargin": false,
-                    "title": "1.7"
+                    "title": "1.0.0"
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "-Added Settings Bundle"
+                    "markdown": "**Initial Release**\n\n• Real-time CPU, RAM, Battery, and Network monitoring\n• Fully customizable HUD positioning and appearance\n• Master toggle and individual monitor controls\n• Adjustable update intervals (CPU & RAM)\n• Battery \"Only When Charging\" option\n• Network \"Always Visible\" option\n• Screen lock detection with auto-hide\n• Rotation support\n• Tap battery HUD to open settings\n• Custom format messages with variables\n• Reset to defaults for each monitor"
                 }
-]
+            ]
         }
     ]
 }
