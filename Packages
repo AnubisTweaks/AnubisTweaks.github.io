@@ -461,6 +461,22 @@ Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.debhoarder
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.debhoarder/icon/icon.png
 Name: DebHoarder (rootless)
 
+Package: eg.anubistweaks.fridacc
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: AnubisTweaks
+Installed-Size: 524
+Depends: firmware (>= 15.0), re.frida.server, com.opa334.ccsupport
+Filename: debfiles/eg.anubistweaks.fridacc_1.0.0_iphoneos-arm64e.deb
+Size: 18836
+MD5sum: 18d9da84d9b61f9c2104c5fb67ee44b2
+SHA1: ec07c2e3da7d328f8d569b49d334e884c4090e93
+SHA256: f81cecc3839c53a5241c76410eeb54a41d0815ccb4ac4319348fbba697a7900d
+Section: Control Center (Modules)
+Description: Control Center toggle for on-off Frida server
+Author: Anubistweaks
+Name: FridaCC
+
 Package: eg.anubistweaks.novoicemail15
 Version: 1.0-1
 Architecture: iphoneos-arm
