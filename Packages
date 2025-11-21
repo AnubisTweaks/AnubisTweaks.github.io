@@ -618,6 +618,38 @@ Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main
 Name: PhoneEnhancer15
 Sileodepiction: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/json/phoneenhancer/phoneenhancer.json
 
+Package: eg.anubistweaks.surgecc
+Version: 1.0.0-3+debug
+Architecture: iphoneos-arm64e
+Maintainer: Anubistweaks
+Installed-Size: 712
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: debfiles/eg.anubistweaks.surgecc_1.0.0_iphoneos-arm64.deb
+Size: 35036
+MD5sum: 3814fdb1087636015e493de36604bd10
+SHA1: e071392f96aa8393e2216cd9c36796d54f06f23c
+SHA256: 465f6d73794596c4a8962d18bbb0e1a1bacaf7dfa215f8ed203294df76acbad8
+Section: Control Center (Modules)
+Description: Control Center toggle for start and stop Surge connection
+Author: Anubistweaks
+Name: SurgeCC
+
+Package: eg.anubistweaks.surgecc
+Version: 1.0.0-4+debug
+Architecture: iphoneos-arm64
+Maintainer: Anubistweaks
+Installed-Size: 712
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: debfiles/eg.anubistweaks.surgecc_1.0.0_iphoneos-arm64e.deb
+Size: 34920
+MD5sum: 27e737f345e555b9fa705a6edca0b1c3
+SHA1: 7f5b44c2dd647bfa82db94f4a2992c15e1f13a99
+SHA256: fee2c6b0c08127ef53284b18e4ebd75e776f10f23ac600d5489203383734c432
+Section: Control Center (Modules)
+Description: Control Center toggle for start and stop Surge connection
+Author: Anubistweaks
+Name: SurgeCC
+
 Package: emt.paisseon.xinamine
 Version: 0.0.5
 Architecture: iphoneos-arm64
