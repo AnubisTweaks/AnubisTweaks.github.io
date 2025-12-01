@@ -1,0 +1,137 @@
+{
+    "minVersion": "0.1",
+    "class": "DepictionTabView",
+    "tintColor": "#0A84FF",
+    "headerImage": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/rotatepro/Top.png",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "class": "DepictionScreenshotsView",
+                    "screenshots": [
+                       {
+                        "url": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/rotatepro/intro.png",
+                        "accessibilityText": "screenshots",
+                         "fullSizeURL": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/rotatepro/intro.png"
+                        },
+                        {
+                        "url": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/rotatepro/1.png",
+                        "accessibilityText": "screenshots",
+                         "fullSizeURL": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/rotatepro/1.png"
+                        },
+                        {
+                        "url": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/rotatepro/2.png",
+                        "accessibilityText": "screenshots",
+                         "fullSizeURL": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/rotatepro/2.png"
+                        },
+                        {
+                        "url": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/rotatepro/3.png",
+                        "accessibilityText": "screenshots",
+                         "fullSizeURL": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/rotatepro/3.png"
+                        }
+                    ],
+                    "itemCornerRadius": 10,
+                    "itemSize": "{148,320}"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "title": "Description"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "**RotatePro** gives you complete control over your screen orientation with an elegant floating button that's always accessible. Lock your device in any orientation with a single tap and position the button anywhere on your screen."
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "How It Works"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "**Manual Mode:**\n\nRotate your device to the orientation you want (portrait, landscape left, landscape right, or upside down). When you tap the floating button, your screen immediately rotates to match your device's physical position and locks there.\n\nFor example: Hold your device in landscape and press the button → your screen locks to landscape. Physically rotate to portrait and press the button → your screen rotates to portrait and locks there. The screen stays locked in that orientation no matter how you move your device, until you press the button again in a different physical position.\n\n**Smart Mode:**\n\nTap the floating button in any app to temporarily unlock rotation - your screen can now freely rotate as you move your device. When you exit the app (go home, open app switcher, or switch to another app), rotation automatically locks back to portrait. When you return to that app later, you'll find it locked to portrait again. Press the button to unlock rotation whenever needed."
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "Key Features"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "• **Dual operation modes** (Manual/Smart) - choose your preferred behavior\n\n• **Draggable button** - long-press and drag to position it anywhere on screen\n\n• **Three blur styles** - Auto (adapts to system theme), Dark, or Light\n\n• **Three button sizes** - Small, Medium, or Big\n\n• **Haptic feedback options** - Light, Heavy, or Triple tap sensation\n\n• **App blacklist** - hide the button completely in selected apps\n\n• **Instant settings** - all changes apply immediately without respring\n\n• **Position memory** - button remembers where you placed it"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "Information"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Developer",
+                    "text": "AnubisTweaks"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Latest Version",
+                    "text": "1.0.0"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Compatibility",
+                    "text": "iOS 15.0"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionStackView",
+                    "views": [
+                        {
+                            "class": "DepictionTableButtonView",
+                            "title": "Twitter",
+                            "action": "https://x.com/AnubisTweaks",
+                            "openExternal": true
+                        },
+                        {
+                            "class": "DepictionTableButtonView",
+                            "title": "Github",
+                            "action": "https://github.com/AnubisTweaks",
+                            "openExternal": true
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                }
+            ]
+        },
+        {
+            "tabname": "Change Log",
+            "class": "DepictionStackView",
+            "tintColor": "#32C759",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.0.0"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "**Latest Release**\n\n• Dual operation modes: Manual and Smart\n• Floating draggable button with position memory\n• Three blur styles: Auto, Dark, Light\n• Auto appearance: Inverted blur (Dark mode → Light blur, Light mode → Dark blur)\n• PNG icon support with @2x/@3x retina assets\n• Three button sizes: Small (60px), Medium (70px), Big (80px)\n• Haptic feedback options: Light, Heavy, Triple\n• App blacklist support\n• Instant settings without respring\n• Complete rotation control in all orientations"
+                }
+            ]
+        }
+    ]
+}
