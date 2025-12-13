@@ -1,0 +1,127 @@
+{
+    "minVersion": "0.1",
+    "class": "DepictionTabView",
+    "tintColor": "#00FF00",
+    "headerImage": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/boardswipe/Top.png",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "class": "DepictionScreenshotsView",
+                    "screenshots": [
+                       {
+                        "url": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/boardswipe/intro.png",
+                        "accessibilityText": "screenshots",
+                         "fullSizeURL": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/boardswipe/intro.png"
+                        },
+                        {
+                        "url": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/boardswipe/1.png",
+                        "accessibilityText": "screenshots",
+                         "fullSizeURL": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/boardswipe/1.png"
+                        }
+                    ],
+                    "itemCornerRadius": 10,
+                    "itemSize": "{148,320}"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "title": "Description"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "**BoardSwipe** brings effortless keyboard control to iOS with intuitive swipe gestures. Dismiss your keyboard or switch between languages with simple, natural swipes - no more hunting for buttons or reaching for interface elements."
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "How It Works"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "**Swipe Down to Dismiss:**\n\nWhen your keyboard is visible in any app, simply swipe down anywhere on the keyboard surface to dismiss it. The keyboard smoothly slides away, giving you instant access to your full screen content. Works with the system keyboard, third-party keyboards, and even keyboard extensions.\n\n**Swipe Up to Switch:**\n\nHave multiple keyboards or languages installed? Swipe up on the keyboard to instantly cycle through them. No need to tap the globe icon - just swipe and switch. Perfect for multilingual users who frequently switch between languages while typing.\n\n**Haptic Feedback:**\n\nEvery swipe gesture provides subtle haptic feedback, so you know your gesture was recognized. The vibration confirms your action, making the experience feel responsive and natural.\n\n**Force Prediction Bar:**\n\nEnable this option to ensure the autocorrection and prediction bar is always visible, even in apps that normally hide it. Great for users who rely on predictive text suggestions."
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "Key Features"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "• **Swipe down gesture** - quickly dismiss the keyboard with a downward swipe\n\n• **Swipe up gesture** - instantly switch between installed keyboards and languages\n\n• **Haptic feedback** - feel responsive vibrations confirming each gesture\n\n• **Force prediction bar** - always show autocorrection and word suggestions\n\n• **Universal compatibility** - works with system keyboard, third-party keyboards, and all apps\n\n• **Safari support** - full functionality in Safari and other sandboxed apps\n\n• **Instant settings** - all changes apply immediately without respring\n\n• **Privacy first** - no data collection, no network access, purely local functionality\n\n• **Lightweight** - minimal resource usage, no performance impact"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "Information"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Developer",
+                    "text": "AnubisTweaks"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Latest Version",
+                    "text": "1.0.0"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Compatibility",
+                    "text": "iOS 15.0+"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionStackView",
+                    "views": [
+                        {
+                            "class": "DepictionTableButtonView",
+                            "title": "Twitter",
+                            "action": "https://x.com/AnubisTweaks",
+                            "openExternal": true
+                        },
+                        {
+                            "class": "DepictionTableButtonView",
+                            "title": "Github",
+                            "action": "https://github.com/AnubisTweaks",
+                            "openExternal": true
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                }
+            ]
+        },
+        {
+            "tabname": "Change Log",
+            "class": "DepictionStackView",
+            "tintColor": "#00FF00",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.0.0"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "**Initial Release**\n\n• Swipe down gesture to dismiss keyboard\n• Swipe up gesture to switch between keyboards\n• Haptic feedback for gesture confirmation\n• Force prediction bar option for autocorrection\n• Full Safari and sandboxed app support\n• Support for third-party keyboards\n• Master toggle for all features\n• Individual toggles for each gesture\n• Instant settings without respring required\n• Clean install with default settings\n• Multiple preference path support (rootless/rootfull)\n• Privacy-focused: no data collection or network access"
+                }
+            ]
+        }
+    ]
+}
