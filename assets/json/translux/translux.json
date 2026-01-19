@@ -1,0 +1,137 @@
+{
+    "minVersion": "0.1",
+    "class": "DepictionTabView",
+    "tintColor": "#00FF00",
+    "headerImage": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/translux/Top.png",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "class": "DepictionScreenshotsView",
+                    "screenshots": [
+                        {
+                        "url": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/translux/1.png",
+                        "accessibilityText": "screenshots",
+                         "fullSizeURL": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/translux/1.png"
+                        },
+                        {
+                        "url": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/translux/2.png",
+                        "accessibilityText": "screenshots",
+                         "fullSizeURL": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/translux/2.png"
+                        },
+                        {
+                        "url": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/translux/3.png",
+                        "accessibilityText": "screenshots",
+                         "fullSizeURL": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/translux/3.png"
+                        }
+                    ],
+                    "itemCornerRadius": 10,
+                    "itemSize": "{148,320}"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "title": "Description"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "**TransLux** transforms your iOS experience with seamless, system-wide translation integration. Add intelligent translation buttons directly to your text selection menu, making multilingual communication effortless across all your apps."
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "How It Works"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "**Select and Translate:**\n\nSimply select any text in any app - whether it's a message, email, web page, or social media post. TransLux adds translation buttons to your text selection callout bar, giving you instant access to powerful translation engines without leaving your current app.\n\n**Multiple Translation Engines:**\n\nChoose from four powerful translation engines: Google Translate (primary), Baidu Translate, ModernMT, and Microsoft Translator. Each engine has its strengths, and you can switch between them instantly with a single tap on the engine icon in the TransLux UI. If one engine is unavailable or restricted in your region, seamlessly switch to another.\n\n**Smart Translation Interface:**\n\nThe translation appears in a beautiful, native-looking interface that matches your system theme. View both your original text and translation side-by-side, with clear language indicators. The interface supports both portrait and landscape modes, adapts to your screen size, and can be dismissed with a simple tap outside.\n\n**Customizable Language Pairs:**\n\nConfigure two language pairs for quick access. TransLux automatically detects the source language and translates to your preferred target language. Perfect for bilingual users who frequently switch between specific languages.\n\n**Intelligent Caching:**\n\nTransLux remembers your recent translations, providing instant results for previously translated text. This dramatically improves performance and reduces network usage, making your translation experience lightning-fast."
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "Key Features"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "• **Four translation engines** - Google, Baidu, ModernMT, and Microsoft with instant switching\n\n• **Smart text selection** - translation buttons appear directly in the callout bar\n\n• **Dual language configuration** - set up two language pairs for quick translations\n\n• **Customizable button styles** - choose between Text, Symbol, or Image buttons\n\n• **Three UI themes** - Auto, Dark, and Light modes to match your preference\n\n• **Three size options** - Compact, Medium, or Big interface for optimal readability\n\n• **App whitelist system** - enable TransLux only in the apps you choose\n\n• **Landscape mode support** - works perfectly in both portrait and landscape orientations\n\n• **Performance optimized** - intelligent caching system for lightning-fast translations\n\n• **Tap to dismiss** - tap anywhere outside the translation UI to close it\n\n• **Text shadow option** - enhance readability with optional text shadows\n\n• **Universal compatibility** - works with user apps and system apps\n\n• **DRM protection** - license activation system ensures authorized usage\n\n• **Privacy focused** - translations are processed securely without storing sensitive data"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "Information"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Developer",
+                    "text": "AnubisTweaks"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Latest Version",
+                    "text": "1.0.0"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Compatibility",
+                    "text": "iOS 15.4.1+"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Jailbreak",
+                    "text": "Dopamine & RootHide"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionStackView",
+                    "views": [
+                        {
+                            "class": "DepictionTableButtonView",
+                            "title": "Twitter",
+                            "action": "https://x.com/AnubisTweaks",
+                            "openExternal": true
+                        },
+                        {
+                            "class": "DepictionTableButtonView",
+                            "title": "Github",
+                            "action": "https://github.com/AnubisTweaks",
+                            "openExternal": true
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                }
+            ]
+        },
+        {
+            "tabname": "Change Log",
+            "class": "DepictionStackView",
+            "tintColor": "#00FF00",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.0.0"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "**Initial Release**\n\n• Four translation engines: Google, Baidu, ModernMT, Microsoft\n• Instant engine switching with single tap\n• Smart text selection integration\n• Dual language pair configuration\n• Three button styles: Text, Symbol, Image\n• Three UI themes: Auto, Dark, Light\n• Three size options: Compact, Medium, Big\n• App whitelist system for precise control\n• Landscape mode support\n• Intelligent caching for performance\n• Tap outside to dismiss\n• Optional text shadow\n• License activation with DRM protection\n• Master toggle and granular controls\n• Support for user and system apps\n• Instant settings without respring\n• String encryption and obfuscation\n• Optimized for Dopamine and RootHide jailbreaks\n• Open source attribution: UnicodeFaces3.0 (MIT License)"
+                }
+            ]
+        }
+    ]
+}
