@@ -1,0 +1,170 @@
+{
+    "minVersion": "0.1",
+    "class": "DepictionTabView",
+    "tintColor": "#185079",
+    "headerImage": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/phonehub/Top.png",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "class": "DepictionScreenshotsView",
+                    "screenshots": [
+                        {
+                            "url": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/phonehub/1.png",
+                            "accessibilityText": "screenshots",
+                            "fullSizeURL": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/phonehub/1.png"
+                        },
+                        {
+                            "url": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/phonehub/2.png",
+                            "accessibilityText": "screenshots",
+                            "fullSizeURL": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/phonehub/2.png"
+                        },
+                        {
+                            "url": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/phonehub/3.png",
+                            "accessibilityText": "screenshots",
+                            "fullSizeURL": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/phonehub/3.png"
+                        },
+                        {
+                            "url": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/phonehub/4.png",
+                            "accessibilityText": "screenshots",
+                            "fullSizeURL": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/phonehub/4.png"
+                        },
+                        {
+                            "url": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/phonehub/5.png",
+                            "accessibilityText": "screenshots",
+                            "fullSizeURL": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/phonehub/5.png"
+                        },
+                        {
+                            "url": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/phonehub/6.png",
+                            "accessibilityText": "screenshots",
+                            "fullSizeURL": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/phonehub/6.png"
+                        },
+                        {
+                            "url": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/phonehub/7.png",
+                            "accessibilityText": "screenshots",
+                            "fullSizeURL": "https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/img/phonehub/7.png"
+                        }
+                    ],
+                    "itemCornerRadius": 10,
+                    "itemSize": "{148,320}"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "title": "Description"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "**PhoneHub** is a complete overhaul of the stock iOS Phone app, built around a four-engine Caller ID system, an automated redial engine, multi-SIM call control, and dozens of refinements to recents, in-call UI, and tab layout. Everything runs inside the native Phone app — no separate launcher, no companion app to keep alive in the background."
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "How It Works"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "**Four Caller ID Engines:**\n\nIdentify any unknown number using four independent lookup providers, each toggleable on its own. Truecaller offers global coverage with caller names, tags, and spam reporting. GetContact provides strong coverage across the Middle East, Asia, and Europe, including private tags. NumberBook focuses on Saudi Arabia. Kuwait is a built-in dual source for Kuwaiti numbers and requires no configuration.\n\n**Tap to Switch Engine:**\n\nPick your primary engine in settings. In an In-Cell result, tap the engine icon on any row to retry the lookup with the next enabled engine. During a live call, tap the Caller ID result on screen to do the same. No app switching, no copy-paste.\n\n**Three Display Modes:**\n\nChoose how identified callers appear: Alert (a clean popup with the name), In Cell (rendered directly inside the recent call row), or AnuAlert (a full scrollable card showing every tag, source, and metadata field returned by the engine). Independent font size sliders for the full-screen call view and the compact CallBar banner during calls.\n\n**Live In-Call Identification:**\n\nCaller ID runs automatically the moment a call connects, for both incoming and outgoing. Configure it to skip saved contacts, disable auto-search if you only want manual lookups, or query a local cache so the same number is never looked up twice. A manual PhoneHub button is also added to every entry in the recent call history for on-demand lookups without redialing.\n\n**Local Lookup Cache:**\n\nEvery successful Caller ID lookup is stored locally on the device. The next time the same number calls you or appears in your recents, the name is shown instantly — no network request, no waiting on the engine to reply. Works across all four engines, persists across respring and reboot, and is only cleared manually. Cached results are still served even without internet, so known numbers identify on airplane mode or weak signal.\n\n**Auto Redial:**\n\nAutomatically retry calls that did not connect. Two independent triggers: Busy (redial after a configurable delay, 1–30 seconds) and No Answer or Unreachable (redial after the carrier's voice message ends, then wait for the chosen delay, 1–60 seconds). Optionally auto-enable speakerphone the moment a redial connects, with Medium or Heavy haptic feedback on every retry.\n\n**Smart Loudspeaker:**\n\nAudio routing follows the proximity sensor in real time during calls. Phone held near the ear routes to the earpiece; phone on a table or away from the face routes to the loudspeaker. Manual speaker taps during a call are respected. Optional vibration when the route switches, and on call connect or disconnect.\n\n**SIM Picker and Phone App Refinements:**\n\nFor dual-SIM users, pick which SIM to use before every outgoing call. The recents list gains a search bar, the ability to hide third-party VoIP or FaceTime entries, exact call times instead of \"2m ago\", color-coded call types, and a confirm step before dialing any number. Phone app tabs (Favorites, Recents, Contacts, Keypad, Voicemail) can each be hidden individually."
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "Key Features"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "• **Four Caller ID engines** — Truecaller, GetContact, NumberBook, and Kuwait (built-in dual source, no configuration required)\n\n• **Tap to cycle engines** — switch to the next enabled engine instantly from the In-Cell row or the live call screen\n\n• **Three result display modes** — Alert popup, In-Cell row, or AnuAlert rich card with all tags\n\n• **Live in-call identification** — automatic lookup the moment a call connects, for both incoming and outgoing\n\n• **Local lookup cache** — instant results for repeat numbers, works even on airplane mode or weak signal\n\n• **Manual PhoneHub button** — on-demand lookup on any recent call entry without redialing\n\n• **Skip saved contacts** — don't query the engine for numbers already in your address book\n\n• **Auto Redial** — busy and no-answer/unreachable triggers, each with its own configurable delay\n\n• **Auto speaker on redial connect** — never miss a callback because the phone was on the table\n\n• **Smart Loudspeaker** — proximity-driven audio routing during calls, with manual taps preserved\n\n• **SIM Picker** — choose your outgoing SIM before every call\n\n• **Recents search bar** — find any past call by name or number\n\n• **Hide VoIP and FaceTime** — keep your recents list focused on cellular calls\n\n• **Exact call time** — replace \"2m ago\" with the precise timestamp\n\n• **Color-coded call types** — distinguish incoming, outgoing, missed, and rejected at a glance\n\n• **Confirm before dialing** — guard against accidental calls from contact taps\n\n• **Phone tab control** — hide any of Favorites, Recents, Contacts, Keypad, or Voicemail\n\n• **Custom font sizes** — independent sliders for the full-screen call UI and the compact CallBar banner\n\n• **Optional haptic feedback** — Medium or Heavy on every redial attempt, plus on audio route switches\n\n• **Localized in 9 languages** — Arabic, English, German, Spanish, French, Japanese, Korean, Vietnamese, Simplified Chinese\n\n• **Rootless and RootHide** — full compatibility with Dopamine and RootHide jailbreaks\n\n• **Native Phone app integration** — no companion app, nothing to launch separately"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "Information"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Developer",
+                    "text": "AnubisTweaks"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Latest Version",
+                    "text": "1.0.1"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Compatibility",
+                    "text": "iOS 15 - iOS 17"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Jailbreak",
+                    "text": "Dopamine & RootHide"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionStackView",
+                    "views": [
+                        {
+                            "class": "DepictionTableButtonView",
+                            "title": "Twitter",
+                            "action": "https://x.com/AnubisTweaks",
+                            "openExternal": true
+                        },
+                        {
+                            "class": "DepictionTableButtonView",
+                            "title": "Github",
+                            "action": "https://github.com/AnubisTweaks",
+                            "openExternal": true
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                }
+            ]
+        },
+        {
+            "tabname": "Change Log",
+            "class": "DepictionStackView",
+            "tintColor": "#185079",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.0.1"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "**Smart Loudspeaker Fix**\n\n• Outgoing calls: manual speaker-OFF taps before connect are now respected — the loudspeaker no longer turns back on automatically the moment the call connects\n• Incoming calls: initial proximity check on connect is unchanged — Smart Loudspeaker still works exactly as before for incoming calls\n• Proximity-driven route switching during the call continues to work in both directions, untouched\n\n**Settings UI Refinements**\n\n• Configured engine cells (Truecaller, GetContact, NumberBook) now show \"Tap to remove token\" so it is clear how to reconfigure an engine\n• New footer under the engine list explains that tapping a configured engine removes its saved token and lets you configure it again\n• Main Search Engine footer rewritten to explain that tapping the engine icon in In-Cell results, or tapping the Caller ID result during a call, switches to the next enabled engine\n• Auto Redial: \"Redial When Not Picked Up\" renamed to \"Redial When No Answer or Unreachable\", with footer clarifying that PhoneHub waits for the carrier's voice message to end before the redial delay begins\n\n**Localization**\n\n• All new and updated strings translated across the 9 supported languages: Arabic, English, German, Spanish, French, Japanese, Korean, Vietnamese, Simplified Chinese"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.0.0"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "**Initial Release**\n\n• Four Caller ID engines: Truecaller, GetContact, NumberBook, Kuwait\n• Three result display modes: Alert, In Cell, AnuAlert\n• Live in-call identification for incoming and outgoing calls\n• Tap-to-cycle between engines from In-Cell rows and the live call screen\n• Local lookup cache with manual clear control and offline support\n• Manual PhoneHub button on every recent call entry\n• Auto Redial with busy and no-answer/unreachable triggers\n• Configurable redial delays (1–30s busy, 1–60s no-answer) and optional auto-speaker on connect\n• Smart Loudspeaker with proximity-driven audio routing\n• Optional vibration on audio route switches and on call connect/disconnect\n• SIM Picker for dual-SIM call origination\n• Recents enhancements: search bar, hide VoIP and FaceTime, exact time, color-coded types, confirm before dialing\n• Phone app tab control: hide any of Favorites, Recents, Contacts, Keypad, Voicemail\n• Independent font sliders for full-screen call UI and CallBar banner\n• Skip-saved-contacts option to avoid querying engines for known numbers\n• Disable-auto-search option for manual-only lookups\n• Medium or Heavy haptic feedback styles\n• Localized in 9 languages\n• License activation with DRM protection\n• Optimized for Dopamine (rootless) and RootHide jailbreaks"
+                }
+            ]
+        }
+    ]
+}
