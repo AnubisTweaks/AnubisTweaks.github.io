@@ -1,35 +1,3 @@
-Package: com.anubistweaks.17tracknoads
-Version: 0.0.1-1+debug
-Architecture: iphoneos-arm
-Maintainer: AnubisTweaks
-Installed-Size: 184
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debfiles/com.anubistweaks.17tracknoads_0.0.1-1_iphoneos-arm.deb
-Size: 3954
-MD5sum: cfa71cefc5a8ca71ed1fcc0da5535b72
-SHA1: f21393b7b8b3bd5c5b090f184797fa6accf13c4a
-SHA256: bea2796a8fd500c2d53a992a3926b02e477d8a6af285b2b35b1ff6b9f19fe4f9
-Section: Tweaks
-Description: 17TRACK No Ads
-Author: AnubisTweaks
-Name: 17TRACKnoads
-
-Package: com.anubistweaks.17tracknoads
-Version: 0.0.1-1+debug
-Architecture: iphoneos-arm64
-Maintainer: AnubisTweaks
-Installed-Size: 184
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debfiles/com.anubistweaks.17tracknoads_0.0.1-1_iphoneos-arm64.deb
-Size: 3740
-MD5sum: e727cfa888b8cf21cd3ea305dff48f4b
-SHA1: 5eefe40e741935ef58441a3afe95b9ada493b071
-SHA256: ca32b3d93d556d9adb1e19885fc74cd39f429f7bba113502a352003ba497fc00
-Section: Tweaks
-Description: 17TRACK No Ads
-Author: AnubisTweaks
-Name: 17TRACKnoads (rootless)
-
 Package: com.anubistweaks.deleteallinactive
 Version: 1.0
 Architecture: iphoneos-arm
@@ -96,54 +64,6 @@ Depiction: https://julioverne.github.io/description.html?id=com.julioverne.keysw
 Dev: delewhopper
 Icon: file:///Library/PreferenceLoader/Preferences/KeySwipe/KeySwipe.png
 Name: KeySwipe (iOS 11) (rootless)
-
-Package: com.anubistweaks.payoneerjbbypass
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: AnubisTweaks
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debfiles/com.anubistweaks.payoneerjbbypass_0.0.1_iphoneos-arm.deb
-Size: 2718
-MD5sum: 460a091790ead58a4387ee2a79b7bfd3
-SHA1: 0fe7a6aa49bb50c38ae5061a3935d69a6203eaa3
-SHA256: 11c7956dbf340c8065c0085c9c9b7052c6a77213a90e5c268882ae845d7cca55
-Section: Tweaks
-Description: Bypass JB detection for Payoneer bank app
-Author: AnubisTweaks
-Name: PayoneerJBBypass
-
-Package: com.anubistweaks.payoneerjbbypass
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: AnubisTweaks
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debfiles/com.anubistweaks.payoneerjbbypass_0.0.1_iphoneos-arm64.deb
-Size: 2876
-MD5sum: 7b17680e498fb9dddf37cf5bc122f0e4
-SHA1: 7c916c70209d21b7eab45f71eb30b2761380993f
-SHA256: e6c129a729207d7cb87fab563d5ddc78b42aef579be0bde37d770c3cfb9000a0
-Section: Tweaks
-Description: Bypass JB detection for Payoneer bank app
-Author: AnubisTweaks
-Name: PayoneerJBBypass
-
-Package: com.atwiiks.betterccxi
-Version: 1.6.0
-Architecture: iphoneos-arm64
-Maintainer: ATWiiks
-Installed-Size: 640
-Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
-Filename: debfiles/com.atwiiks.betterccxi_1.6.0_iphoneos-arm64.deb
-Size: 82064
-MD5sum: 4097f6242f8271ffc34de451896f63a0
-SHA1: 4e27ac1c07a49154d7d438d1d29e9a7c6b64e4fc
-SHA256: fee3e80627c41f3e20f86aa56dbcb3313706b48ec601ca127826472e36d7d3bd
-Section: Tweaks
-Description: Enhance your control center on iOS 11 and iOS 12
-Author: ATWiiks
-Name: BetterCCXI
 
 Package: com.ethanrdoesmc.truecuts
 Version: 1.1.0
@@ -617,6 +537,44 @@ Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://raw.g
 Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/phoneenhancer/icon.png
 Name: PhoneEnhancer15
 Sileodepiction: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/json/phoneenhancer/phoneenhancer.json
+
+Package: eg.anubistweaks.rafiq
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: AnubisTweaks
+Installed-Size: 30984
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: eg.anubistweaks.rafiqspring
+Replaces: eg.anubistweaks.rafiqspring
+Provides: eg.anubistweaks.rafiqspring
+Filename: debfiles/eg.anubistweaks.rafiq_1.0_iphoneos-arm64.deb
+Size: 26761816
+MD5sum: 1fc582f8a5854325a675b593e82167ad
+SHA1: 1a85431d289264be13e35c4e24a07b6563a5524c
+SHA256: b911765e9924300e98688f74c6a602aef769a6b94223ed1a7194d858fceacbf7
+Section: Tweaks
+Description: Islamic companion - Qibla indicator in Compass, native prayer-time alarms in Clock, and a Home Screen widget with your agenda, reminders, alarms, weather and the 99 Names. Offline, modular, localized in 7 languages, with a Settings page.
+Author: AnubisTweaks
+Name: Rafiq
+
+Package: eg.anubistweaks.rafiq
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: AnubisTweaks
+Installed-Size: 30984
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: eg.anubistweaks.rafiqspring
+Replaces: eg.anubistweaks.rafiqspring
+Provides: eg.anubistweaks.rafiqspring
+Filename: debfiles/eg.anubistweaks.rafiq_1.0_iphoneos-arm64e.deb
+Size: 26764528
+MD5sum: c73d97be7450d9fde0e624d31c7b1c6f
+SHA1: 07c71ecd60ddd995c228b2303645ad8b2d2f2ec7
+SHA256: 1267a5a067ac6fe6e35826170de8343f4aaa3763b681fb0d47cdd542fc393b29
+Section: Tweaks
+Description: Islamic companion - Qibla indicator in Compass, native prayer-time alarms in Clock, and a Home Screen widget with your agenda, reminders, alarms, weather and the 99 Names. Offline, modular, localized in 7 languages, with a Settings page.
+Author: AnubisTweaks
+Name: Rafiq
 
 Package: eg.anubistweaks.surgecc
 Version: 1.0.0-3+debug
