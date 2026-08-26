@@ -652,6 +652,44 @@ Description: Islamic companion - Qibla indicator in Compass, native prayer-time 
 Author: AnubisTweaks
 Name: Rafiq
 
+Package: eg.anubistweaks.rafiq
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: AnubisTweaks
+Installed-Size: 31060
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: eg.anubistweaks.rafiqspring
+Replaces: eg.anubistweaks.rafiqspring
+Provides: eg.anubistweaks.rafiqspring
+Filename: debfiles/eg.anubistweaks.rafiq_1.3_iphoneos-arm64.deb
+Size: 26775240
+MD5sum: af0bb82bae07209012e97170e59917e0
+SHA1: f611106052570d286b7dcb7047b142fe3ae254a6
+SHA256: 68e03fe8662a6e18c89078c8777223255102fe3ea01ad0b08838f5186f3fb529
+Section: Tweaks
+Description: Islamic companion - Qibla indicator in Compass, native prayer-time alarms in Clock, and a Home Screen widget with your agenda, reminders, alarms, weather and the 99 Names. Offline, modular, localized in 7 languages, with a Settings page.
+Author: AnubisTweaks
+Name: Rafiq
+
+Package: eg.anubistweaks.rafiq
+Version: 1.3
+Architecture: iphoneos-arm64e
+Maintainer: AnubisTweaks
+Installed-Size: 31060
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: eg.anubistweaks.rafiqspring
+Replaces: eg.anubistweaks.rafiqspring
+Provides: eg.anubistweaks.rafiqspring
+Filename: debfiles/eg.anubistweaks.rafiq_1.3_iphoneos-arm64e.deb
+Size: 26778354
+MD5sum: 7d5bef2f6b39f9729e2dc247b87a6354
+SHA1: 0b7c0299539b14bdb9690b233680e664889b5f77
+SHA256: a2141f5d7773e80627bb2052368d081092cdfdcc430c31ad904ddb12a8defeef
+Section: Tweaks
+Description: Islamic companion - Qibla indicator in Compass, native prayer-time alarms in Clock, and a Home Screen widget with your agenda, reminders, alarms, weather and the 99 Names. Offline, modular, localized in 7 languages, with a Settings page.
+Author: AnubisTweaks
+Name: Rafiq
+
 Package: eg.anubistweaks.surgecc
 Version: 1.0.0-3+debug
 Architecture: iphoneos-arm64e
