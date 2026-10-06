@@ -1,889 +1,1044 @@
 Package: com.anubistweaks.deleteallinactive
-Version: 1.0
-Architecture: iphoneos-arm
+Name: DeleteAllInactive
+Description: Add Button to Delete all inactive alarms 
 Maintainer: AnubisTweaks
-Installed-Size: 184
+Author: AnubisTweaks
+Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Version: 1.0
+Installed-Size: 184
 Filename: debfiles/com.anubistweaks.deleteallinactive_1.0_iphoneos-arm.deb
 Size: 5012
 MD5sum: f3a74af41f36a8b686d12732a241f484
 SHA1: d194c4ed4b6b6794add47caf3e7efe6c1c5822cf
 SHA256: 65bd727051f4a83eaaef1a5c9c6ea53f5946623cf5afed452967edc61e276826
-Section: Tweaks
-Description: Add Button to Delete all inactive alarms
-Author: AnubisTweaks
-Name: DeleteAllInactive
 
 Package: com.anubistweaks.deleteallinactive
-Version: 1.0
-Architecture: iphoneos-arm64
+Name: DeleteAllInactive
+Description: Add Button to Delete all inactive alarms 
 Maintainer: AnubisTweaks
-Installed-Size: 184
+Author: AnubisTweaks
+Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 184
 Filename: debfiles/com.anubistweaks.deleteallinactive_1.0_iphoneos-arm64.deb
 Size: 5204
 MD5sum: edd469cc255d9af84e5abbe07a774df2
 SHA1: dcbfd6ea9f0419ec5e4be8b4ee5151f6e35b15bd
 SHA256: 228b9ee02534de4ebfcf13e4d79478e7842486cb3f9385d4893ac8dfce16cd2a
-Section: Tweaks
-Description: Add Button to Delete all inactive alarms
-Author: AnubisTweaks
-Name: DeleteAllInactive
 
 Package: com.anubistweaks.deleteallinactive
-Version: 1.0
-Architecture: iphoneos-arm64e
+Name: DeleteAllInactive
+Description: Add Button to Delete all inactive alarms 
 Maintainer: AnubisTweaks
-Installed-Size: 184
+Author: AnubisTweaks
+Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64e
+Version: 1.0
+Installed-Size: 184
 Filename: debfiles/com.anubistweaks.deleteallinactive_1.0_iphoneos-arm64e.deb
 Size: 5140
 MD5sum: e411842b63428641ced64b2beffea30a
 SHA1: 58d7c1b23b3d41d50f4db5363af2f5b281e7c5a6
 SHA256: 720bb19cffccaee9f09179ee84629f8ab8e0a2e629527bfbba2dc6d89d2c7af9
-Section: Tweaks
-Description: Add Button to Delete all inactive alarms
-Author: AnubisTweaks
-Name: DeleteAllInactive
 
-Package: com.anubistweaks.keyswipe11
-Version: 1.0.3
-Architecture: iphoneos-arm64
+Author: Delewhopper, julioverne ,AnubisTweaks
 Maintainer: AnubisTweaks
+Name: KeySwipe (iOS 11) (rootless)
+Package: com.anubistweaks.keyswipe11
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: org.thebigboss.keyswipe
+Section: Tweaks
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Description: change keyboard by swiping up/down
+dev: delewhopper
+Icon: file:///Library/PreferenceLoader/Preferences/KeySwipe/KeySwipe.png
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.keyswipe11
 Filename: debfiles/com.anubistweaks.keyswipe11_1.0.3_iphoneos-arm64.deb
 Size: 19710
 MD5sum: 151c99e9b84a6066406e479a7fa1ff2f
 SHA1: 2525dadd226f3127ddc4363d5eab800aa55ee944
 SHA256: a2f278c5948f0fa04269df119d1e640b9ab33ca9deec072cebd633e498a9f4cc
-Section: Tweaks
-Description: change keyboard by swiping up/down
-Author: Delewhopper, julioverne ,AnubisTweaks
-Depiction: https://julioverne.github.io/description.html?id=com.julioverne.keyswipe11
-Dev: delewhopper
-Icon: file:///Library/PreferenceLoader/Preferences/KeySwipe/KeySwipe.png
-Name: KeySwipe (iOS 11) (rootless)
 
 Package: com.ethanrdoesmc.truecuts
-Version: 1.1.0
-Architecture: iphoneos-arm64
-Maintainer: EthanRDoesMC <ethanrdoesmc@gmail.com>
-Installed-Size: 152
+Name: Truecuts
 Depends: mobilesubstrate, firmware (>=13.0)
+Description: Allow all Shortcuts automations to be run without asking!
+Maintainer: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Installed-Size: 152
 Filename: debfiles/com.ethanrdoesmc.truecuts_1.1.0_iphoneos-arm64.deb
 Size: 3620
 MD5sum: af2db456d612d758179527747a0ce4d1
 SHA1: 46705ce96c7997a2b3710280bf44d36cc8c189a1
 SHA256: a4299c10a43a1b0762d4c517cfa1eea1194faad3d5b13db58901b941741b52fb
-Section: Tweaks
-Description: Allow all Shortcuts automations to be run without asking!
-Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
-Name: Truecuts
 
 Package: com.fiore.calculatorhistory
-Version: 1.1.3-1
-Architecture: iphoneos-arm64
+Name: CalculatorHistory
+Description: Calculator gains history!
 Maintainer: Donato Fiore + AnubisTweaks
-Installed-Size: 204
+Author: Donato Fiore
+Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Architecture: iphoneos-arm64
+Version: 1.1.3-1
+Installed-Size: 204
 Filename: debfiles/com.fiore.calculatorhistory_1.1.3-1_iphoneos-arm64.deb
 Size: 16552
 MD5sum: 1407253fa6493139ebf6bf3c7ff621e9
 SHA1: 4ab3a19333690ea9c550ea61b974dbc33dabd4d1
 SHA256: f84fd040f24efccccd00e93e890ed84297cf2784caa052f61446553572d5b1f9
-Section: Tweaks
-Description: Calculator gains history!
-Author: Donato Fiore
-Name: CalculatorHistory
 
 Package: com.hackcatml.mldecrypt
-Version: 0.0.6
-Architecture: iphoneos-arm
+Name: mldecrypt
+Description: An awesome tool of some sort!!
 Maintainer: hackcatml
+Author: hackcatml
+Section: System
+Tag: role::hacker
+Depends:
+Architecture: iphoneos-arm
+Version: 0.0.6
 Installed-Size: 672
 Filename: debfiles/com.hackcatml.mldecrypt_0.0.6_iphoneos-arm.deb
 Size: 101336
 MD5sum: 28fc622532b61babbd62f95f9edb80f0
 SHA1: 1d4fbe3e77700a535882047f1a9f7b23c15b4d2b
 SHA256: 4805c3dc5bd0a6331525cc506726135984fbd0e7381bc44aef2620f4636ebe1a
-Section: System
-Description: An awesome tool of some sort!!
-Tag: role::hacker
-Author: hackcatml
-Name: mldecrypt
 
 Package: com.hackcatml.mldecrypt
-Version: 0.0.6
-Architecture: iphoneos-arm64
+Name: mldecrypt
+Description: An awesome tool of some sort!!
 Maintainer: hackcatml
+Author: hackcatml
+Section: System
+Tag: role::hacker
+Depends:
+Architecture: iphoneos-arm64
+Version: 0.0.6
 Installed-Size: 672
 Filename: debfiles/com.hackcatml.mldecrypt_0.0.6_iphoneos-arm64.deb
 Size: 101226
 MD5sum: e3e686fd41597402e2dd11533eb4de8a
 SHA1: 93e6be5ae8619973dbc207c9ac53a7e8121f5eb8
 SHA256: dca0a8a79f9f826c7112399f6301b20054b51e742c03a9c7dcd6e5baf23c44ee
-Section: System
-Description: An awesome tool of some sort!!
-Tag: role::hacker
-Author: hackcatml
-Name: mldecrypt
 
 Package: com.hackcatml.mldecrypt
-Version: 0.1.3
-Architecture: iphoneos-arm
+Name: mldecrypt
+Description: An awesome tool of some sort!!
 Maintainer: hackcatml
-Installed-Size: 948
+Author: hackcatml
+Section: System
+Tag: role::hacker
 Depends: ldid
+Architecture: iphoneos-arm
+Version: 0.1.3
+Installed-Size: 948
 Filename: debfiles/com.hackcatml.mldecrypt_0.1.3_iphoneos-arm.deb
 Size: 173128
 MD5sum: d78324a35b46173408c809926d3d861b
 SHA1: b34552dd2db79b7c6d432c40c90ab35743e0680a
 SHA256: 1b1a7bf7fcf560211495742d64fa0d301b16f1dece2ebf73751a1551f47990fb
-Section: System
-Description: An awesome tool of some sort!!
-Tag: role::hacker
-Author: hackcatml
-Name: mldecrypt
 
 Package: com.hackcatml.mldecrypt
-Version: 0.1.3
-Architecture: iphoneos-arm64
+Name: mldecrypt
+Description: An awesome tool of some sort!!
 Maintainer: hackcatml
-Installed-Size: 948
+Author: hackcatml
+Section: System
+Tag: role::hacker
 Depends: ldid
+Architecture: iphoneos-arm64
+Version: 0.1.3
+Installed-Size: 948
 Filename: debfiles/com.hackcatml.mldecrypt_0.1.3_iphoneos-arm64.deb
 Size: 173446
 MD5sum: a7bb73ec6301c3e2c62cbf5811711313
 SHA1: 4c78452ab3ae9005a009e5e48959db92bada74e0
 SHA256: 5e75006980f250b675a04167c2922f263bef09850f79aa60ccd770b42c8f8085
-Section: System
-Description: An awesome tool of some sort!!
-Tag: role::hacker
-Author: hackcatml
-Name: mldecrypt
 
+Author: Jake James <jakeashacks@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Bounce It! (Reborn)
 Package: com.jakeashacks.bounceit
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Section: Tweaks
+Installed-Size: 143
 Version: 1.0.4
 Architecture: iphoneos-arm64
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 143
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Description: Add bouncing effect animations on iOS 11/12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bounceitDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bounceitDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: jakeashacks
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
 Filename: debfiles/com.jakeashacks.bounceit_1.0.4_iphoneos-arm64.deb
 Size: 8818
 MD5sum: 4f820fe22041bcc6ddb43fc949deb6e0
 SHA1: da1fc10bfea823c398e1d1c307974d1c45d4f33f
 SHA256: 62de3f904cbdc67d90fe42c23b3e805d5b93f112ffc567f1163254ac2c668cd6
-Section: Tweaks
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bounceitDp
-Description: Add bouncing effect animations on iOS 11/12
-Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
-Author: Jake James <jakeashacks@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bounceitDp
-Dev: jakeashacks
-Name: Bounce It! (Reborn)
-Sponsor: thebigboss.org <http://thebigboss.org>
 
+Name: Wolf (rootless)
 Package: com.lema.wolf
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 5.0)
 Version: 2.1
 Architecture: iphoneos-arm64
+Description: The all-in-one tweak for Facebook
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wolfDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wolfDp
+Sponsor: thebigboss.org <http://thebigboss.org>
 Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Michael Lema <samewhitetee@gmail.com>
+Section: Tweaks
+Tag: purpose::extension
 Installed-Size: 12212
-Depends: mobilesubstrate, firmware (>= 5.0)
+dev: lema
+Icon: file:///Library/Application%20Support/Wolf.bundle/wolf-icon@2x.png
 Filename: debfiles/com.lema.wolf_2.1_iphoneos-arm64.deb
 Size: 2790372
 MD5sum: 8ebf41b7ecf8145466ea808cc8e659b5
 SHA1: 4a5b9489d48cb27a0dd37d1c203ac0e4a4d10084
 SHA256: 69670c0346aff8968af427d0f99237f8d46c7f9f7565370cd158856829184ae9
-Section: Tweaks
-Priority: optional
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wolfDp
-Description: The all-in-one tweak for Facebook
-Tag: purpose::extension
-Author: Michael Lema <samewhitetee@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wolfDp
-Dev: lema
-Icon: file:///Library/Application%20Support/Wolf.bundle/wolf-icon@2x.png
-Name: Wolf (rootless)
-Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.miro.perfectcalc
-Version: 1.0
+Name: PerfectCalc (rootless)
+Depends: firmware (>=13.0), mobilesubstrate
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.perfectcalc
+Description: A tweak that keeps the calculations in the Calculator app
 Architecture: iphoneos-arm64
 Maintainer: MiRO <tweaks_support@miro92.com>
+Author: MiRO <tweaks_support@miro92.com>
+Section: Tweaks
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Version: 1.0
 Installed-Size: 168
-Depends: firmware (>=13.0), mobilesubstrate
 Filename: debfiles/com.miro.perfectcalc_1.0_iphoneos-arm64.deb
 Size: 6068
 MD5sum: 8ae113a80d7caa3f7ebfa7d5b199a55a
 SHA1: 41293e30d0a4bf553424262547a35e44227b79c6
 SHA256: 8ff1c09462594d59c656ba33b06996775419ec15fe63cbb3c6c9aec4b6becea1
-Section: Tweaks
-Description: A tweak that keeps the calculations in the Calculator app
-Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
-Author: MiRO <tweaks_support@miro92.com>
-Depiction: https://miro92.com/repo/depictions/?p=com.miro.perfectcalc
-Name: PerfectCalc (rootless)
 
 Package: com.pantsthief.flexing
-Version: 1.5.0
-Architecture: iphoneos-arm64
-Maintainer: Tanner Bennett <thepantsthief@me.com>
-Installed-Size: 3020
+Name: FLEXing
 Pre-Depends: firmware (>= 8.0)
+Architecture: iphoneos-arm64
+Description: Open FLEX anywhere!
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Author: Tanner Bennett <thepantsthief@me.com>
+Section: Tweaks
 Conflicts: com.dgh0st.flexall, gg.gh0stbyte.flexivator, com.shmoopillic.flexible, applebetas.ios.tweak.devtools.flexgesture, com.creaturecoding.flexer, com.lacertosusrepo.flex4me, me.nepeta.flexxx, com.ipadkid.flexit, com.qiop1379.flexbar, com.leftyfl1p.reflex
+Depiction: https://nscake.github.io/package.html?package=com.pantsthief.flexing
+SileoDepiction: https://nscake.github.io/depictions/com.pantsthief.flexing.sileo.json
+Version: 1.5.0
+Installed-Size: 3020
 Filename: debfiles/com.pantsthief.flexing_1.5.0_iphoneos-arm64.deb
 Size: 645232
 MD5sum: f3e37c92e61420d8084193a50b90009a
 SHA1: 83a2d32a752120feb1aeca66efce105568a1ca36
 SHA256: 11dd176fb8d16cec566730f730d328a46302f8b9b6251575f0fce584c12404e3
-Section: Tweaks
-Description: Open FLEX anywhere!
-Author: Tanner Bennett <thepantsthief@me.com>
-Depiction: https://nscake.github.io/package.html?package=com.pantsthief.flexing
-Name: FLEXing
-Sileodepiction: https://nscake.github.io/depictions/com.pantsthief.flexing.sileo.json
 
 Package: com.ps.anywherepredict
-Version: 1.1.3.1
-Architecture: iphoneos-arm64
-Maintainer: PoomSmart
-Installed-Size: 200
+Name: AnywherePredict
 Depends: mobilesubstrate, firmware (>= 8.0)
+Architecture: iphoneos-arm64
+Description: Predictive keyboard anywhere.
+Author: PoomSmart
+Maintainer: PoomSmart
+Section: Tweaks
+Version: 1.1.3.1
+Installed-Size: 200
 Filename: debfiles/AnywherePredict-Rootless.deb
 Size: 5172
 MD5sum: c072c0538f3287ca29fcca9182ca69d5
 SHA1: 3758544c6a3fc83875f834e4223f074fd6329ad1
 SHA256: ed4003cb65738735391933d6c319f2a832bacf8842c5e2eb1b35a8bd32400128
-Section: Tweaks
-Description: Predictive keyboard anywhere.
-Author: PoomSmart
-Name: AnywherePredict
 
 Package: com.pxcex.labelcopy
-Version: 0.0.2
-Architecture: iphoneos-arm64
-Maintainer: AnubisTweaks
-Installed-Size: 104
+Name: LabelCopy
 Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Description: Allow Triple Tap on UILabel to Copy.
+Maintainer: AnubisTweaks
+Author: pxcex + AnubisTweaks
+Section: Tweaks
+Version: 0.0.2
+Installed-Size: 104
 Filename: debfiles/com.pxcex.labelcopy_0.0.2_iphoneos-arm64.deb
 Size: 6324
 MD5sum: 1653d0eac2ab413004ef06ce841a7d1a
 SHA1: 27fdaea2d0c429e9dc9a1633e05bc899366c6440
 SHA256: 10cae723af5bb2095c1d9427f73a27cbdaaa01691cd2043bd5b5729f8c5dd2e8
-Section: Tweaks
-Description: Allow Triple Tap on UILabel to Copy.
-Author: pxcex + AnubisTweaks
-Name: LabelCopy
 
 Package: com.qiop1379.anactuallygoodfilzaeditor
-Version: 0.1.0~beta1
-Architecture: iphoneos-arm
-Maintainer: qwertyuiop1379
-Installed-Size: 620
+Name: AnActuallyGoodFilzaEditor
 Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Transform the Filza text editor. Adds themes and syntax highlighting.
+Maintainer: qwertyuiop1379
+Author: qwertyuiop1379
+Section: Tweaks
+Version: 0.1.0~beta1
+Installed-Size: 620
 Filename: debfiles/com.qiop1379.anactuallygoodfilzaeditor_0.1.0~beta1_iphoneos-arm.deb
 Size: 98516
 MD5sum: 4687e5e88142e015e0d5a659a967bd86
 SHA1: dfe4e525a575dc4200b4b8b36aeff859acb6972a
 SHA256: cfef6e5e3174629c0293138987ce1fd71b5d82e39e118b61ab224a1e314af649
-Section: Tweaks
-Description: Transform the Filza text editor. Adds themes and syntax highlighting.
-Author: qwertyuiop1379
-Name: AnActuallyGoodFilzaEditor
 
 Package: com.qiop1379.anactuallygoodfilzaeditor
-Version: 0.1.0~beta2
-Architecture: iphoneos-arm64
-Maintainer: AnubisTweaks
-Installed-Size: 620
+Name: AnActuallyGoodFilzaEditor
 Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Description: Transform the Filza text editor. Adds themes and syntax highlighting.
+Maintainer: AnubisTweaks
+Author: qwertyuiop1379 + AnubisTweaks
+Section: Tweaks
+Version: 0.1.0~beta2
+Installed-Size: 620
 Filename: debfiles/com.qiop1379.anactuallygoodfilzaeditor_0.1_iphoneos-arm64.deb
 Size: 98920
 MD5sum: 0aec9dd8d9d6c609b0a9fa310f940b23
 SHA1: 51895c8e4f4aa146e057ed9c2054428275bb6b4c
 SHA256: e16551d8871bde3af11cf6be946bfc3d9d691d416d740533a54055b156f51b8d
-Section: Tweaks
-Description: Transform the Filza text editor. Adds themes and syntax highlighting.
-Author: qwertyuiop1379 + AnubisTweaks
-Name: AnActuallyGoodFilzaEditor
 
 Package: com.shiftcmdk.permaflex
-Version: 1.0.3-21+debug
-Architecture: iphoneos-arm64
-Maintainer: bgli100
-Installed-Size: 424
+Name: PermaFlex
 Depends: mobilesubstrate, firmware (>= 15.0)
+Description: Permanently hide elements with FLEXible.
+Maintainer: bgli100
+Author: shiftcmdk
+Section: Tweaks
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.permaflex
+Architecture: iphoneos-arm64
+Version: 1.0.3-21+debug
+Installed-Size: 424
 Filename: debfiles/com.shiftcmdk.permaflex_1.0.3-21+debug_iphoneos-arm64.deb
 Size: 43732
 MD5sum: dc2187301cb97d8eafff16a22f077f37
 SHA1: 1fa8adf5892e16415702f00e5e33cb3e33a55038
 SHA256: 4dd683eec0b745498f3c6c4398675689ddf8394f6f9a644063bc71fa2795d010
-Section: Tweaks
-Description: Permanently hide elements with FLEXible.
-Author: shiftcmdk
-Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.permaflex
-Name: PermaFlex
 
 Package: com.shiftcmdk.permaflex
-Version: 1.0.4-1+debug
-Architecture: iphoneos-arm64
-Maintainer: bgli100
-Installed-Size: 768
+Name: PermaFlex
 Depends: mobilesubstrate, firmware (>= 15.0)
+Description: Permanently hide elements with FLEXible.
+Maintainer: bgli100
+Author: shiftcmdk
+Section: Tweaks
+Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.permaflex
+Architecture: iphoneos-arm64
+Version: 1.0.4-1+debug
+Installed-Size: 768
 Filename: debfiles/com.shiftcmdk.permaflex_1.0.4-1+debug_iphoneos-arm64.deb
 Size: 66478
 MD5sum: 38dfb42ac5385133806e3f3639bca5a1
 SHA1: 287907ea279f46e4593640aee0cbae34cfa76295
 SHA256: 1bbca917aa8212acca74857373bb8ebd265c19dc18431be78804b36b4cce7faa
-Section: Tweaks
-Description: Permanently hide elements with FLEXible.
-Author: shiftcmdk
-Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.permaflex
-Name: PermaFlex
 
 Package: com.shivesh.truestcuts
+Depends: mobilesubstrate, firmware (>= 13.0)
+Name: Truestcuts (rootless)
 Version: 1.0.0-4
 Architecture: iphoneos-arm64
-Maintainer: AnubisTweaks
+Description: Enables true Automations and removes notifications too.
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=truestcutsDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=truestcutsDp
 Installed-Size: 198
-Depends: mobilesubstrate, firmware (>= 13.0)
-Filename: debfiles/com. shivesh.truestcuts_1.0.0-4_iphoneos-arm64.deb
+Maintainer: AnubisTweaks
+Author: Shivesh + AnubisTweaks
+Sponsor: https://anubistweaks.github.io
+Section: Tweaks
+dev: shivesh
+Tag: purpose::extension, compatible::ios15
+Filename: debfiles/com.shivesh.truestcuts_1.0.0-4_iphoneos-arm64.deb
 Size: 5476
 MD5sum: 22d630ad1e2e1f7d363fe79874fff491
 SHA1: 66de89c76b4183ea383b38db5191dc231aa8c21e
 SHA256: f6af713a97de6cb91355881bd64f0afc29753c81f3dd99d437e33f2ca75c2dc0
-Section: Tweaks
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=truestcutsDp
-Description: Enables true Automations and removes notifications too.
-Tag: purpose::extension, compatible::ios15
-Author: Shivesh + AnubisTweaks
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=truestcutsDp
-Dev: shivesh
-Name: Truestcuts (rootless)
-Sponsor: https://anubistweaks.github.io
 
 Package: com.udevs.debhoarder
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: udevs
-Installed-Size: 200
+Name: DebHoarder (rootless)
 Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Description: Backup deb file for Cydia, Zebra, and Installer
+Maintainer: udevs
+Author: udevs
+Section: Tweaks
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.debhoarder/icon/icon.png
+Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.debhoarder
+Version: 1.0.0
+Installed-Size: 200
 Filename: debfiles/com.udevs.debhoarder_1.0.0_iphoneos-arm64.deb
 Size: 6640
 MD5sum: 17281f4541e54fa07bbbf90075621b17
 SHA1: b8fb838775aa5772ec4ffbcda6ca137450d4a94a
 SHA256: 76e255c65be3c0c161abd5b6f99477a44bacbea2b0b2d179e1247adb97457122
-Section: Tweaks
-Description: Backup deb file for Cydia, Zebra, and Installer
-Author: udevs
-Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.debhoarder
-Icon: https://udevsharold.github.io/repo/depictions/com.udevs.debhoarder/icon/icon.png
-Name: DebHoarder (rootless)
 
 Package: eg.anubistweaks.fridacc
-Version: 1.0.0
-Architecture: iphoneos-arm64e
+Name: FridaCC
+Description: Control Center toggle for on-off Frida server 
 Maintainer: AnubisTweaks
-Installed-Size: 524
+Author: Anubistweaks
+Section: Control Center (Modules)
 Depends: firmware (>= 15.0), re.frida.server, com.opa334.ccsupport
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Installed-Size: 524
 Filename: debfiles/eg.anubistweaks.fridacc_1.0.0_iphoneos-arm64e.deb
 Size: 18836
 MD5sum: 18d9da84d9b61f9c2104c5fb67ee44b2
 SHA1: ec07c2e3da7d328f8d569b49d334e884c4090e93
 SHA256: f81cecc3839c53a5241c76410eeb54a41d0815ccb4ac4319348fbba697a7900d
-Section: Control Center (Modules)
-Description: Control Center toggle for on-off Frida server
-Author: Anubistweaks
-Name: FridaCC
+
+Package: eg.anubistweaks.igflag
+Name: IGFlag
+Description: Shows the "Account based in" flag on Instagram profiles, posts and Reels, with an account info card
+Maintainer: AnubisTweaks
+Author: AnubisTweaks
+Section: Tweaks
+Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/igflag/icon.png
+Depends: mobilesubstrate, firmware (>= 15.0)
+Architecture: iphoneos-arm
+Version: 1.0
+Installed-Size: 272
+Filename: debfiles/eg.anubistweaks.igflag_1.0_iphoneos-arm.deb
+Size: 40786
+MD5sum: fb259c8ee8b193d9a65449acbaedb2b2
+SHA1: 20b27c3f0c71760609eb243d395e3bc214ab71f4
+SHA256: 7d45231fbf5b88143ae9167ce8cd1bc5a6c4e32553868fc732386fb57a9b714a
+
+Package: eg.anubistweaks.igflag
+Name: IGFlag
+Description: Shows the "Account based in" flag on Instagram profiles, posts and Reels, with an account info card
+Maintainer: AnubisTweaks
+Author: AnubisTweaks
+Section: Tweaks
+Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/igflag/icon.png
+Depends: mobilesubstrate, firmware (>= 15.0)
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 272
+Filename: debfiles/eg.anubistweaks.igflag_1.0_iphoneos-arm64.deb
+Size: 40938
+MD5sum: cd4008ad7675db95fd722322bd4e8b91
+SHA1: cc639e4bf936df163122f392294906e17ff174e0
+SHA256: 65678b59c866848922dcf5c3683751795f78fe380d64c67c2ddfe747249e9ca2
+
+Package: eg.anubistweaks.igflag
+Name: IGFlag
+Description: Shows the "Account based in" flag on Instagram profiles, posts and Reels, with an account info card
+Maintainer: AnubisTweaks
+Author: AnubisTweaks
+Section: Tweaks
+Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/igflag/icon.png
+Depends: mobilesubstrate, firmware (>= 15.0)
+Architecture: iphoneos-arm64e
+Version: 1.0
+Installed-Size: 272
+Filename: debfiles/eg.anubistweaks.igflag_1.0_iphoneos-arm64e.deb
+Size: 40858
+MD5sum: 8c9ae8059fe54507c03dca2a23494789
+SHA1: 0ccd9ff6c9c375a1efc9a7493f89b40116f19891
+SHA256: 6bf29358ad139aa61118bfa7db4461a5b0843bcae8e95d13ed5f1fb721476d8c
 
 Package: eg.anubistweaks.novoicemail15
-Version: 1.0-1
-Architecture: iphoneos-arm
-Maintainer: AnubisTweaks
-Installed-Size: 184
+Name: Novoicemail 15
+Author: AnubisTweaks
+Description: Disable voicemail 
 Depends: mobilesubstrate
+Maintainer: AnubisTweaks 
+Section: Tweaks
+Architecture: iphoneos-arm
+Version: 1.0-1
+Installed-Size: 184
 Filename: debfiles/eg.anubistweaks.novoicemail15_1.0-1_iphoneos-arm.deb
 Size: 3232
 MD5sum: 71bab30b71338d0355c67ca1799213fb
 SHA1: 6da0e6e293aae0f85a486733f9181b4058135435
 SHA256: 09a86476ff4dc0429de4df19c4e3cad3362dbca3e46f3e03c304a0a53883d432
-Section: Tweaks
-Description: Disable voicemail
-Author: AnubisTweaks
-Name: Novoicemail 15
 
 Package: eg.anubistweaks.novoicemail15
-Version: 1.0-1
-Architecture: iphoneos-arm64
-Maintainer: AnubisTweaks
-Installed-Size: 184
+Name: Novoicemail 15 
+Author: AnubisTweaks
+Description: Disable voicemail 
 Depends: mobilesubstrate
+Maintainer: AnubisTweaks 
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.0-1
+Installed-Size: 184
 Filename: debfiles/eg.anubistweaks.novoicemail15_1.0-1_iphoneos-arm64.deb
 Size: 3024
 MD5sum: 52fea09dce89c5b7885949f14038785d
 SHA1: c4e300a5f8a94c3a405b9be1d71ba3041f6f8e86
 SHA256: a6be392e0e90d610dd7b4fe3ca06fa8e467af1c4341501828e9bd26675db2a42
-Section: Tweaks
-Description: Disable voicemail
-Author: AnubisTweaks
-Name: Novoicemail 15
 
 Package: eg.anubistweaks.phoneenhancer15
-Version: 1.6.5
-Architecture: iphoneos-arm
-Maintainer: AnubisTweaks
-Installed-Size: 184
+Name: Phone Enhancer 15
 Depends: mobilesubstrate
+Description: Phone app as supposed to be
+Maintainer: AnubisTweaks
+Author: AnubisTweaks 
+Section: Tweaks
+Architecture: iphoneos-arm
+Version: 1.6.5
+Installed-Size: 184
 Filename: debfiles/eg.anubistweaks.phoneenhancer15_1.6.5_iphoneos-arm.deb
 Size: 5884
 MD5sum: 79a02d6ec81c947ce72c8252b879817d
 SHA1: 83c8fc8587a97c20f0af23d5a51e4432aa38a23f
 SHA256: 16c00864a9ba012e06263df3c658df52f9c3b1248cbfb25ebb829d31a5a4da8c
-Section: Tweaks
-Description: Phone app as supposed to be
-Author: AnubisTweaks
-Name: Phone Enhancer 15
 
 Package: eg.anubistweaks.phoneenhancer15
-Version: 1.6.5
-Architecture: iphoneos-arm64
-Maintainer: AnubisTweaks
-Installed-Size: 184
+Name: Phone Enhancer 15
 Depends: mobilesubstrate
+Description: Phone app as supposed to be
+Maintainer: AnubisTweaks
+Author: AnubisTweaks 
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.6.5
+Installed-Size: 184
 Filename: debfiles/eg.anubistweaks.phoneenhancer15_1.6.5_iphoneos-arm64.deb
 Size: 5648
 MD5sum: e7f77a5c40d517834943d09237ebb56a
 SHA1: 3bc5de9fe948a8e63ccf2f10f75b8eec2dc7a407
 SHA256: b3bcea7d14836f58df3a105df184a7c87679180271973aed62920f2fda308e72
-Section: Tweaks
-Description: Phone app as supposed to be
-Author: AnubisTweaks
-Name: Phone Enhancer 15
 
+Name: Phone Enhancer 15
 Package: eg.anubistweaks.phoneenhancer15
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 15.0)
 Version: 1.6.5
 Architecture: iphoneos-arm64e
+Description: Phone app as supposed to be
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phoneenhancer15Dp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phoneenhancer15Dp
+Sponsor: thebigboss.org <http://thebigboss.org>
 Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: AnubisTweaks <pixellark@gmail.com>
+Section: Tweaks
+Tag: purpose::extension
 Installed-Size: 167
+dev: anubistweaks
 Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate, firmware (>= 15.0)
 Filename: debfiles/eg.anubistweaks.phoneenhancer15_1.6.5_iphoneos-arm64e.deb
 Size: 8048
 MD5sum: 2937cde5e4f4f08ebbff02340611bfd6
 SHA1: 09e9a418d0be6df351ebf12ca3f4a510e9efadd9
 SHA256: ee6c940c7160438d0e04652daea7189d8d391f08e3ea3d341c35d7cb904d6aa1
-Section: Tweaks
-Priority: optional
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phoneenhancer15Dp
-Description: Phone app as supposed to be
-Tag: purpose::extension
-Author: AnubisTweaks <pixellark@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phoneenhancer15Dp
-Dev: anubistweaks
-Name: Phone Enhancer 15
-Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: eg.anubistweaks.phoneenhancer15
-Version: 1.7.0
-Architecture: iphoneos-arm
+Name: PhoneEnhancer15
+Description: Your Phone App, as It's Supposed to Be.
 Maintainer: AnubisTweaks
-Installed-Size: 412
+Author: AnubisTweaks
+Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Version: 1.7.0
+Installed-Size: 412
 Filename: debfiles/eg.anubistweaks.phoneenhancer15_1.7.0_iphoneos-arm.deb
 Size: 14534
 MD5sum: 08499799fa46a7484faf28931ba5010f
 SHA1: a7649417f157164a6ebba818aae6f9fe3f3cee4a
 SHA256: c900102a834d8249d7fe19e7351befc6824acc9a278406419900267524ddc4c5
-Section: Tweaks
-Description: Your Phone App, as It's Supposed to Be.
-Author: AnubisTweaks
-Name: PhoneEnhancer15
 
 Package: eg.anubistweaks.phoneenhancer15
-Version: 1.7.0
-Architecture: iphoneos-arm64
+Name: PhoneEnhancer15
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/json/phoneenhancer/phoneenhancer.json&name=PhoneEnhancer%2015&dev=AnubisTweaks
+SileoDepiction: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/json/phoneenhancer/phoneenhancer.json
+Description: Your Phone App, as It's Supposed to Be.
 Maintainer: AnubisTweaks
-Installed-Size: 412
+Author: AnubisTweaks
+Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
+Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/phoneenhancer/icon.png
+Architecture: iphoneos-arm64
+Version: 1.7.0
+Installed-Size: 412
 Filename: debfiles/eg.anubistweaks.phoneenhancer15_1.7.0_iphoneos-arm64.deb
 Size: 15116
 MD5sum: 96152f23dcce0455625a6d2f2816a9a4
 SHA1: 16a99d008fefbfe703af74062b51a9c8250a13fc
 SHA256: 8cdf0413205204397ce3e441631088babd179c111e9950ec295ff07f8e12ca2b
-Section: Tweaks
-Description: Your Phone App, as It's Supposed to Be.
-Author: AnubisTweaks
-Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/json/phoneenhancer/phoneenhancer.json&name=PhoneEnhancer%2015&dev=AnubisTweaks
-Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/phoneenhancer/icon.png
-Name: PhoneEnhancer15
-Sileodepiction: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/json/phoneenhancer/phoneenhancer.json
 
 Package: eg.anubistweaks.phoneenhancer15
-Version: 2.0.0
-Architecture: iphoneos-arm64e
+Name: PhoneEnhancer15
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/json/phoneenhancer/phoneenhancer.json&name=PhoneEnhancer%2015&dev=AnubisTweaks
+SileoDepiction: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/json/phoneenhancer/phoneenhancer.json
+Description: Your Phone App, as It's Supposed to Be.
 Maintainer: AnubisTweaks
-Installed-Size: 676
+Author: AnubisTweaks
+Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
+Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/phoneenhancer/icon.png
+Architecture: iphoneos-arm64e
+Version: 2.0.0
+Installed-Size: 676
 Filename: debfiles/eg.anubistweaks.phoneenhancer15_2.0.0_iphoneos-arm64e.deb
 Size: 234466
 MD5sum: 21c9e97c7525b7e0a078854c357c9c8e
 SHA1: 33cebe7726b16ff1b75d106597596466ce772c79
 SHA256: ab52097b9c7fcc8d737f37b47e021b08add977ce2a2aefd3f6c98d52ccc4a594
-Section: Tweaks
-Description: Your Phone App, as It's Supposed to Be.
-Author: AnubisTweaks
-Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/json/phoneenhancer/phoneenhancer.json&name=PhoneEnhancer%2015&dev=AnubisTweaks
-Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/phoneenhancer/icon.png
-Name: PhoneEnhancer15
-Sileodepiction: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/json/phoneenhancer/phoneenhancer.json
 
 Package: eg.anubistweaks.rafiq
-Version: 1.0
-Architecture: iphoneos-arm64
+Name: Rafiq
+Description: Islamic companion - Qibla indicator in Compass, native prayer-time alarms in Clock, and a Home Screen widget with your agenda, reminders, alarms, weather and the 99 Names. Offline, modular, localized in 7 languages, with a Settings page.
+Author: AnubisTweaks
 Maintainer: AnubisTweaks
-Installed-Size: 30984
+Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: eg.anubistweaks.rafiqspring
 Replaces: eg.anubistweaks.rafiqspring
 Provides: eg.anubistweaks.rafiqspring
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 30984
 Filename: debfiles/eg.anubistweaks.rafiq_1.0_iphoneos-arm64.deb
 Size: 26761816
 MD5sum: 1fc582f8a5854325a675b593e82167ad
 SHA1: 1a85431d289264be13e35c4e24a07b6563a5524c
 SHA256: b911765e9924300e98688f74c6a602aef769a6b94223ed1a7194d858fceacbf7
-Section: Tweaks
-Description: Islamic companion - Qibla indicator in Compass, native prayer-time alarms in Clock, and a Home Screen widget with your agenda, reminders, alarms, weather and the 99 Names. Offline, modular, localized in 7 languages, with a Settings page.
-Author: AnubisTweaks
-Name: Rafiq
 
 Package: eg.anubistweaks.rafiq
-Version: 1.0
-Architecture: iphoneos-arm64e
+Name: Rafiq
+Description: Islamic companion - Qibla indicator in Compass, native prayer-time alarms in Clock, and a Home Screen widget with your agenda, reminders, alarms, weather and the 99 Names. Offline, modular, localized in 7 languages, with a Settings page.
+Author: AnubisTweaks
 Maintainer: AnubisTweaks
-Installed-Size: 30984
+Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: eg.anubistweaks.rafiqspring
 Replaces: eg.anubistweaks.rafiqspring
 Provides: eg.anubistweaks.rafiqspring
+Architecture: iphoneos-arm64e
+Version: 1.0
+Installed-Size: 30984
 Filename: debfiles/eg.anubistweaks.rafiq_1.0_iphoneos-arm64e.deb
 Size: 26764528
 MD5sum: c73d97be7450d9fde0e624d31c7b1c6f
 SHA1: 07c71ecd60ddd995c228b2303645ad8b2d2f2ec7
 SHA256: 1267a5a067ac6fe6e35826170de8343f4aaa3763b681fb0d47cdd542fc393b29
-Section: Tweaks
-Description: Islamic companion - Qibla indicator in Compass, native prayer-time alarms in Clock, and a Home Screen widget with your agenda, reminders, alarms, weather and the 99 Names. Offline, modular, localized in 7 languages, with a Settings page.
-Author: AnubisTweaks
-Name: Rafiq
 
 Package: eg.anubistweaks.rafiq
-Version: 1.1
-Architecture: iphoneos-arm64
+Name: Rafiq
+Description: Islamic companion - Qibla indicator in Compass, native prayer-time alarms in Clock, and a Home Screen widget with your agenda, reminders, alarms, weather and the 99 Names. Offline, modular, localized in 7 languages, with a Settings page.
+Author: AnubisTweaks
 Maintainer: AnubisTweaks
-Installed-Size: 31188
+Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: eg.anubistweaks.rafiqspring
 Replaces: eg.anubistweaks.rafiqspring
 Provides: eg.anubistweaks.rafiqspring
+Architecture: iphoneos-arm64
+Version: 1.1
+Installed-Size: 31188
 Filename: debfiles/eg.anubistweaks.rafiq_1.1_iphoneos-arm64.deb
 Size: 26771144
 MD5sum: 44bfa811adfde5c107f126288fc30576
 SHA1: 5cae958a54c22b417082480f5551d129b3bf88f7
 SHA256: 37e431f75392aaaa9a89e63cee4cc398a77ce48609f5a0b7baca26e6a862a6ba
-Section: Tweaks
-Description: Islamic companion - Qibla indicator in Compass, native prayer-time alarms in Clock, and a Home Screen widget with your agenda, reminders, alarms, weather and the 99 Names. Offline, modular, localized in 7 languages, with a Settings page.
-Author: AnubisTweaks
-Name: Rafiq
 
 Package: eg.anubistweaks.rafiq
-Version: 1.1
-Architecture: iphoneos-arm64e
+Name: Rafiq
+Description: Islamic companion - Qibla indicator in Compass, native prayer-time alarms in Clock, and a Home Screen widget with your agenda, reminders, alarms, weather and the 99 Names. Offline, modular, localized in 7 languages, with a Settings page.
+Author: AnubisTweaks
 Maintainer: AnubisTweaks
-Installed-Size: 31188
+Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: eg.anubistweaks.rafiqspring
 Replaces: eg.anubistweaks.rafiqspring
 Provides: eg.anubistweaks.rafiqspring
+Architecture: iphoneos-arm64e
+Version: 1.1
+Installed-Size: 31188
 Filename: debfiles/eg.anubistweaks.rafiq_1.1_iphoneos-arm64e.deb
 Size: 26772608
 MD5sum: 7930a579b37612b2cab8c752ae9ab23f
 SHA1: 26e5a4e6d4c4016541a4daec4c9a690da332cbf9
 SHA256: 8dc47f3d2e4f6fd3a5fdec089f4e2d410856a1f3f419bb6f0b292c498758b3c2
-Section: Tweaks
-Description: Islamic companion - Qibla indicator in Compass, native prayer-time alarms in Clock, and a Home Screen widget with your agenda, reminders, alarms, weather and the 99 Names. Offline, modular, localized in 7 languages, with a Settings page.
-Author: AnubisTweaks
-Name: Rafiq
 
 Package: eg.anubistweaks.rafiq
-Version: 1.2
-Architecture: iphoneos-arm64
+Name: Rafiq
+Description: Islamic companion - Qibla indicator in Compass, native prayer-time alarms in Clock, and a Home Screen widget with your agenda, reminders, alarms, weather and the 99 Names. Offline, modular, localized in 7 languages, with a Settings page.
+Author: AnubisTweaks
 Maintainer: AnubisTweaks
-Installed-Size: 31008
+Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: eg.anubistweaks.rafiqspring
 Replaces: eg.anubistweaks.rafiqspring
 Provides: eg.anubistweaks.rafiqspring
+Architecture: iphoneos-arm64
+Version: 1.2
+Installed-Size: 31008
 Filename: debfiles/eg.anubistweaks.rafiq_1.2_iphoneos-arm64.deb
 Size: 26772982
 MD5sum: 71d10ef1d75fce8e4cc7eed2c304cd80
 SHA1: d7fda87200e69b8b8c8e89d17cbd1ae63dff420a
 SHA256: 5a5f924a30d792ad73b4bd1332a6d993032313baed0bc1ad1d63b3fe8bea9a1d
-Section: Tweaks
-Description: Islamic companion - Qibla indicator in Compass, native prayer-time alarms in Clock, and a Home Screen widget with your agenda, reminders, alarms, weather and the 99 Names. Offline, modular, localized in 7 languages, with a Settings page.
-Author: AnubisTweaks
-Name: Rafiq
 
 Package: eg.anubistweaks.rafiq
-Version: 1.2
-Architecture: iphoneos-arm64e
+Name: Rafiq
+Description: Islamic companion - Qibla indicator in Compass, native prayer-time alarms in Clock, and a Home Screen widget with your agenda, reminders, alarms, weather and the 99 Names. Offline, modular, localized in 7 languages, with a Settings page.
+Author: AnubisTweaks
 Maintainer: AnubisTweaks
-Installed-Size: 31008
+Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: eg.anubistweaks.rafiqspring
 Replaces: eg.anubistweaks.rafiqspring
 Provides: eg.anubistweaks.rafiqspring
+Architecture: iphoneos-arm64e
+Version: 1.2
+Installed-Size: 31008
 Filename: debfiles/eg.anubistweaks.rafiq_1.2_iphoneos-arm64e.deb
 Size: 26773092
 MD5sum: e0ba22a9e1f227abf112337364f1e6f2
 SHA1: 34abce372c3ce6c165d0c62b670219e09e449c2d
 SHA256: 339fc771a888649491d5409bfe1baf531d5cdea1fca42cacf8dfa900f607c463
-Section: Tweaks
-Description: Islamic companion - Qibla indicator in Compass, native prayer-time alarms in Clock, and a Home Screen widget with your agenda, reminders, alarms, weather and the 99 Names. Offline, modular, localized in 7 languages, with a Settings page.
-Author: AnubisTweaks
-Name: Rafiq
 
 Package: eg.anubistweaks.rafiq
-Version: 1.3
-Architecture: iphoneos-arm64
+Name: Rafiq
+Description: Islamic companion - Qibla indicator in Compass, native prayer-time alarms in Clock, and a Home Screen widget with your agenda, reminders, alarms, weather and the 99 Names. Offline, modular, localized in 7 languages, with a Settings page.
+Author: AnubisTweaks
 Maintainer: AnubisTweaks
-Installed-Size: 31060
+Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: eg.anubistweaks.rafiqspring
 Replaces: eg.anubistweaks.rafiqspring
 Provides: eg.anubistweaks.rafiqspring
+Architecture: iphoneos-arm64
+Version: 1.3
+Installed-Size: 31060
 Filename: debfiles/eg.anubistweaks.rafiq_1.3_iphoneos-arm64.deb
 Size: 26775240
 MD5sum: af0bb82bae07209012e97170e59917e0
 SHA1: f611106052570d286b7dcb7047b142fe3ae254a6
 SHA256: 68e03fe8662a6e18c89078c8777223255102fe3ea01ad0b08838f5186f3fb529
-Section: Tweaks
-Description: Islamic companion - Qibla indicator in Compass, native prayer-time alarms in Clock, and a Home Screen widget with your agenda, reminders, alarms, weather and the 99 Names. Offline, modular, localized in 7 languages, with a Settings page.
-Author: AnubisTweaks
-Name: Rafiq
 
 Package: eg.anubistweaks.rafiq
-Version: 1.3
-Architecture: iphoneos-arm64e
+Name: Rafiq
+Description: Islamic companion - Qibla indicator in Compass, native prayer-time alarms in Clock, and a Home Screen widget with your agenda, reminders, alarms, weather and the 99 Names. Offline, modular, localized in 7 languages, with a Settings page.
+Author: AnubisTweaks
 Maintainer: AnubisTweaks
-Installed-Size: 31060
+Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: eg.anubistweaks.rafiqspring
 Replaces: eg.anubistweaks.rafiqspring
 Provides: eg.anubistweaks.rafiqspring
+Architecture: iphoneos-arm64e
+Version: 1.3
+Installed-Size: 31060
 Filename: debfiles/eg.anubistweaks.rafiq_1.3_iphoneos-arm64e.deb
 Size: 26778354
 MD5sum: 7d5bef2f6b39f9729e2dc247b87a6354
 SHA1: 0b7c0299539b14bdb9690b233680e664889b5f77
 SHA256: a2141f5d7773e80627bb2052368d081092cdfdcc430c31ad904ddb12a8defeef
-Section: Tweaks
-Description: Islamic companion - Qibla indicator in Compass, native prayer-time alarms in Clock, and a Home Screen widget with your agenda, reminders, alarms, weather and the 99 Names. Offline, modular, localized in 7 languages, with a Settings page.
-Author: AnubisTweaks
-Name: Rafiq
 
 Package: eg.anubistweaks.rafiq
-Version: 1.4
-Architecture: iphoneos-arm64
+Name: Rafiq
+Description: Islamic companion - Qibla indicator in Compass, native prayer-time alarms in Clock, and a Home Screen widget with your agenda, reminders, alarms, weather and the 99 Names. Offline, modular, localized in 7 languages, with a Settings page.
+Author: AnubisTweaks
 Maintainer: AnubisTweaks
-Installed-Size: 31060
+Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Architecture: iphoneos-arm64
+Version: 1.4
+Installed-Size: 31060
 Filename: debfiles/eg.anubistweaks.rafiq_1.4_iphoneos-arm64.deb
 Size: 26776824
 MD5sum: 9f19fcf9d1878bb9f67246b70ed9772a
 SHA1: 73ae0485f5b7f3e4822456b1f7a4db345689fee1
 SHA256: 2b917ea5015c9b1bad44aab39616469f7a88a782adfb00b8bf5419b41d092a10
-Section: Tweaks
-Description: Islamic companion - Qibla indicator in Compass, native prayer-time alarms in Clock, and a Home Screen widget with your agenda, reminders, alarms, weather and the 99 Names. Offline, modular, localized in 7 languages, with a Settings page.
-Author: AnubisTweaks
-Name: Rafiq
 
 Package: eg.anubistweaks.rafiq
-Version: 1.4
-Architecture: iphoneos-arm64e
+Name: Rafiq
+Description: Islamic companion - Qibla indicator in Compass, native prayer-time alarms in Clock, and a Home Screen widget with your agenda, reminders, alarms, weather and the 99 Names. Offline, modular, localized in 7 languages, with a Settings page.
+Author: AnubisTweaks
 Maintainer: AnubisTweaks
-Installed-Size: 31060
+Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Architecture: iphoneos-arm64e
+Version: 1.4
+Installed-Size: 31060
 Filename: debfiles/eg.anubistweaks.rafiq_1.4_iphoneos-arm64e.deb
 Size: 26777766
 MD5sum: 11365bc16b6634251948aaf805835597
 SHA1: 90a6606057e7fa694e7d7fe38c313356e3b534c5
 SHA256: d8a01573609b462cae3d3230a9d03db5a8a01b091b3ceabf298c6a93f5f4e252
-Section: Tweaks
-Description: Islamic companion - Qibla indicator in Compass, native prayer-time alarms in Clock, and a Home Screen widget with your agenda, reminders, alarms, weather and the 99 Names. Offline, modular, localized in 7 languages, with a Settings page.
-Author: AnubisTweaks
-Name: Rafiq
 
 Package: eg.anubistweaks.surgecc
-Version: 1.0.0-3+debug
-Architecture: iphoneos-arm64e
+Name: SurgeCC
+Description: Control Center toggle for start and stop Surge connection 
 Maintainer: Anubistweaks
-Installed-Size: 712
+Author: Anubistweaks
+Section: Control Center (Modules)
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Architecture: iphoneos-arm64e
+Version: 1.0.0-3+debug
+Installed-Size: 712
 Filename: debfiles/eg.anubistweaks.surgecc_1.0.0_iphoneos-arm64.deb
 Size: 35036
 MD5sum: 3814fdb1087636015e493de36604bd10
 SHA1: e071392f96aa8393e2216cd9c36796d54f06f23c
 SHA256: 465f6d73794596c4a8962d18bbb0e1a1bacaf7dfa215f8ed203294df76acbad8
-Section: Control Center (Modules)
-Description: Control Center toggle for start and stop Surge connection
-Author: Anubistweaks
-Name: SurgeCC
 
 Package: eg.anubistweaks.surgecc
-Version: 1.0.0-4+debug
-Architecture: iphoneos-arm64
+Name: SurgeCC
+Description: Control Center toggle for start and stop Surge connection 
 Maintainer: Anubistweaks
-Installed-Size: 712
+Author: Anubistweaks
+Section: Control Center (Modules)
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Architecture: iphoneos-arm64
+Version: 1.0.0-4+debug
+Installed-Size: 712
 Filename: debfiles/eg.anubistweaks.surgecc_1.0.0_iphoneos-arm64e.deb
 Size: 34920
 MD5sum: 27e737f345e555b9fa705a6edca0b1c3
 SHA1: 7f5b44c2dd647bfa82db94f4a2992c15e1f13a99
 SHA256: fee2c6b0c08127ef53284b18e4ebd75e776f10f23ac600d5489203383734c432
-Section: Control Center (Modules)
-Description: Control Center toggle for start and stop Surge connection
-Author: Anubistweaks
-Name: SurgeCC
+
+Package: eg.anubistweaks.tikflag
+Name: TikFlag
+Description: Shows the account region flag on TikTok profiles, with an account info card
+Maintainer: AnubisTweaks
+Author: AnubisTweaks
+Section: Tweaks
+Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/tikflag/icon.png
+Depends: mobilesubstrate, firmware (>= 15.0)
+Architecture: iphoneos-arm
+Version: 1.0
+Installed-Size: 272
+Filename: debfiles/eg.anubistweaks.tikflag_1.0_iphoneos-arm.deb
+Size: 37546
+MD5sum: 83ea3d6b0f048c62a660510922cb539b
+SHA1: 457fc326e39db46c7148797718df5693288f9cb5
+SHA256: 33e6f3aa8f1c654820ba0ee8495d02936f519cb1eaba30cacc97dc022a9ad2ba
+
+Package: eg.anubistweaks.tikflag
+Name: TikFlag
+Description: Shows the account region flag on TikTok profiles, with an account info card
+Maintainer: AnubisTweaks
+Author: AnubisTweaks
+Section: Tweaks
+Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/tikflag/icon.png
+Depends: mobilesubstrate, firmware (>= 15.0)
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 272
+Filename: debfiles/eg.anubistweaks.tikflag_1.0_iphoneos-arm64.deb
+Size: 37642
+MD5sum: 052ce17d90a9de52dd17bea3fd7a1f95
+SHA1: dd929bac89e24e19bdb1f18178ea3d121f19274b
+SHA256: a0acb40e09a3bd9e08e49ac8417c6e8b942b51ba4add05a4ba2a085718a7cb1a
+
+Package: eg.anubistweaks.tikflag
+Name: TikFlag
+Description: Shows the account region flag on TikTok profiles, with an account info card
+Maintainer: AnubisTweaks
+Author: AnubisTweaks
+Section: Tweaks
+Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/tikflag/icon.png
+Depends: mobilesubstrate, firmware (>= 15.0)
+Architecture: iphoneos-arm64e
+Version: 1.0
+Installed-Size: 272
+Filename: debfiles/eg.anubistweaks.tikflag_1.0_iphoneos-arm64e.deb
+Size: 37602
+MD5sum: 47b0c40fa3260540535e9e7c779edcc1
+SHA1: 4311eb9f7fbc6b14afdad8a7777b32dbf08d379a
+SHA256: 1d3ff840e6e2dec925a7f03c77a07d4b71aadbe12c3ff862f4a050b95c60ef6c
+
+Package: eg.anubistweaks.xflag
+Name: XFlag
+Description: Display account flag information on X profiles
+Maintainer: AnubisTweaks
+Author: AnubisTweaks
+Section: Tweaks
+Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/xflag/icon.png
+Depends: mobilesubstrate, firmware (>= 15.0)
+Architecture: iphoneos-arm
+Version: 1.0
+Installed-Size: 304
+Filename: debfiles/eg.anubistweaks.xflag_1.0_iphoneos-arm.deb
+Size: 38116
+MD5sum: 8b19cd882219ed37b47856fdaa7cb67f
+SHA1: 2cef0cc58ee5fdf9aea9103c05590a0f2660e312
+SHA256: 04a611af463f846e3f058d3630146c269c4c465056cc2df5ec08b0eab32d8df8
+
+Package: eg.anubistweaks.xflag
+Name: XFlag
+Description: Display account flag information on X profiles
+Maintainer: AnubisTweaks
+Author: AnubisTweaks
+Section: Tweaks
+Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/xflag/icon.png
+Depends: mobilesubstrate, firmware (>= 15.0)
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 304
+Filename: debfiles/eg.anubistweaks.xflag_1.0_iphoneos-arm64.deb
+Size: 38388
+MD5sum: b578667aeb5ef3809053b3fe6ec16151
+SHA1: 3a1239366d8d913078b4b0bd52ee4cad9a691b4b
+SHA256: b14e66b92ea8297d12cc4a77de5f26c31365243fa8d311d1df19cf8d54621ea7
+
+Package: eg.anubistweaks.xflag
+Name: XFlag
+Description: Display account flag information on X profiles
+Maintainer: AnubisTweaks
+Author: AnubisTweaks
+Section: Tweaks
+Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/xflag/icon.png
+Depends: mobilesubstrate, firmware (>= 15.0)
+Architecture: iphoneos-arm64e
+Version: 1.0
+Installed-Size: 304
+Filename: debfiles/eg.anubistweaks.xflag_1.0_iphoneos-arm64e.deb
+Size: 38214
+MD5sum: 0bc5778c06ece9338a6ae08a3794c39e
+SHA1: 8aebdcc412f2b98e99f843b8d92867d777fab60a
+SHA256: a181fee7d98d71e98475fab05e264cc4ccc88d6b68b6ced1ae60964d35e7c8b7
 
 Package: emt.paisseon.xinamine
-Version: 0.0.5
-Architecture: iphoneos-arm64
+Name: Xinamine
+Description: Add Xina tweak compatibility to Dopamine
 Maintainer: Sudo + Paisseon
-Installed-Size: 564
+Author: Sudo + Paisseon
+Section: System
 Depends: ellekit, oldabi | cy+cpu.arm64, firmware (>= 15.0)
+SileoDepiction: https://paisseon.github.io/depictions/Xinamine.json
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Xinamine.png
+Architecture: iphoneos-arm64
+Version: 0.0.5
+Installed-Size: 564
 Filename: debfiles/emt.paisseon.xinamine_0.0.5_iphoneos-arm64.deb
 Size: 70006
 MD5sum: 7f8ed32b1fd837e82809b7f2b2600998
 SHA1: cca516b753396474b40a2d686795801a528a107a
 SHA256: 84c09be66731624a44a2f39b2acb8e90db6130cd14874bc1e127aafe7332c6c4
-Section: System
-Description: Add Xina tweak compatibility to Dopamine
-Author: Sudo + Paisseon
-Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
-Icon: https://paisseon.github.io/icons/Xinamine.png
-Name: Xinamine
-Sileodepiction: https://paisseon.github.io/depictions/Xinamine.json
 
 Package: me.anubistweaks.cocoatoptoggle
-Version: 1.0.0
+Name: CocoatopToggle
 Architecture: iphoneos-arm
+Description: An awesome Control Center module!
 Maintainer: AnubisTweaks
-Installed-Size: 144
+Author: AnubisTweaks
+Section: Tweaks
 Depends: mobilesubstrate
+Version: 1.0.0
+Installed-Size: 144
 Filename: debfiles/me.anubistweaks.cocoatoptoggle_1.0.0_iphoneos-arm.deb
 Size: 9226
 MD5sum: e4cae488f8b52fc44c49aba00d39025c
 SHA1: 40228df1560565f8fd78d3d41b9ff1c3af676f6e
 SHA256: 4de4caf279e6248797482d082d541ef5923c29f203998e6e76d023a0d3f6ed5a
-Section: Tweaks
-Description: An awesome Control Center module!
-Author: AnubisTweaks
-Name: CocoatopToggle
 
 Package: me.anubistweaks.cocoatoptoggle
-Version: 1.0.0
+Name: CocoatopToggle
 Architecture: iphoneos-arm64
+Description: Cocoatop ccToggle.
 Maintainer: AnubisTweaks
-Installed-Size: 144
+Author: AnubisTweaks
+Section: Tweaks
 Depends: mobilesubstrate
+Depiction: https://AnubisTweaks.github.io/description.html?id=me.anubistweaks.cocoatoptoggle
+Version: 1.0.0
+Installed-Size: 144
 Filename: debfiles/me.anubistweaks.cocoatoptoggle_1.0.0_iphoneos-arm64.deb
 Size: 11626
 MD5sum: 41258a416b3fbf549155da4efdfbc6e3
 SHA1: b9f95f9707941c35c5858724e658eb3975850c01
 SHA256: c32d4a2e4a24c95c1aa54bff686e9ff0442065d0f574e7c53b5c9349f0fe7ec9
-Section: Tweaks
-Description: Cocoatop ccToggle.
-Author: AnubisTweaks
-Depiction: https://AnubisTweaks.github.io/description.html?id=me.anubistweaks.cocoatoptoggle
-Name: CocoatopToggle
 
 Package: me.anubistweaks.surgelauncher
-Version: 1.0.0
-Architecture: iphoneos-arm
+Name: SurgeLauncher
+Description: An awesome Control Center module!
 Maintainer: AnubisTweaks
-Installed-Size: 152
+Author: AnubisTweaks
+Section: Tweaks
 Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Version: 1.0.0
+Installed-Size: 152
 Filename: debfiles/me.anubistweaks.surgelauncher_1.0.0_iphoneos-arm.deb
 Size: 13568
 MD5sum: 08f38f1c809f1c7c67d3576686580894
 SHA1: c25bf422a85ff18a1320b42f87945593bbbc8929
 SHA256: 7a4d82fbf3d56f10b87fd63e22c3d442f098693340e17a03ec2f5889b9145ec6
-Section: Tweaks
-Description: An awesome Control Center module!
-Author: AnubisTweaks
-Name: SurgeLauncher
 
 Package: me.anubistweaks.surgelauncher
-Version: 1.0.0
-Architecture: iphoneos-arm64
+Name: SurgeLauncher
+Description: An awesome Control Center module!
 Maintainer: AnubisTweaks
-Installed-Size: 152
+Author: AnubisTweaks
+Section: Tweaks
 Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Installed-Size: 152
 Filename: debfiles/me.anubistweaks.surgelauncher_1.0.0_iphoneos-arm64.deb
 Size: 13476
 MD5sum: 1c82adfc4ea663cf1d96cf5bafc885ad
 SHA1: 22a04475eb669fa1b3e943432dd040747f9eccf3
 SHA256: 17787edace0d25221992ee433ffb3e782a48a55a99f4d898700ae854522e2fcb
-Section: Tweaks
-Description: An awesome Control Center module!
-Author: AnubisTweaks
-Name: SurgeLauncher
 
 Package: me.nepeta.selector
-Version: 0.1.3
-Architecture: iphoneos-arm64
-Maintainer: AnubisTweaks
-Installed-Size: 400
+Name: Selector
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Description: Select text to search or translate
+Maintainer: AnubisTweaks
+Author: Nepeta & Baw Appie
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 0.1.3
+Installed-Size: 400
 Filename: debfiles/me.nepeta.selector_0.1.3_iphoneos-arm64.deb
 Size: 31768
 MD5sum: b72176360b1cdebba920c16559a757f7
 SHA1: 22bdc3413e7c07ef1a4adcf23b0d92555adcfb8e
 SHA256: 97c8b1886ec504738b43444904371a7e1ebc76c3a7072e617a964ce89d2fff75
-Section: Tweaks
-Description: Select text to search or translate
-Author: Nepeta & Baw Appie
-Name: Selector
 
 Package: run.er.wormctrl
-Version: 1.1.0
+Name: Blackhole Plugin (rootless)
 Architecture: iphoneos-arm64
-Maintainer: AnubisTweaks
-Installed-Size: 1172
 Depends: mobilesubstrate, preferenceloader,oldabi
+Description: This is the plugin of blackhole.
+Maintainer: AnubisTweaks
+Author: yu + AnubisTweaks
+Section: System
+Tag: role::hacker
+Version: 1.1.0
+Installed-Size: 1172
 Filename: debfiles/run.er.wormctrl_1.1.0_iphoneos-arm64.deb
 Size: 299020
 MD5sum: f9b10ac8d55988c599cb02d68fd26881
 SHA1: 2ac2a6457e89fa93fbe55b4ccd48cb7d00bbf8b9
 SHA256: cbcdb3d7746391eb7dbbe7596435c8c7a01ade1a73dcfe4baae9f6710851d468
-Section: System
-Description: This is the plugin of blackhole.
-Tag: role::hacker
-Author: yu + AnubisTweaks
-Name: Blackhole Plugin (rootless)
 
 Package: xyz.xninja.systeminfo
+Name: System Info (rootless)
+Depends: mobilesubstrate, oldabi
 Version: 2.7.2-3
 Architecture: iphoneos-arm64
+Description: System information in Settings app > General > About, and other sections. Set boot-nonce, save SHSH, battery info etc
+Depiction: https://arx8x.github.io/depictions/systeminfo.html
 Maintainer: AnubisTweaks
-Depends: mobilesubstrate, oldabi
+Author: ARX8x + AnubisTweaks
+Section: Tweaks
 Filename: debfiles/xyz.xninja.systeminfo_2.7.2-2_iphoneos-arm64.deb
 Size: 272868
 MD5sum: e6fa4c8f19d5f866c3653b47bf17ce03
 SHA1: 03e5d5b8316d9e540e1e6f3394b85a41fffbfbed
 SHA256: d528a67a6470368aafb879971dc1323d57be61c21ffe9383cfa9926e98c9e1e8
-Section: Tweaks
-Description: System information in Settings app > General > About, and other sections. Set boot-nonce, save SHSH, battery info etc
-Author: ARX8x + AnubisTweaks
-Depiction: https://arx8x.github.io/depictions/systeminfo.html
-Name: System Info (rootless)
 
