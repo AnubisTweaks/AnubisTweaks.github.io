@@ -909,6 +909,57 @@ MD5sum: 0bc5778c06ece9338a6ae08a3794c39e
 SHA1: 8aebdcc412f2b98e99f843b8d92867d777fab60a
 SHA256: a181fee7d98d71e98475fab05e264cc4ccc88d6b68b6ced1ae60964d35e7c8b7
 
+Package: eg.anubistweaks.xflag
+Name: XFlag
+Description: Display account flag information on X profiles
+Maintainer: AnubisTweaks
+Author: AnubisTweaks
+Section: Tweaks
+Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/xflag/icon.png
+Depends: mobilesubstrate, firmware (>= 15.0)
+Architecture: iphoneos-arm
+Version: 1.1
+Installed-Size: 304
+Filename: debfiles/eg.anubistweaks.xflag_1.1_iphoneos-arm.deb
+Size: 39372
+MD5sum: 0fd48efa9b35cde43742a4d860fb4584
+SHA1: 71ec8faf6c0b83ae6fc1172749abe71e64ff6cc2
+SHA256: d625efb4607a524c37de244be264906a3232ceacc269663302d9731ba0e24126
+
+Package: eg.anubistweaks.xflag
+Name: XFlag
+Description: Display account flag information on X profiles
+Maintainer: AnubisTweaks
+Author: AnubisTweaks
+Section: Tweaks
+Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/xflag/icon.png
+Depends: mobilesubstrate, firmware (>= 15.0)
+Architecture: iphoneos-arm64
+Version: 1.1
+Installed-Size: 304
+Filename: debfiles/eg.anubistweaks.xflag_1.1_iphoneos-arm64.deb
+Size: 39512
+MD5sum: d9dbe1c47c3cb4d42a515c6aa04ae801
+SHA1: 75bb74291565c185e1166c557ddcc0c72d3cf19c
+SHA256: 0399fe37f609aa803ab5a43872b6e6c43d2a381afe1517bfcae81297d96d731c
+
+Package: eg.anubistweaks.xflag
+Name: XFlag
+Description: Display account flag information on X profiles
+Maintainer: AnubisTweaks
+Author: AnubisTweaks
+Section: Tweaks
+Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/xflag/icon.png
+Depends: mobilesubstrate, firmware (>= 15.0)
+Architecture: iphoneos-arm64e
+Version: 1.1
+Installed-Size: 304
+Filename: debfiles/eg.anubistweaks.xflag_1.1_iphoneos-arm64e.deb
+Size: 39456
+MD5sum: b7256945285391116995753f262ce532
+SHA1: 8f00cf49508996b7ea1ff4b7debd8efef31865f3
+SHA256: 045eb456b0aead4e3889a5b743a5b6b23a48e9d232e14be2533a0c32ad6ecc28
+
 Package: emt.paisseon.xinamine
 Name: Xinamine
 Description: Add Xina tweak compatibility to Dopamine
